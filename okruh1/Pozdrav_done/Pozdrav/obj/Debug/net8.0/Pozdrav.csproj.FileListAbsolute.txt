@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\Pozdrav\Pozdrav\bin\Debug\net8.0\Pozdrav.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\Pozdrav\Pozdrav\bin\Debug\net8.0\Pozdrav.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\Pozdrav\Pozdrav\bin\Debug\net8.0\Pozdrav.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\Pozdrav\Pozdrav\bin\Debug\net8.0\Pozdrav.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\Pozdrav\Pozdrav\bin\Debug\net8.0\Pozdrav.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\Pozdrav\Pozdrav\obj\Debug\net8.0\Pozdrav.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\Pozdrav\Pozdrav\obj\Debug\net8.0\Pozdrav.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\Pozdrav\Pozdrav\obj\Debug\net8.0\Pozdrav.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\Pozdrav\Pozdrav\obj\Debug\net8.0\Pozdrav.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\Pozdrav\Pozdrav\obj\Debug\net8.0\Pozdrav.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\Pozdrav\Pozdrav\obj\Debug\net8.0\Pozdrav.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\Pozdrav\Pozdrav\obj\Debug\net8.0\refint\Pozdrav.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\Pozdrav\Pozdrav\obj\Debug\net8.0\Pozdrav.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\Pozdrav\Pozdrav\obj\Debug\net8.0\Pozdrav.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\Pozdrav\Pozdrav\obj\Debug\net8.0\ref\Pozdrav.dll

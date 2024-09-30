@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nej_skola\nej_skola\bin\Debug\net8.0\nej_skola.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nej_skola\nej_skola\bin\Debug\net8.0\nej_skola.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nej_skola\nej_skola\bin\Debug\net8.0\nej_skola.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nej_skola\nej_skola\bin\Debug\net8.0\nej_skola.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nej_skola\nej_skola\bin\Debug\net8.0\nej_skola.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nej_skola\nej_skola\obj\Debug\net8.0\nej_skola.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nej_skola\nej_skola\obj\Debug\net8.0\nej_skola.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nej_skola\nej_skola\obj\Debug\net8.0\nej_skola.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nej_skola\nej_skola\obj\Debug\net8.0\nej_skola.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nej_skola\nej_skola\obj\Debug\net8.0\nej_skola.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nej_skola\nej_skola\obj\Debug\net8.0\nej_skola.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nej_skola\nej_skola\obj\Debug\net8.0\refint\nej_skola.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nej_skola\nej_skola\obj\Debug\net8.0\nej_skola.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nej_skola\nej_skola\obj\Debug\net8.0\nej_skola.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nej_skola\nej_skola\obj\Debug\net8.0\ref\nej_skola.dll
