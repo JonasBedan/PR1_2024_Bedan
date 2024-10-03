@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\pythagorova_veta\pythagorova_veta\bin\Debug\net8.0\pythagorova_veta.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\pythagorova_veta\pythagorova_veta\bin\Debug\net8.0\pythagorova_veta.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\pythagorova_veta\pythagorova_veta\bin\Debug\net8.0\pythagorova_veta.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\pythagorova_veta\pythagorova_veta\bin\Debug\net8.0\pythagorova_veta.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\pythagorova_veta\pythagorova_veta\bin\Debug\net8.0\pythagorova_veta.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\pythagorova_veta\pythagorova_veta\obj\Debug\net8.0\pythagorova_veta.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\pythagorova_veta\pythagorova_veta\obj\Debug\net8.0\pythagorova_veta.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\pythagorova_veta\pythagorova_veta\obj\Debug\net8.0\pythagorova_veta.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\pythagorova_veta\pythagorova_veta\obj\Debug\net8.0\pythagorova_veta.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\pythagorova_veta\pythagorova_veta\obj\Debug\net8.0\pythagorova_veta.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\pythagorova_veta\pythagorova_veta\obj\Debug\net8.0\pythagorova_veta.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\pythagorova_veta\pythagorova_veta\obj\Debug\net8.0\refint\pythagorova_veta.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\pythagorova_veta\pythagorova_veta\obj\Debug\net8.0\pythagorova_veta.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\pythagorova_veta\pythagorova_veta\obj\Debug\net8.0\pythagorova_veta.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\pythagorova_veta\pythagorova_veta\obj\Debug\net8.0\ref\pythagorova_veta.dll

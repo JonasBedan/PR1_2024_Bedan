@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\kvadr_objem_povrch\kvadr_objem_povrch\bin\Debug\net8.0\kvadr_objem_povrch.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\kvadr_objem_povrch\kvadr_objem_povrch\bin\Debug\net8.0\kvadr_objem_povrch.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\kvadr_objem_povrch\kvadr_objem_povrch\bin\Debug\net8.0\kvadr_objem_povrch.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\kvadr_objem_povrch\kvadr_objem_povrch\bin\Debug\net8.0\kvadr_objem_povrch.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\kvadr_objem_povrch\kvadr_objem_povrch\bin\Debug\net8.0\kvadr_objem_povrch.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\kvadr_objem_povrch\kvadr_objem_povrch\obj\Debug\net8.0\kvadr_objem_povrch.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\kvadr_objem_povrch\kvadr_objem_povrch\obj\Debug\net8.0\kvadr_objem_povrch.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\kvadr_objem_povrch\kvadr_objem_povrch\obj\Debug\net8.0\kvadr_objem_povrch.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\kvadr_objem_povrch\kvadr_objem_povrch\obj\Debug\net8.0\kvadr_objem_povrch.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\kvadr_objem_povrch\kvadr_objem_povrch\obj\Debug\net8.0\kvadr_objem_povrch.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\kvadr_objem_povrch\kvadr_objem_povrch\obj\Debug\net8.0\kvadr_objem_povrch.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\kvadr_objem_povrch\kvadr_objem_povrch\obj\Debug\net8.0\refint\kvadr_objem_povrch.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\kvadr_objem_povrch\kvadr_objem_povrch\obj\Debug\net8.0\kvadr_objem_povrch.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\kvadr_objem_povrch\kvadr_objem_povrch\obj\Debug\net8.0\kvadr_objem_povrch.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\kvadr_objem_povrch\kvadr_objem_povrch\obj\Debug\net8.0\ref\kvadr_objem_povrch.dll

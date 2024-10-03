@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nakupni_seznam\nakupni_seznam\bin\Debug\net8.0\nakupni_seznam.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nakupni_seznam\nakupni_seznam\bin\Debug\net8.0\nakupni_seznam.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nakupni_seznam\nakupni_seznam\bin\Debug\net8.0\nakupni_seznam.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nakupni_seznam\nakupni_seznam\bin\Debug\net8.0\nakupni_seznam.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nakupni_seznam\nakupni_seznam\bin\Debug\net8.0\nakupni_seznam.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\refint\nakupni_seznam.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\ref\nakupni_seznam.dll
