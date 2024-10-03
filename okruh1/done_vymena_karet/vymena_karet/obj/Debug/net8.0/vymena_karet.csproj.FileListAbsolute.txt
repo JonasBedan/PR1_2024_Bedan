@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\vymena_karet\vymena_karet\bin\Debug\net8.0\vymena_karet.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\vymena_karet\vymena_karet\bin\Debug\net8.0\vymena_karet.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\vymena_karet\vymena_karet\bin\Debug\net8.0\vymena_karet.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\vymena_karet\vymena_karet\bin\Debug\net8.0\vymena_karet.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\vymena_karet\vymena_karet\bin\Debug\net8.0\vymena_karet.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\vymena_karet\vymena_karet\obj\Debug\net8.0\vymena_karet.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\vymena_karet\vymena_karet\obj\Debug\net8.0\vymena_karet.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\vymena_karet\vymena_karet\obj\Debug\net8.0\vymena_karet.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\vymena_karet\vymena_karet\obj\Debug\net8.0\vymena_karet.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\vymena_karet\vymena_karet\obj\Debug\net8.0\vymena_karet.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\vymena_karet\vymena_karet\obj\Debug\net8.0\vymena_karet.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\vymena_karet\vymena_karet\obj\Debug\net8.0\refint\vymena_karet.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\vymena_karet\vymena_karet\obj\Debug\net8.0\vymena_karet.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\vymena_karet\vymena_karet\obj\Debug\net8.0\vymena_karet.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh1\vymena_karet\vymena_karet\obj\Debug\net8.0\ref\vymena_karet.dll
