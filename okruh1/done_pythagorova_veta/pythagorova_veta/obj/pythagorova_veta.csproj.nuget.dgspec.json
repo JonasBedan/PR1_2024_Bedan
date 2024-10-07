@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh1\\pythagorova_veta\\pythagorova_veta\\pythagorova_veta.csproj": {}
+    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh1\\done_pythagorova_veta\\pythagorova_veta\\pythagorova_veta.csproj": {}
   },
   "projects": {
-    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh1\\pythagorova_veta\\pythagorova_veta\\pythagorova_veta.csproj": {
+    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh1\\done_pythagorova_veta\\pythagorova_veta\\pythagorova_veta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh1\\pythagorova_veta\\pythagorova_veta\\pythagorova_veta.csproj",
+        "projectUniqueName": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh1\\done_pythagorova_veta\\pythagorova_veta\\pythagorova_veta.csproj",
         "projectName": "pythagorova_veta",
-        "projectPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh1\\pythagorova_veta\\pythagorova_veta\\pythagorova_veta.csproj",
+        "projectPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh1\\done_pythagorova_veta\\pythagorova_veta\\pythagorova_veta.csproj",
         "packagesPath": "C:\\Users\\jonas\\.nuget\\packages\\",
-        "outputPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh1\\pythagorova_veta\\pythagorova_veta\\obj\\",
+        "outputPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh1\\done_pythagorova_veta\\pythagorova_veta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jonas\\AppData\\Roaming\\NuGet\\NuGet.Config",

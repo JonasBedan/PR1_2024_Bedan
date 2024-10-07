@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\suda_licha\suda_licha\bin\Debug\net8.0\suda_licha.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\suda_licha\suda_licha\bin\Debug\net8.0\suda_licha.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\suda_licha\suda_licha\bin\Debug\net8.0\suda_licha.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\suda_licha\suda_licha\bin\Debug\net8.0\suda_licha.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\suda_licha\suda_licha\bin\Debug\net8.0\suda_licha.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\suda_licha\suda_licha\obj\Debug\net8.0\suda_licha.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\suda_licha\suda_licha\obj\Debug\net8.0\suda_licha.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\suda_licha\suda_licha\obj\Debug\net8.0\suda_licha.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\suda_licha\suda_licha\obj\Debug\net8.0\suda_licha.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\suda_licha\suda_licha\obj\Debug\net8.0\suda_licha.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\suda_licha\suda_licha\obj\Debug\net8.0\suda_licha.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\suda_licha\suda_licha\obj\Debug\net8.0\refint\suda_licha.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\suda_licha\suda_licha\obj\Debug\net8.0\suda_licha.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\suda_licha\suda_licha\obj\Debug\net8.0\suda_licha.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\suda_licha\suda_licha\obj\Debug\net8.0\ref\suda_licha.dll

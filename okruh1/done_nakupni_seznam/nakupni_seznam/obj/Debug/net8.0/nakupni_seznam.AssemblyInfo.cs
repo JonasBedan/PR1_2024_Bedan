@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nakupni_seznam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b79513e2e475ee45e2d69d0ebe9caae332c73556")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81729eb62d17d4c032a04b5da3ca8122e6e96201")]
 [assembly: System.Reflection.AssemblyProductAttribute("nakupni_seznam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nakupni_seznam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

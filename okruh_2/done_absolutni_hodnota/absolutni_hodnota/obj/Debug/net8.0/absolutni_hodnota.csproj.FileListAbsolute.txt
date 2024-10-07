@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\absolutni_hodnota\absolutni_hodnota\bin\Debug\net8.0\absolutni_hodnota.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\absolutni_hodnota\absolutni_hodnota\bin\Debug\net8.0\absolutni_hodnota.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\absolutni_hodnota\absolutni_hodnota\bin\Debug\net8.0\absolutni_hodnota.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\absolutni_hodnota\absolutni_hodnota\bin\Debug\net8.0\absolutni_hodnota.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\absolutni_hodnota\absolutni_hodnota\bin\Debug\net8.0\absolutni_hodnota.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\absolutni_hodnota\absolutni_hodnota\obj\Debug\net8.0\absolutni_hodnota.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\absolutni_hodnota\absolutni_hodnota\obj\Debug\net8.0\absolutni_hodnota.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\absolutni_hodnota\absolutni_hodnota\obj\Debug\net8.0\absolutni_hodnota.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\absolutni_hodnota\absolutni_hodnota\obj\Debug\net8.0\absolutni_hodnota.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\absolutni_hodnota\absolutni_hodnota\obj\Debug\net8.0\absolutni_hodnota.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\absolutni_hodnota\absolutni_hodnota\obj\Debug\net8.0\absolutni_hodnota.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\absolutni_hodnota\absolutni_hodnota\obj\Debug\net8.0\refint\absolutni_hodnota.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\absolutni_hodnota\absolutni_hodnota\obj\Debug\net8.0\absolutni_hodnota.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\absolutni_hodnota\absolutni_hodnota\obj\Debug\net8.0\absolutni_hodnota.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\absolutni_hodnota\absolutni_hodnota\obj\Debug\net8.0\ref\absolutni_hodnota.dll

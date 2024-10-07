@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\chyba_podminka_5\chyba_podminka_5\bin\Debug\net8.0\chyba_podminka_5.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\chyba_podminka_5\chyba_podminka_5\bin\Debug\net8.0\chyba_podminka_5.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\chyba_podminka_5\chyba_podminka_5\bin\Debug\net8.0\chyba_podminka_5.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\chyba_podminka_5\chyba_podminka_5\bin\Debug\net8.0\chyba_podminka_5.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\chyba_podminka_5\chyba_podminka_5\bin\Debug\net8.0\chyba_podminka_5.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\chyba_podminka_5\chyba_podminka_5\obj\Debug\net8.0\chyba_podminka_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\chyba_podminka_5\chyba_podminka_5\obj\Debug\net8.0\chyba_podminka_5.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\chyba_podminka_5\chyba_podminka_5\obj\Debug\net8.0\chyba_podminka_5.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\chyba_podminka_5\chyba_podminka_5\obj\Debug\net8.0\chyba_podminka_5.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\chyba_podminka_5\chyba_podminka_5\obj\Debug\net8.0\chyba_podminka_5.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\chyba_podminka_5\chyba_podminka_5\obj\Debug\net8.0\chyba_podminka_5.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\chyba_podminka_5\chyba_podminka_5\obj\Debug\net8.0\refint\chyba_podminka_5.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\chyba_podminka_5\chyba_podminka_5\obj\Debug\net8.0\chyba_podminka_5.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\chyba_podminka_5\chyba_podminka_5\obj\Debug\net8.0\chyba_podminka_5.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\chyba_podminka_5\chyba_podminka_5\obj\Debug\net8.0\ref\chyba_podminka_5.dll

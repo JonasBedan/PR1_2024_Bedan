@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delitelnost2_3\delitelnost2_3\bin\Debug\net8.0\delitelnost2_3.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delitelnost2_3\delitelnost2_3\bin\Debug\net8.0\delitelnost2_3.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delitelnost2_3\delitelnost2_3\bin\Debug\net8.0\delitelnost2_3.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delitelnost2_3\delitelnost2_3\bin\Debug\net8.0\delitelnost2_3.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delitelnost2_3\delitelnost2_3\bin\Debug\net8.0\delitelnost2_3.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delitelnost2_3\delitelnost2_3\obj\Debug\net8.0\delitelnost2_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delitelnost2_3\delitelnost2_3\obj\Debug\net8.0\delitelnost2_3.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delitelnost2_3\delitelnost2_3\obj\Debug\net8.0\delitelnost2_3.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delitelnost2_3\delitelnost2_3\obj\Debug\net8.0\delitelnost2_3.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delitelnost2_3\delitelnost2_3\obj\Debug\net8.0\delitelnost2_3.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delitelnost2_3\delitelnost2_3\obj\Debug\net8.0\delitelnost2_3.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delitelnost2_3\delitelnost2_3\obj\Debug\net8.0\refint\delitelnost2_3.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delitelnost2_3\delitelnost2_3\obj\Debug\net8.0\delitelnost2_3.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delitelnost2_3\delitelnost2_3\obj\Debug\net8.0\delitelnost2_3.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delitelnost2_3\delitelnost2_3\obj\Debug\net8.0\ref\delitelnost2_3.dll

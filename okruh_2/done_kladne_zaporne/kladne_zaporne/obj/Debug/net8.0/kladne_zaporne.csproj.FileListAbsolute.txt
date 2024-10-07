@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\kladne_zaporne\kladne_zaporne\bin\Debug\net8.0\kladne_zaporne.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\kladne_zaporne\kladne_zaporne\bin\Debug\net8.0\kladne_zaporne.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\kladne_zaporne\kladne_zaporne\bin\Debug\net8.0\kladne_zaporne.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\kladne_zaporne\kladne_zaporne\bin\Debug\net8.0\kladne_zaporne.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\kladne_zaporne\kladne_zaporne\bin\Debug\net8.0\kladne_zaporne.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\kladne_zaporne\kladne_zaporne\obj\Debug\net8.0\kladne_zaporne.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\kladne_zaporne\kladne_zaporne\obj\Debug\net8.0\kladne_zaporne.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\kladne_zaporne\kladne_zaporne\obj\Debug\net8.0\kladne_zaporne.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\kladne_zaporne\kladne_zaporne\obj\Debug\net8.0\kladne_zaporne.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\kladne_zaporne\kladne_zaporne\obj\Debug\net8.0\kladne_zaporne.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\kladne_zaporne\kladne_zaporne\obj\Debug\net8.0\kladne_zaporne.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\kladne_zaporne\kladne_zaporne\obj\Debug\net8.0\refint\kladne_zaporne.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\kladne_zaporne\kladne_zaporne\obj\Debug\net8.0\kladne_zaporne.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\kladne_zaporne\kladne_zaporne\obj\Debug\net8.0\kladne_zaporne.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\kladne_zaporne\kladne_zaporne\obj\Debug\net8.0\ref\kladne_zaporne.dll

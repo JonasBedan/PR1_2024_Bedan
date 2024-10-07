@@ -12,10 +12,7 @@ class MainClass
         double odvesna1 = double.Parse(Console.ReadLine());
         Console.Write("Jak dlouhá je druhá odvěsna (cm):");
         double odvesna2 = double.Parse(Console.ReadLine());
-        double odvesna1sqr = odvesna1*odvesna1;
-        double odvesna2sqr = odvesna2*odvesna1;
-        double prepona_sqr = odvesna1sqr + odvesna2sqr;
-        double prepona = Math.Sqrt(prepona_sqr);
+        double prepona = Math.Sqrt(Math.Pow(odvesna1,2)+Math.Pow(odvesna2,2));
         Console.WriteLine("přepona je dlouhá "+prepona+"cm");**/
 
         Console.Write("jak dlouhá je přepona (cm):");
@@ -28,9 +25,7 @@ class MainClass
         }
         else
         {
-            double preponasqr = prepona * prepona;
-            double odvesnasqr = odvesna * odvesna;
-            double odvesna2 = Math.Sqrt(preponasqr - odvesnasqr);
+            double odvesna2 = Math.Sqrt(Math.Pow(prepona,2) - Math.Pow(odvesna,2));
             Console.WriteLine("druhá odvěsna je dlouhá " + odvesna2 + "cm");
         }
         // Konec prostoru pro kód

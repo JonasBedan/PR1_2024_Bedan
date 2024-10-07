@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\znamkovac\znamkovac\bin\Debug\net8.0\znamkovac.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\znamkovac\znamkovac\bin\Debug\net8.0\znamkovac.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\znamkovac\znamkovac\bin\Debug\net8.0\znamkovac.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\znamkovac\znamkovac\bin\Debug\net8.0\znamkovac.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\znamkovac\znamkovac\bin\Debug\net8.0\znamkovac.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\znamkovac\znamkovac\obj\Debug\net8.0\znamkovac.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\znamkovac\znamkovac\obj\Debug\net8.0\znamkovac.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\znamkovac\znamkovac\obj\Debug\net8.0\znamkovac.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\znamkovac\znamkovac\obj\Debug\net8.0\znamkovac.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\znamkovac\znamkovac\obj\Debug\net8.0\znamkovac.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\znamkovac\znamkovac\obj\Debug\net8.0\znamkovac.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\znamkovac\znamkovac\obj\Debug\net8.0\refint\znamkovac.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\znamkovac\znamkovac\obj\Debug\net8.0\znamkovac.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\znamkovac\znamkovac\obj\Debug\net8.0\znamkovac.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\znamkovac\znamkovac\obj\Debug\net8.0\ref\znamkovac.dll
