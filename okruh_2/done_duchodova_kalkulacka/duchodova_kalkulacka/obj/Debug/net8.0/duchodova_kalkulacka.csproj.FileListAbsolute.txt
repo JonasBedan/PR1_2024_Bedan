@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\duchodova_kalkulacka\duchodova_kalkulacka\bin\Debug\net8.0\duchodova_kalkulacka.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\duchodova_kalkulacka\duchodova_kalkulacka\bin\Debug\net8.0\duchodova_kalkulacka.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\duchodova_kalkulacka\duchodova_kalkulacka\bin\Debug\net8.0\duchodova_kalkulacka.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\duchodova_kalkulacka\duchodova_kalkulacka\bin\Debug\net8.0\duchodova_kalkulacka.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\duchodova_kalkulacka\duchodova_kalkulacka\bin\Debug\net8.0\duchodova_kalkulacka.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\duchodova_kalkulacka\duchodova_kalkulacka\obj\Debug\net8.0\duchodova_kalkulacka.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\duchodova_kalkulacka\duchodova_kalkulacka\obj\Debug\net8.0\duchodova_kalkulacka.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\duchodova_kalkulacka\duchodova_kalkulacka\obj\Debug\net8.0\duchodova_kalkulacka.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\duchodova_kalkulacka\duchodova_kalkulacka\obj\Debug\net8.0\duchodova_kalkulacka.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\duchodova_kalkulacka\duchodova_kalkulacka\obj\Debug\net8.0\duchodova_kalkulacka.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\duchodova_kalkulacka\duchodova_kalkulacka\obj\Debug\net8.0\duchodova_kalkulacka.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\duchodova_kalkulacka\duchodova_kalkulacka\obj\Debug\net8.0\refint\duchodova_kalkulacka.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\duchodova_kalkulacka\duchodova_kalkulacka\obj\Debug\net8.0\duchodova_kalkulacka.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\duchodova_kalkulacka\duchodova_kalkulacka\obj\Debug\net8.0\duchodova_kalkulacka.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\duchodova_kalkulacka\duchodova_kalkulacka\obj\Debug\net8.0\ref\duchodova_kalkulacka.dll

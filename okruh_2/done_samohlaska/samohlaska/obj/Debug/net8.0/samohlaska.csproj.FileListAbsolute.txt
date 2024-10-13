@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\samohlaska\samohlaska\bin\Debug\net8.0\samohlaska.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\samohlaska\samohlaska\bin\Debug\net8.0\samohlaska.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\samohlaska\samohlaska\bin\Debug\net8.0\samohlaska.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\samohlaska\samohlaska\bin\Debug\net8.0\samohlaska.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\samohlaska\samohlaska\bin\Debug\net8.0\samohlaska.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\samohlaska\samohlaska\obj\Debug\net8.0\samohlaska.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\samohlaska\samohlaska\obj\Debug\net8.0\samohlaska.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\samohlaska\samohlaska\obj\Debug\net8.0\samohlaska.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\samohlaska\samohlaska\obj\Debug\net8.0\samohlaska.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\samohlaska\samohlaska\obj\Debug\net8.0\samohlaska.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\samohlaska\samohlaska\obj\Debug\net8.0\samohlaska.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\samohlaska\samohlaska\obj\Debug\net8.0\refint\samohlaska.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\samohlaska\samohlaska\obj\Debug\net8.0\samohlaska.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\samohlaska\samohlaska\obj\Debug\net8.0\samohlaska.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\samohlaska\samohlaska\obj\Debug\net8.0\ref\samohlaska.dll

@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\den_tydne\den_tydne\bin\Debug\net8.0\den_tydne.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\den_tydne\den_tydne\bin\Debug\net8.0\den_tydne.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\den_tydne\den_tydne\bin\Debug\net8.0\den_tydne.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\den_tydne\den_tydne\bin\Debug\net8.0\den_tydne.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\den_tydne\den_tydne\bin\Debug\net8.0\den_tydne.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\den_tydne\den_tydne\obj\Debug\net8.0\refint\den_tydne.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\den_tydne\den_tydne\obj\Debug\net8.0\ref\den_tydne.dll

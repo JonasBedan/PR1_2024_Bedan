@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delka_slova\delka_slova\bin\Debug\net8.0\delka_slova.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delka_slova\delka_slova\bin\Debug\net8.0\delka_slova.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delka_slova\delka_slova\bin\Debug\net8.0\delka_slova.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delka_slova\delka_slova\bin\Debug\net8.0\delka_slova.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delka_slova\delka_slova\bin\Debug\net8.0\delka_slova.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delka_slova\delka_slova\obj\Debug\net8.0\delka_slova.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delka_slova\delka_slova\obj\Debug\net8.0\delka_slova.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delka_slova\delka_slova\obj\Debug\net8.0\delka_slova.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delka_slova\delka_slova\obj\Debug\net8.0\delka_slova.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delka_slova\delka_slova\obj\Debug\net8.0\delka_slova.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delka_slova\delka_slova\obj\Debug\net8.0\delka_slova.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delka_slova\delka_slova\obj\Debug\net8.0\refint\delka_slova.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delka_slova\delka_slova\obj\Debug\net8.0\delka_slova.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delka_slova\delka_slova\obj\Debug\net8.0\delka_slova.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\delka_slova\delka_slova\obj\Debug\net8.0\ref\delka_slova.dll

@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\bool_z_klavesnice\bool_z_klavesnice\bin\Debug\net8.0\bool_z_klavesnice.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\bool_z_klavesnice\bool_z_klavesnice\bin\Debug\net8.0\bool_z_klavesnice.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\bool_z_klavesnice\bool_z_klavesnice\bin\Debug\net8.0\bool_z_klavesnice.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\bool_z_klavesnice\bool_z_klavesnice\bin\Debug\net8.0\bool_z_klavesnice.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\bool_z_klavesnice\bool_z_klavesnice\bin\Debug\net8.0\bool_z_klavesnice.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\bool_z_klavesnice\bool_z_klavesnice\obj\Debug\net8.0\bool_z_klavesnice.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\bool_z_klavesnice\bool_z_klavesnice\obj\Debug\net8.0\bool_z_klavesnice.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\bool_z_klavesnice\bool_z_klavesnice\obj\Debug\net8.0\bool_z_klavesnice.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\bool_z_klavesnice\bool_z_klavesnice\obj\Debug\net8.0\bool_z_klavesnice.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\bool_z_klavesnice\bool_z_klavesnice\obj\Debug\net8.0\bool_z_klavesnice.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\bool_z_klavesnice\bool_z_klavesnice\obj\Debug\net8.0\bool_z_klavesnice.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\bool_z_klavesnice\bool_z_klavesnice\obj\Debug\net8.0\refint\bool_z_klavesnice.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\bool_z_klavesnice\bool_z_klavesnice\obj\Debug\net8.0\bool_z_klavesnice.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\bool_z_klavesnice\bool_z_klavesnice\obj\Debug\net8.0\bool_z_klavesnice.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\bool_z_klavesnice\bool_z_klavesnice\obj\Debug\net8.0\ref\bool_z_klavesnice.dll

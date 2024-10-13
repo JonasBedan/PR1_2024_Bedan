@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\vyssi_cislo\vyssi_cislo\bin\Debug\net8.0\vyssi_cislo.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\vyssi_cislo\vyssi_cislo\bin\Debug\net8.0\vyssi_cislo.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\vyssi_cislo\vyssi_cislo\bin\Debug\net8.0\vyssi_cislo.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\vyssi_cislo\vyssi_cislo\bin\Debug\net8.0\vyssi_cislo.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\vyssi_cislo\vyssi_cislo\bin\Debug\net8.0\vyssi_cislo.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\vyssi_cislo\vyssi_cislo\obj\Debug\net8.0\vyssi_cislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\vyssi_cislo\vyssi_cislo\obj\Debug\net8.0\vyssi_cislo.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\vyssi_cislo\vyssi_cislo\obj\Debug\net8.0\vyssi_cislo.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\vyssi_cislo\vyssi_cislo\obj\Debug\net8.0\vyssi_cislo.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\vyssi_cislo\vyssi_cislo\obj\Debug\net8.0\vyssi_cislo.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\vyssi_cislo\vyssi_cislo\obj\Debug\net8.0\vyssi_cislo.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\vyssi_cislo\vyssi_cislo\obj\Debug\net8.0\refint\vyssi_cislo.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\vyssi_cislo\vyssi_cislo\obj\Debug\net8.0\vyssi_cislo.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\vyssi_cislo\vyssi_cislo\obj\Debug\net8.0\vyssi_cislo.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\vyssi_cislo\vyssi_cislo\obj\Debug\net8.0\ref\vyssi_cislo.dll

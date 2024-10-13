@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\dnu_v_mesici\dnu_v_mesici\bin\Debug\net8.0\dnu_v_mesici.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\dnu_v_mesici\dnu_v_mesici\bin\Debug\net8.0\dnu_v_mesici.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\dnu_v_mesici\dnu_v_mesici\bin\Debug\net8.0\dnu_v_mesici.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\dnu_v_mesici\dnu_v_mesici\bin\Debug\net8.0\dnu_v_mesici.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\dnu_v_mesici\dnu_v_mesici\bin\Debug\net8.0\dnu_v_mesici.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\dnu_v_mesici\dnu_v_mesici\obj\Debug\net8.0\dnu_v_mesici.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\dnu_v_mesici\dnu_v_mesici\obj\Debug\net8.0\dnu_v_mesici.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\dnu_v_mesici\dnu_v_mesici\obj\Debug\net8.0\dnu_v_mesici.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\dnu_v_mesici\dnu_v_mesici\obj\Debug\net8.0\dnu_v_mesici.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\dnu_v_mesici\dnu_v_mesici\obj\Debug\net8.0\dnu_v_mesici.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\dnu_v_mesici\dnu_v_mesici\obj\Debug\net8.0\dnu_v_mesici.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\dnu_v_mesici\dnu_v_mesici\obj\Debug\net8.0\refint\dnu_v_mesici.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\dnu_v_mesici\dnu_v_mesici\obj\Debug\net8.0\dnu_v_mesici.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\dnu_v_mesici\dnu_v_mesici\obj\Debug\net8.0\dnu_v_mesici.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\dnu_v_mesici\dnu_v_mesici\obj\Debug\net8.0\ref\dnu_v_mesici.dll
