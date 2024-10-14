@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("delka_slova")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4e965fc3c8ae072a9a666805197d2c2e0b73d16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67dfd5c2d21f4aed39cee8e420a6650fcf35740a")]
 [assembly: System.Reflection.AssemblyProductAttribute("delka_slova")]
 [assembly: System.Reflection.AssemblyTitleAttribute("delka_slova")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

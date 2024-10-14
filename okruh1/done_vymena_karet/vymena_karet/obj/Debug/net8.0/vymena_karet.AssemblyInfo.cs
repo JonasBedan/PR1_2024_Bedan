@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vymena_karet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b79513e2e475ee45e2d69d0ebe9caae332c73556")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67dfd5c2d21f4aed39cee8e420a6650fcf35740a")]
 [assembly: System.Reflection.AssemblyProductAttribute("vymena_karet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vymena_karet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

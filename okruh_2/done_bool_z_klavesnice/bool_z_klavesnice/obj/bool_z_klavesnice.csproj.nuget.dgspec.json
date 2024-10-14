@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\bool_z_klavesnice\\bool_z_klavesnice\\bool_z_klavesnice.csproj": {}
+    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\done_bool_z_klavesnice\\bool_z_klavesnice\\bool_z_klavesnice.csproj": {}
   },
   "projects": {
-    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\bool_z_klavesnice\\bool_z_klavesnice\\bool_z_klavesnice.csproj": {
+    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\done_bool_z_klavesnice\\bool_z_klavesnice\\bool_z_klavesnice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\bool_z_klavesnice\\bool_z_klavesnice\\bool_z_klavesnice.csproj",
+        "projectUniqueName": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\done_bool_z_klavesnice\\bool_z_klavesnice\\bool_z_klavesnice.csproj",
         "projectName": "bool_z_klavesnice",
-        "projectPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\bool_z_klavesnice\\bool_z_klavesnice\\bool_z_klavesnice.csproj",
+        "projectPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\done_bool_z_klavesnice\\bool_z_klavesnice\\bool_z_klavesnice.csproj",
         "packagesPath": "C:\\Users\\jonas\\.nuget\\packages\\",
-        "outputPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\bool_z_klavesnice\\bool_z_klavesnice\\obj\\",
+        "outputPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\done_bool_z_klavesnice\\bool_z_klavesnice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jonas\\AppData\\Roaming\\NuGet\\NuGet.Config",

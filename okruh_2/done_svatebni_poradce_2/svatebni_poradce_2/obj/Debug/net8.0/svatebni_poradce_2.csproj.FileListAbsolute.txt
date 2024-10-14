@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\svatebni_poradce_2\svatebni_poradce_2\bin\Debug\net8.0\svatebni_poradce_2.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\svatebni_poradce_2\svatebni_poradce_2\bin\Debug\net8.0\svatebni_poradce_2.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\svatebni_poradce_2\svatebni_poradce_2\bin\Debug\net8.0\svatebni_poradce_2.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\svatebni_poradce_2\svatebni_poradce_2\bin\Debug\net8.0\svatebni_poradce_2.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\svatebni_poradce_2\svatebni_poradce_2\bin\Debug\net8.0\svatebni_poradce_2.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\svatebni_poradce_2\svatebni_poradce_2\obj\Debug\net8.0\svatebni_poradce_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\svatebni_poradce_2\svatebni_poradce_2\obj\Debug\net8.0\svatebni_poradce_2.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\svatebni_poradce_2\svatebni_poradce_2\obj\Debug\net8.0\svatebni_poradce_2.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\svatebni_poradce_2\svatebni_poradce_2\obj\Debug\net8.0\svatebni_poradce_2.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\svatebni_poradce_2\svatebni_poradce_2\obj\Debug\net8.0\svatebni_poradce_2.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\svatebni_poradce_2\svatebni_poradce_2\obj\Debug\net8.0\svatebni_poradce_2.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\svatebni_poradce_2\svatebni_poradce_2\obj\Debug\net8.0\refint\svatebni_poradce_2.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\svatebni_poradce_2\svatebni_poradce_2\obj\Debug\net8.0\svatebni_poradce_2.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\svatebni_poradce_2\svatebni_poradce_2\obj\Debug\net8.0\svatebni_poradce_2.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\svatebni_poradce_2\svatebni_poradce_2\obj\Debug\net8.0\ref\svatebni_poradce_2.dll

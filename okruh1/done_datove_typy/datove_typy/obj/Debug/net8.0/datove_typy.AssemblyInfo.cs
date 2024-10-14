@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("datove_typy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+182b92556d3d3f89b06bf3fb3dfc9ef4080d12f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67dfd5c2d21f4aed39cee8e420a6650fcf35740a")]
 [assembly: System.Reflection.AssemblyProductAttribute("datove_typy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("datove_typy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

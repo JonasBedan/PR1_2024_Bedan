@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh1\\vymena_karet\\vymena_karet\\vymena_karet.csproj",
+      "projectUniqueName": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh1\\done_vymena_karet\\vymena_karet\\vymena_karet.csproj",
       "projectName": "vymena_karet",
-      "projectPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh1\\vymena_karet\\vymena_karet\\vymena_karet.csproj",
+      "projectPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh1\\done_vymena_karet\\vymena_karet\\vymena_karet.csproj",
       "packagesPath": "C:\\Users\\jonas\\.nuget\\packages\\",
-      "outputPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh1\\vymena_karet\\vymena_karet\\obj\\",
+      "outputPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh1\\done_vymena_karet\\vymena_karet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jonas\\AppData\\Roaming\\NuGet\\NuGet.Config",

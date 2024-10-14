@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\zapis_zlomku\zapis_zlomku\bin\Debug\net8.0\zapis_zlomku.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\zapis_zlomku\zapis_zlomku\bin\Debug\net8.0\zapis_zlomku.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\zapis_zlomku\zapis_zlomku\bin\Debug\net8.0\zapis_zlomku.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\zapis_zlomku\zapis_zlomku\bin\Debug\net8.0\zapis_zlomku.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\zapis_zlomku\zapis_zlomku\bin\Debug\net8.0\zapis_zlomku.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\zapis_zlomku\zapis_zlomku\obj\Debug\net8.0\zapis_zlomku.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\zapis_zlomku\zapis_zlomku\obj\Debug\net8.0\zapis_zlomku.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\zapis_zlomku\zapis_zlomku\obj\Debug\net8.0\zapis_zlomku.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\zapis_zlomku\zapis_zlomku\obj\Debug\net8.0\zapis_zlomku.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\zapis_zlomku\zapis_zlomku\obj\Debug\net8.0\zapis_zlomku.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\zapis_zlomku\zapis_zlomku\obj\Debug\net8.0\zapis_zlomku.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\zapis_zlomku\zapis_zlomku\obj\Debug\net8.0\refint\zapis_zlomku.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\zapis_zlomku\zapis_zlomku\obj\Debug\net8.0\zapis_zlomku.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\zapis_zlomku\zapis_zlomku\obj\Debug\net8.0\zapis_zlomku.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh_2\zapis_zlomku\zapis_zlomku\obj\Debug\net8.0\ref\zapis_zlomku.dll

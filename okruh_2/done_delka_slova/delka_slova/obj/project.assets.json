@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\delka_slova\\delka_slova\\delka_slova.csproj",
+      "projectUniqueName": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\done_delka_slova\\delka_slova\\delka_slova.csproj",
       "projectName": "delka_slova",
-      "projectPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\delka_slova\\delka_slova\\delka_slova.csproj",
+      "projectPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\done_delka_slova\\delka_slova\\delka_slova.csproj",
       "packagesPath": "C:\\Users\\jonas\\.nuget\\packages\\",
-      "outputPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\delka_slova\\delka_slova\\obj\\",
+      "outputPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\done_delka_slova\\delka_slova\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jonas\\AppData\\Roaming\\NuGet\\NuGet.Config",
