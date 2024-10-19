@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\KNP_uvod\KNP_uvod\bin\Debug\net8.0\KNP_uvod.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\KNP_uvod\KNP_uvod\bin\Debug\net8.0\KNP_uvod.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\KNP_uvod\KNP_uvod\bin\Debug\net8.0\KNP_uvod.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\KNP_uvod\KNP_uvod\bin\Debug\net8.0\KNP_uvod.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\KNP_uvod\KNP_uvod\bin\Debug\net8.0\KNP_uvod.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\KNP_uvod\KNP_uvod\obj\Debug\net8.0\KNP_uvod.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\KNP_uvod\KNP_uvod\obj\Debug\net8.0\KNP_uvod.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\KNP_uvod\KNP_uvod\obj\Debug\net8.0\KNP_uvod.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\KNP_uvod\KNP_uvod\obj\Debug\net8.0\KNP_uvod.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\KNP_uvod\KNP_uvod\obj\Debug\net8.0\KNP_uvod.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\KNP_uvod\KNP_uvod\obj\Debug\net8.0\KNP_uvod.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\KNP_uvod\KNP_uvod\obj\Debug\net8.0\refint\KNP_uvod.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\KNP_uvod\KNP_uvod\obj\Debug\net8.0\KNP_uvod.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\KNP_uvod\KNP_uvod\obj\Debug\net8.0\KNP_uvod.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\KNP_uvod\KNP_uvod\obj\Debug\net8.0\ref\KNP_uvod.dll

@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\HravKostky\HravKostky\bin\Debug\net8.0\HravKostky.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\HravKostky\HravKostky\bin\Debug\net8.0\HravKostky.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\HravKostky\HravKostky\bin\Debug\net8.0\HravKostky.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\HravKostky\HravKostky\bin\Debug\net8.0\HravKostky.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\HravKostky\HravKostky\bin\Debug\net8.0\HravKostky.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\HravKostky\HravKostky\obj\Debug\net8.0\HravKostky.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\HravKostky\HravKostky\obj\Debug\net8.0\HravKostky.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\HravKostky\HravKostky\obj\Debug\net8.0\HravKostky.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\HravKostky\HravKostky\obj\Debug\net8.0\HravKostky.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\HravKostky\HravKostky\obj\Debug\net8.0\HravKostky.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\HravKostky\HravKostky\obj\Debug\net8.0\HravKostky.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\HravKostky\HravKostky\obj\Debug\net8.0\refint\HravKostky.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\HravKostky\HravKostky\obj\Debug\net8.0\HravKostky.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\HravKostky\HravKostky\obj\Debug\net8.0\HravKostky.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\HravKostky\HravKostky\obj\Debug\net8.0\ref\HravKostky.dll
