@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\nahodna_cisla\\KNP_cele\\KNP_cele\\KNP_cele.csproj",
+      "projectUniqueName": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\nahodna_cisla\\done_KNP_cele\\KNP_cele\\KNP_cele.csproj",
       "projectName": "KNP_cele",
-      "projectPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\nahodna_cisla\\KNP_cele\\KNP_cele\\KNP_cele.csproj",
+      "projectPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\nahodna_cisla\\done_KNP_cele\\KNP_cele\\KNP_cele.csproj",
       "packagesPath": "C:\\Users\\jonas\\.nuget\\packages\\",
-      "outputPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\nahodna_cisla\\KNP_cele\\KNP_cele\\obj\\",
+      "outputPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\nahodna_cisla\\done_KNP_cele\\KNP_cele\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jonas\\AppData\\Roaming\\NuGet\\NuGet.Config",

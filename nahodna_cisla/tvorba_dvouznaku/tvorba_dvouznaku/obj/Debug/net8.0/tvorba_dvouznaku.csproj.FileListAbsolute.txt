@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\tvorba_dvouznaku\tvorba_dvouznaku\bin\Debug\net8.0\tvorba_dvouznaku.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\tvorba_dvouznaku\tvorba_dvouznaku\bin\Debug\net8.0\tvorba_dvouznaku.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\tvorba_dvouznaku\tvorba_dvouznaku\bin\Debug\net8.0\tvorba_dvouznaku.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\tvorba_dvouznaku\tvorba_dvouznaku\bin\Debug\net8.0\tvorba_dvouznaku.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\tvorba_dvouznaku\tvorba_dvouznaku\bin\Debug\net8.0\tvorba_dvouznaku.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\tvorba_dvouznaku\tvorba_dvouznaku\obj\Debug\net8.0\tvorba_dvouznaku.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\tvorba_dvouznaku\tvorba_dvouznaku\obj\Debug\net8.0\tvorba_dvouznaku.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\tvorba_dvouznaku\tvorba_dvouznaku\obj\Debug\net8.0\tvorba_dvouznaku.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\tvorba_dvouznaku\tvorba_dvouznaku\obj\Debug\net8.0\tvorba_dvouznaku.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\tvorba_dvouznaku\tvorba_dvouznaku\obj\Debug\net8.0\tvorba_dvouznaku.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\tvorba_dvouznaku\tvorba_dvouznaku\obj\Debug\net8.0\tvorba_dvouznaku.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\tvorba_dvouznaku\tvorba_dvouznaku\obj\Debug\net8.0\refint\tvorba_dvouznaku.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\tvorba_dvouznaku\tvorba_dvouznaku\obj\Debug\net8.0\tvorba_dvouznaku.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\tvorba_dvouznaku\tvorba_dvouznaku\obj\Debug\net8.0\tvorba_dvouznaku.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\tvorba_dvouznaku\tvorba_dvouznaku\obj\Debug\net8.0\ref\tvorba_dvouznaku.dll

@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\hadani_cisel\hadani_cisel\bin\Debug\net8.0\hadani_cisel.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\hadani_cisel\hadani_cisel\bin\Debug\net8.0\hadani_cisel.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\hadani_cisel\hadani_cisel\bin\Debug\net8.0\hadani_cisel.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\hadani_cisel\hadani_cisel\bin\Debug\net8.0\hadani_cisel.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\hadani_cisel\hadani_cisel\bin\Debug\net8.0\hadani_cisel.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\hadani_cisel\hadani_cisel\obj\Debug\net8.0\hadani_cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\hadani_cisel\hadani_cisel\obj\Debug\net8.0\hadani_cisel.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\hadani_cisel\hadani_cisel\obj\Debug\net8.0\hadani_cisel.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\hadani_cisel\hadani_cisel\obj\Debug\net8.0\hadani_cisel.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\hadani_cisel\hadani_cisel\obj\Debug\net8.0\hadani_cisel.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\hadani_cisel\hadani_cisel\obj\Debug\net8.0\hadani_cisel.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\hadani_cisel\hadani_cisel\obj\Debug\net8.0\refint\hadani_cisel.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\hadani_cisel\hadani_cisel\obj\Debug\net8.0\hadani_cisel.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\hadani_cisel\hadani_cisel\obj\Debug\net8.0\hadani_cisel.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\nahodna_cisla\hadani_cisel\hadani_cisel\obj\Debug\net8.0\ref\hadani_cisel.dll

@@ -25,7 +25,7 @@ class MainClass
             return; 
         }
 
-        // KNP počítač
+        // KNP uvod
         Random generator = new Random();
         int pocitac_cislo = generator.Next(1, 4); 
 
@@ -55,7 +55,7 @@ class MainClass
             vyhra = true;
             Console.WriteLine("Výhra");
         }
-
+        Console.WriteLine("");
         
         Console.Write("Chceš pokračovat? a/n: ");
         char pokracovat = Console.ReadKey().KeyChar;
