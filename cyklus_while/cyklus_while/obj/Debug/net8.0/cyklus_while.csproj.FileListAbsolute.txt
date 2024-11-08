@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\cyklus_while\cyklus_while\bin\Debug\net8.0\cyklus_while.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\cyklus_while\cyklus_while\bin\Debug\net8.0\cyklus_while.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\cyklus_while\cyklus_while\bin\Debug\net8.0\cyklus_while.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\cyklus_while\cyklus_while\bin\Debug\net8.0\cyklus_while.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\cyklus_while\cyklus_while\bin\Debug\net8.0\cyklus_while.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\cyklus_while\cyklus_while\obj\Debug\net8.0\cyklus_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\cyklus_while\cyklus_while\obj\Debug\net8.0\cyklus_while.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\cyklus_while\cyklus_while\obj\Debug\net8.0\cyklus_while.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\cyklus_while\cyklus_while\obj\Debug\net8.0\cyklus_while.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\cyklus_while\cyklus_while\obj\Debug\net8.0\cyklus_while.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\cyklus_while\cyklus_while\obj\Debug\net8.0\cyklus_while.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\cyklus_while\cyklus_while\obj\Debug\net8.0\refint\cyklus_while.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\cyklus_while\cyklus_while\obj\Debug\net8.0\cyklus_while.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\cyklus_while\cyklus_while\obj\Debug\net8.0\cyklus_while.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\cyklus_while\cyklus_while\obj\Debug\net8.0\ref\cyklus_while.dll

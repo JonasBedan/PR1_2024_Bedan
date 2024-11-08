@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\HadejKolikMyslim\HadejKolikMyslim\bin\Debug\net8.0\HadejKolikMyslim.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\HadejKolikMyslim\HadejKolikMyslim\bin\Debug\net8.0\HadejKolikMyslim.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\HadejKolikMyslim\HadejKolikMyslim\bin\Debug\net8.0\HadejKolikMyslim.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\HadejKolikMyslim\HadejKolikMyslim\bin\Debug\net8.0\HadejKolikMyslim.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\HadejKolikMyslim\HadejKolikMyslim\bin\Debug\net8.0\HadejKolikMyslim.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\HadejKolikMyslim\HadejKolikMyslim\obj\Debug\net8.0\HadejKolikMyslim.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\HadejKolikMyslim\HadejKolikMyslim\obj\Debug\net8.0\HadejKolikMyslim.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\HadejKolikMyslim\HadejKolikMyslim\obj\Debug\net8.0\HadejKolikMyslim.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\HadejKolikMyslim\HadejKolikMyslim\obj\Debug\net8.0\HadejKolikMyslim.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\HadejKolikMyslim\HadejKolikMyslim\obj\Debug\net8.0\HadejKolikMyslim.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\HadejKolikMyslim\HadejKolikMyslim\obj\Debug\net8.0\HadejKolikMyslim.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\HadejKolikMyslim\HadejKolikMyslim\obj\Debug\net8.0\refint\HadejKolikMyslim.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\HadejKolikMyslim\HadejKolikMyslim\obj\Debug\net8.0\HadejKolikMyslim.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\HadejKolikMyslim\HadejKolikMyslim\obj\Debug\net8.0\HadejKolikMyslim.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\HadejKolikMyslim\HadejKolikMyslim\obj\Debug\net8.0\ref\HadejKolikMyslim.dll

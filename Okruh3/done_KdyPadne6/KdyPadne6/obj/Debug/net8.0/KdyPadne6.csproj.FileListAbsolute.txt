@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KdyPadne6\KdyPadne6\bin\Debug\net8.0\KdyPadne6.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KdyPadne6\KdyPadne6\bin\Debug\net8.0\KdyPadne6.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KdyPadne6\KdyPadne6\bin\Debug\net8.0\KdyPadne6.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KdyPadne6\KdyPadne6\bin\Debug\net8.0\KdyPadne6.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KdyPadne6\KdyPadne6\bin\Debug\net8.0\KdyPadne6.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KdyPadne6\KdyPadne6\obj\Debug\net8.0\KdyPadne6.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KdyPadne6\KdyPadne6\obj\Debug\net8.0\KdyPadne6.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KdyPadne6\KdyPadne6\obj\Debug\net8.0\KdyPadne6.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KdyPadne6\KdyPadne6\obj\Debug\net8.0\KdyPadne6.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KdyPadne6\KdyPadne6\obj\Debug\net8.0\KdyPadne6.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KdyPadne6\KdyPadne6\obj\Debug\net8.0\KdyPadne6.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KdyPadne6\KdyPadne6\obj\Debug\net8.0\refint\KdyPadne6.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KdyPadne6\KdyPadne6\obj\Debug\net8.0\KdyPadne6.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KdyPadne6\KdyPadne6\obj\Debug\net8.0\KdyPadne6.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KdyPadne6\KdyPadne6\obj\Debug\net8.0\ref\KdyPadne6.dll

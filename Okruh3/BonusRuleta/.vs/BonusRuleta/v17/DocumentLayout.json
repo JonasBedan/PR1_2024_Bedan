@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_cvicebnice\\okruh3\\BonusRuleta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8800B4-DC33-45C7-AB88-80C77E3ED1B5}|BonusRuleta\\BonusRuleta.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\1. rocnik\\kody_cvicebnice\\okruh3\\bonusruleta\\bonusruleta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8800B4-DC33-45C7-AB88-80C77E3ED1B5}|BonusRuleta\\BonusRuleta.csproj|solutionrelative:bonusruleta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\6a2e508c-cc9f-4f4d-b9e8-110a39e9ac85_Cviceni-Nakup.zip.c85\\Cviceni-Nakup\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\6a2e508c-cc9f-4f4d-b9e8-110a39e9ac85_Cviceni-Nakup.zip.c85\\Cviceni-Nakup\\main.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\6a2e508c-cc9f-4f4d-b9e8-110a39e9ac85_Cviceni-Nakup.zip.c85\\Cviceni-Nakup\\main.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\6a2e508c-cc9f-4f4d-b9e8-110a39e9ac85_Cviceni-Nakup.zip.c85\\Cviceni-Nakup\\main.cs [Jen pro \u010Dten\u00ED]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\6a2e508c-cc9f-4f4d-b9e8-110a39e9ac85_Cviceni-Nakup.zip.c85\\Cviceni-Nakup\\main.cs [Jen pro \u010Dten\u00ED]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:59:32.681Z",
+              "EditorCaption": " [Jen pro \u010Dten\u00ED]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_cvicebnice\\okruh3\\BonusRuleta\\BonusRuleta\\Program.cs",
+              "RelativeDocumentMoniker": "BonusRuleta\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_cvicebnice\\okruh3\\BonusRuleta\\BonusRuleta\\Program.cs",
+              "RelativeToolTip": "BonusRuleta\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:59:10.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

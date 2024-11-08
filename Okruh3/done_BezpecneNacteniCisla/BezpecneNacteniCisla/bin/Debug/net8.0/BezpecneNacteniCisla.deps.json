@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BezpecneNacteniCisla/1.0.0": {
+        "runtime": {
+          "BezpecneNacteniCisla.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BezpecneNacteniCisla/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

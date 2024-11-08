@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KNP_cele")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8140f146e8fd14253ce2d9d45c97c7fa956dae86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73da4a1f9202b3be211398409e1b104a929f0f11")]
 [assembly: System.Reflection.AssemblyProductAttribute("KNP_cele")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KNP_cele")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\MinimumZeCtvrtych\MinimumZeCtvrtych\bin\Debug\net8.0\MinimumZeCtvrtych.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\MinimumZeCtvrtych\MinimumZeCtvrtych\bin\Debug\net8.0\MinimumZeCtvrtych.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\MinimumZeCtvrtych\MinimumZeCtvrtych\bin\Debug\net8.0\MinimumZeCtvrtych.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\MinimumZeCtvrtych\MinimumZeCtvrtych\bin\Debug\net8.0\MinimumZeCtvrtych.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\MinimumZeCtvrtych\MinimumZeCtvrtych\bin\Debug\net8.0\MinimumZeCtvrtych.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\MinimumZeCtvrtych\MinimumZeCtvrtych\obj\Debug\net8.0\MinimumZeCtvrtych.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\MinimumZeCtvrtych\MinimumZeCtvrtych\obj\Debug\net8.0\MinimumZeCtvrtych.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\MinimumZeCtvrtych\MinimumZeCtvrtych\obj\Debug\net8.0\MinimumZeCtvrtych.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\MinimumZeCtvrtych\MinimumZeCtvrtych\obj\Debug\net8.0\MinimumZeCtvrtych.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\MinimumZeCtvrtych\MinimumZeCtvrtych\obj\Debug\net8.0\MinimumZeCtvrtych.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\MinimumZeCtvrtych\MinimumZeCtvrtych\obj\Debug\net8.0\MinimumZeCtvrtych.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\MinimumZeCtvrtych\MinimumZeCtvrtych\obj\Debug\net8.0\refint\MinimumZeCtvrtych.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\MinimumZeCtvrtych\MinimumZeCtvrtych\obj\Debug\net8.0\MinimumZeCtvrtych.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\MinimumZeCtvrtych\MinimumZeCtvrtych\obj\Debug\net8.0\MinimumZeCtvrtych.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\MinimumZeCtvrtych\MinimumZeCtvrtych\obj\Debug\net8.0\ref\MinimumZeCtvrtych.dll

@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Maximum\Maximum\bin\Debug\net8.0\Maximum.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Maximum\Maximum\bin\Debug\net8.0\Maximum.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Maximum\Maximum\bin\Debug\net8.0\Maximum.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Maximum\Maximum\bin\Debug\net8.0\Maximum.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Maximum\Maximum\bin\Debug\net8.0\Maximum.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Maximum\Maximum\obj\Debug\net8.0\Maximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Maximum\Maximum\obj\Debug\net8.0\Maximum.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Maximum\Maximum\obj\Debug\net8.0\Maximum.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Maximum\Maximum\obj\Debug\net8.0\Maximum.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Maximum\Maximum\obj\Debug\net8.0\Maximum.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Maximum\Maximum\obj\Debug\net8.0\Maximum.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Maximum\Maximum\obj\Debug\net8.0\refint\Maximum.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Maximum\Maximum\obj\Debug\net8.0\Maximum.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Maximum\Maximum\obj\Debug\net8.0\Maximum.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Maximum\Maximum\obj\Debug\net8.0\ref\Maximum.dll

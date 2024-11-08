@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HravKostky")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a0924679695f5b686ef7aa608d5983e4ad8fa09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73da4a1f9202b3be211398409e1b104a929f0f11")]
 [assembly: System.Reflection.AssemblyProductAttribute("HravKostky")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HravKostky")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

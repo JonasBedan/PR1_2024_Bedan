@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetCiselInterval\SoucetCiselInterval\bin\Debug\net8.0\SoucetCiselInterval.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetCiselInterval\SoucetCiselInterval\bin\Debug\net8.0\SoucetCiselInterval.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetCiselInterval\SoucetCiselInterval\bin\Debug\net8.0\SoucetCiselInterval.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetCiselInterval\SoucetCiselInterval\bin\Debug\net8.0\SoucetCiselInterval.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetCiselInterval\SoucetCiselInterval\bin\Debug\net8.0\SoucetCiselInterval.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetCiselInterval\SoucetCiselInterval\obj\Debug\net8.0\SoucetCiselInterval.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetCiselInterval\SoucetCiselInterval\obj\Debug\net8.0\SoucetCiselInterval.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetCiselInterval\SoucetCiselInterval\obj\Debug\net8.0\SoucetCiselInterval.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetCiselInterval\SoucetCiselInterval\obj\Debug\net8.0\SoucetCiselInterval.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetCiselInterval\SoucetCiselInterval\obj\Debug\net8.0\SoucetCiselInterval.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetCiselInterval\SoucetCiselInterval\obj\Debug\net8.0\SoucetCiselInterval.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetCiselInterval\SoucetCiselInterval\obj\Debug\net8.0\refint\SoucetCiselInterval.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetCiselInterval\SoucetCiselInterval\obj\Debug\net8.0\SoucetCiselInterval.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetCiselInterval\SoucetCiselInterval\obj\Debug\net8.0\SoucetCiselInterval.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetCiselInterval\SoucetCiselInterval\obj\Debug\net8.0\ref\SoucetCiselInterval.dll
