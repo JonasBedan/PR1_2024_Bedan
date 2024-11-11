@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetZadanychCisel\SoucetZadanychCisel\bin\Debug\net8.0\SoucetZadanychCisel.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetZadanychCisel\SoucetZadanychCisel\bin\Debug\net8.0\SoucetZadanychCisel.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetZadanychCisel\SoucetZadanychCisel\bin\Debug\net8.0\SoucetZadanychCisel.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetZadanychCisel\SoucetZadanychCisel\bin\Debug\net8.0\SoucetZadanychCisel.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetZadanychCisel\SoucetZadanychCisel\bin\Debug\net8.0\SoucetZadanychCisel.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetZadanychCisel\SoucetZadanychCisel\obj\Debug\net8.0\SoucetZadanychCisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetZadanychCisel\SoucetZadanychCisel\obj\Debug\net8.0\SoucetZadanychCisel.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetZadanychCisel\SoucetZadanychCisel\obj\Debug\net8.0\SoucetZadanychCisel.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetZadanychCisel\SoucetZadanychCisel\obj\Debug\net8.0\SoucetZadanychCisel.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetZadanychCisel\SoucetZadanychCisel\obj\Debug\net8.0\SoucetZadanychCisel.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetZadanychCisel\SoucetZadanychCisel\obj\Debug\net8.0\SoucetZadanychCisel.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetZadanychCisel\SoucetZadanychCisel\obj\Debug\net8.0\refint\SoucetZadanychCisel.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetZadanychCisel\SoucetZadanychCisel\obj\Debug\net8.0\SoucetZadanychCisel.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetZadanychCisel\SoucetZadanychCisel\obj\Debug\net8.0\SoucetZadanychCisel.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\SoucetZadanychCisel\SoucetZadanychCisel\obj\Debug\net8.0\ref\SoucetZadanychCisel.dll

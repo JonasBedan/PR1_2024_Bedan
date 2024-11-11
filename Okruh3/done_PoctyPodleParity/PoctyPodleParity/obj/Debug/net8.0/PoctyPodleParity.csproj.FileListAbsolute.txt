@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\PoctyPodleParity\PoctyPodleParity\bin\Debug\net8.0\PoctyPodleParity.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\PoctyPodleParity\PoctyPodleParity\bin\Debug\net8.0\PoctyPodleParity.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\PoctyPodleParity\PoctyPodleParity\bin\Debug\net8.0\PoctyPodleParity.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\PoctyPodleParity\PoctyPodleParity\bin\Debug\net8.0\PoctyPodleParity.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\PoctyPodleParity\PoctyPodleParity\bin\Debug\net8.0\PoctyPodleParity.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\PoctyPodleParity\PoctyPodleParity\obj\Debug\net8.0\PoctyPodleParity.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\PoctyPodleParity\PoctyPodleParity\obj\Debug\net8.0\PoctyPodleParity.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\PoctyPodleParity\PoctyPodleParity\obj\Debug\net8.0\PoctyPodleParity.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\PoctyPodleParity\PoctyPodleParity\obj\Debug\net8.0\PoctyPodleParity.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\PoctyPodleParity\PoctyPodleParity\obj\Debug\net8.0\PoctyPodleParity.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\PoctyPodleParity\PoctyPodleParity\obj\Debug\net8.0\PoctyPodleParity.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\PoctyPodleParity\PoctyPodleParity\obj\Debug\net8.0\refint\PoctyPodleParity.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\PoctyPodleParity\PoctyPodleParity\obj\Debug\net8.0\PoctyPodleParity.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\PoctyPodleParity\PoctyPodleParity\obj\Debug\net8.0\PoctyPodleParity.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\PoctyPodleParity\PoctyPodleParity\obj\Debug\net8.0\ref\PoctyPodleParity.dll

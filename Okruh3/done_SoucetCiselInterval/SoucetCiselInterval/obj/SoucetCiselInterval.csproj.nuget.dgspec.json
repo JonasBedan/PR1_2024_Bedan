@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\Okruh3\\SoucetCiselInterval\\SoucetCiselInterval\\SoucetCiselInterval.csproj": {}
+    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\Okruh3\\done_SoucetCiselInterval\\SoucetCiselInterval\\SoucetCiselInterval.csproj": {}
   },
   "projects": {
-    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\Okruh3\\SoucetCiselInterval\\SoucetCiselInterval\\SoucetCiselInterval.csproj": {
+    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\Okruh3\\done_SoucetCiselInterval\\SoucetCiselInterval\\SoucetCiselInterval.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\Okruh3\\SoucetCiselInterval\\SoucetCiselInterval\\SoucetCiselInterval.csproj",
+        "projectUniqueName": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\Okruh3\\done_SoucetCiselInterval\\SoucetCiselInterval\\SoucetCiselInterval.csproj",
         "projectName": "SoucetCiselInterval",
-        "projectPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\Okruh3\\SoucetCiselInterval\\SoucetCiselInterval\\SoucetCiselInterval.csproj",
+        "projectPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\Okruh3\\done_SoucetCiselInterval\\SoucetCiselInterval\\SoucetCiselInterval.csproj",
         "packagesPath": "C:\\Users\\jonas\\.nuget\\packages\\",
-        "outputPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\Okruh3\\SoucetCiselInterval\\SoucetCiselInterval\\obj\\",
+        "outputPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\Okruh3\\done_SoucetCiselInterval\\SoucetCiselInterval\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jonas\\AppData\\Roaming\\NuGet\\NuGet.Config",

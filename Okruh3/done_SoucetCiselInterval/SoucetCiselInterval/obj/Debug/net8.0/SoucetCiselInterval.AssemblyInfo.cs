@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoucetCiselInterval")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73da4a1f9202b3be211398409e1b104a929f0f11")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18588cd10e5d5ae3c34e4ed9c5d48b7fcfdf3977")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoucetCiselInterval")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoucetCiselInterval")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

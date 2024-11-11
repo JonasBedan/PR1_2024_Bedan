@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\Okruh3\\KdyPadne6\\KdyPadne6\\KdyPadne6.csproj",
+      "projectUniqueName": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\Okruh3\\done_KdyPadne6\\KdyPadne6\\KdyPadne6.csproj",
       "projectName": "KdyPadne6",
-      "projectPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\Okruh3\\KdyPadne6\\KdyPadne6\\KdyPadne6.csproj",
+      "projectPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\Okruh3\\done_KdyPadne6\\KdyPadne6\\KdyPadne6.csproj",
       "packagesPath": "C:\\Users\\jonas\\.nuget\\packages\\",
-      "outputPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\Okruh3\\KdyPadne6\\KdyPadne6\\obj\\",
+      "outputPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\Okruh3\\done_KdyPadne6\\KdyPadne6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jonas\\AppData\\Roaming\\NuGet\\NuGet.Config",
