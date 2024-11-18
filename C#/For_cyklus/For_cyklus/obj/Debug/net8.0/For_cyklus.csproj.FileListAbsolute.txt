@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\For_cyklus\For_cyklus\bin\Debug\net8.0\For_cyklus.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\For_cyklus\For_cyklus\bin\Debug\net8.0\For_cyklus.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\For_cyklus\For_cyklus\bin\Debug\net8.0\For_cyklus.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\For_cyklus\For_cyklus\bin\Debug\net8.0\For_cyklus.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\For_cyklus\For_cyklus\bin\Debug\net8.0\For_cyklus.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\For_cyklus\For_cyklus\obj\Debug\net8.0\For_cyklus.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\For_cyklus\For_cyklus\obj\Debug\net8.0\For_cyklus.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\For_cyklus\For_cyklus\obj\Debug\net8.0\For_cyklus.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\For_cyklus\For_cyklus\obj\Debug\net8.0\For_cyklus.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\For_cyklus\For_cyklus\obj\Debug\net8.0\For_cyklus.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\For_cyklus\For_cyklus\obj\Debug\net8.0\For_cyklus.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\For_cyklus\For_cyklus\obj\Debug\net8.0\refint\For_cyklus.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\For_cyklus\For_cyklus\obj\Debug\net8.0\For_cyklus.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\For_cyklus\For_cyklus\obj\Debug\net8.0\For_cyklus.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\For_cyklus\For_cyklus\obj\Debug\net8.0\ref\For_cyklus.dll

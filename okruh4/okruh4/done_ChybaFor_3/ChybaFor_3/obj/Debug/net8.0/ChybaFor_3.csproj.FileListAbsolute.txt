@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\ChybaFor_3\ChybaFor_3\bin\Debug\net8.0\ChybaFor_3.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\ChybaFor_3\ChybaFor_3\bin\Debug\net8.0\ChybaFor_3.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\ChybaFor_3\ChybaFor_3\bin\Debug\net8.0\ChybaFor_3.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\ChybaFor_3\ChybaFor_3\bin\Debug\net8.0\ChybaFor_3.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\ChybaFor_3\ChybaFor_3\bin\Debug\net8.0\ChybaFor_3.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\ChybaFor_3\ChybaFor_3\obj\Debug\net8.0\ChybaFor_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\ChybaFor_3\ChybaFor_3\obj\Debug\net8.0\ChybaFor_3.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\ChybaFor_3\ChybaFor_3\obj\Debug\net8.0\ChybaFor_3.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\ChybaFor_3\ChybaFor_3\obj\Debug\net8.0\ChybaFor_3.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\ChybaFor_3\ChybaFor_3\obj\Debug\net8.0\ChybaFor_3.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\ChybaFor_3\ChybaFor_3\obj\Debug\net8.0\ChybaFor_3.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\ChybaFor_3\ChybaFor_3\obj\Debug\net8.0\refint\ChybaFor_3.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\ChybaFor_3\ChybaFor_3\obj\Debug\net8.0\ChybaFor_3.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\ChybaFor_3\ChybaFor_3\obj\Debug\net8.0\ChybaFor_3.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\ChybaFor_3\ChybaFor_3\obj\Debug\net8.0\ref\ChybaFor_3.dll

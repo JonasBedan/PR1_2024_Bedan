@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\JizdniRad\JizdniRad\bin\Debug\net8.0\JizdniRad.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\JizdniRad\JizdniRad\bin\Debug\net8.0\JizdniRad.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\JizdniRad\JizdniRad\bin\Debug\net8.0\JizdniRad.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\JizdniRad\JizdniRad\bin\Debug\net8.0\JizdniRad.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\JizdniRad\JizdniRad\bin\Debug\net8.0\JizdniRad.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\JizdniRad\JizdniRad\obj\Debug\net8.0\JizdniRad.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\JizdniRad\JizdniRad\obj\Debug\net8.0\JizdniRad.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\JizdniRad\JizdniRad\obj\Debug\net8.0\JizdniRad.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\JizdniRad\JizdniRad\obj\Debug\net8.0\JizdniRad.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\JizdniRad\JizdniRad\obj\Debug\net8.0\JizdniRad.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\JizdniRad\JizdniRad\obj\Debug\net8.0\JizdniRad.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\JizdniRad\JizdniRad\obj\Debug\net8.0\refint\JizdniRad.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\JizdniRad\JizdniRad\obj\Debug\net8.0\JizdniRad.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\JizdniRad\JizdniRad\obj\Debug\net8.0\JizdniRad.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\JizdniRad\JizdniRad\obj\Debug\net8.0\ref\JizdniRad.dll

@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\bin\Debug\net8.0\sectiCislaSudePozice.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\bin\Debug\net8.0\sectiCislaSudePozice.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\bin\Debug\net8.0\sectiCislaSudePozice.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\bin\Debug\net8.0\sectiCislaSudePozice.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\bin\Debug\net8.0\sectiCislaSudePozice.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\obj\Debug\net8.0\sectiCislaSudePozice.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\obj\Debug\net8.0\sectiCislaSudePozice.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\obj\Debug\net8.0\sectiCislaSudePozice.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\obj\Debug\net8.0\sectiCislaSudePozice.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\obj\Debug\net8.0\sectiCislaSudePozice.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\obj\Debug\net8.0\sectiCislaSudePozice.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\obj\Debug\net8.0\refint\sectiCislaSudePozice.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\obj\Debug\net8.0\sectiCislaSudePozice.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\obj\Debug\net8.0\sectiCislaSudePozice.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\obj\Debug\net8.0\ref\sectiCislaSudePozice.dll

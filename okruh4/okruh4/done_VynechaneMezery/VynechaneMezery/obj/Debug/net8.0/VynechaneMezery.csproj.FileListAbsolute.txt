@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\VynechaneMezery\VynechaneMezery\bin\Debug\net8.0\VynechaneMezery.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\VynechaneMezery\VynechaneMezery\bin\Debug\net8.0\VynechaneMezery.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\VynechaneMezery\VynechaneMezery\bin\Debug\net8.0\VynechaneMezery.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\VynechaneMezery\VynechaneMezery\bin\Debug\net8.0\VynechaneMezery.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\VynechaneMezery\VynechaneMezery\bin\Debug\net8.0\VynechaneMezery.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\VynechaneMezery\VynechaneMezery\obj\Debug\net8.0\VynechaneMezery.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\VynechaneMezery\VynechaneMezery\obj\Debug\net8.0\VynechaneMezery.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\VynechaneMezery\VynechaneMezery\obj\Debug\net8.0\VynechaneMezery.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\VynechaneMezery\VynechaneMezery\obj\Debug\net8.0\VynechaneMezery.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\VynechaneMezery\VynechaneMezery\obj\Debug\net8.0\VynechaneMezery.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\VynechaneMezery\VynechaneMezery\obj\Debug\net8.0\VynechaneMezery.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\VynechaneMezery\VynechaneMezery\obj\Debug\net8.0\refint\VynechaneMezery.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\VynechaneMezery\VynechaneMezery\obj\Debug\net8.0\VynechaneMezery.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\VynechaneMezery\VynechaneMezery\obj\Debug\net8.0\VynechaneMezery.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\VynechaneMezery\VynechaneMezery\obj\Debug\net8.0\ref\VynechaneMezery.dll
