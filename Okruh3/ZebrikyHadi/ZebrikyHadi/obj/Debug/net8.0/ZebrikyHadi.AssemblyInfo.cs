@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZebrikyHadi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2ea4e06325332037ff094eacd8b0fb8164d12f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZebrikyHadi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZebrikyHadi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

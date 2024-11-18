@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\ZebrikyHadi\ZebrikyHadi\bin\Debug\net8.0\ZebrikyHadi.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\ZebrikyHadi\ZebrikyHadi\bin\Debug\net8.0\ZebrikyHadi.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\ZebrikyHadi\ZebrikyHadi\bin\Debug\net8.0\ZebrikyHadi.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\ZebrikyHadi\ZebrikyHadi\bin\Debug\net8.0\ZebrikyHadi.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\ZebrikyHadi\ZebrikyHadi\bin\Debug\net8.0\ZebrikyHadi.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\ZebrikyHadi\ZebrikyHadi\obj\Debug\net8.0\ZebrikyHadi.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\ZebrikyHadi\ZebrikyHadi\obj\Debug\net8.0\ZebrikyHadi.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\ZebrikyHadi\ZebrikyHadi\obj\Debug\net8.0\ZebrikyHadi.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\ZebrikyHadi\ZebrikyHadi\obj\Debug\net8.0\ZebrikyHadi.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\ZebrikyHadi\ZebrikyHadi\obj\Debug\net8.0\ZebrikyHadi.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\ZebrikyHadi\ZebrikyHadi\obj\Debug\net8.0\ZebrikyHadi.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\ZebrikyHadi\ZebrikyHadi\obj\Debug\net8.0\refint\ZebrikyHadi.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\ZebrikyHadi\ZebrikyHadi\obj\Debug\net8.0\ZebrikyHadi.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\ZebrikyHadi\ZebrikyHadi\obj\Debug\net8.0\ZebrikyHadi.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\ZebrikyHadi\ZebrikyHadi\obj\Debug\net8.0\ref\ZebrikyHadi.dll

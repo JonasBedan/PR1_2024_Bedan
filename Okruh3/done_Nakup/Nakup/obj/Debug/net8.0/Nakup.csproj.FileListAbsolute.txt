@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Nakup\Nakup\bin\Debug\net8.0\Nakup.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Nakup\Nakup\bin\Debug\net8.0\Nakup.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Nakup\Nakup\bin\Debug\net8.0\Nakup.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Nakup\Nakup\bin\Debug\net8.0\Nakup.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Nakup\Nakup\bin\Debug\net8.0\Nakup.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Nakup\Nakup\obj\Debug\net8.0\Nakup.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Nakup\Nakup\obj\Debug\net8.0\Nakup.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Nakup\Nakup\obj\Debug\net8.0\Nakup.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Nakup\Nakup\obj\Debug\net8.0\Nakup.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Nakup\Nakup\obj\Debug\net8.0\Nakup.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Nakup\Nakup\obj\Debug\net8.0\Nakup.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Nakup\Nakup\obj\Debug\net8.0\refint\Nakup.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Nakup\Nakup\obj\Debug\net8.0\Nakup.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Nakup\Nakup\obj\Debug\net8.0\Nakup.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\Nakup\Nakup\obj\Debug\net8.0\ref\Nakup.dll

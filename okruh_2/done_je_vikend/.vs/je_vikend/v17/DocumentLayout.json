@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\je_vikend\\",
+  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\done_je_vikend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F8A77F0-B8D4-4E96-AE16-4F6CA47768ED}|je_vikend\\je_vikend.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\okruh_2\\je_vikend\\je_vikend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F8A77F0-B8D4-4E96-AE16-4F6CA47768ED}|je_vikend\\je_vikend.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\okruh_2\\done_je_vikend\\je_vikend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F8A77F0-B8D4-4E96-AE16-4F6CA47768ED}|je_vikend\\je_vikend.csproj|solutionrelative:je_vikend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,9 +23,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\je_vikend\\je_vikend\\Program.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\done_je_vikend\\je_vikend\\Program.cs",
               "RelativeDocumentMoniker": "je_vikend\\Program.cs",
-              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\je_vikend\\je_vikend\\Program.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh_2\\done_je_vikend\\je_vikend\\Program.cs",
               "RelativeToolTip": "je_vikend\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

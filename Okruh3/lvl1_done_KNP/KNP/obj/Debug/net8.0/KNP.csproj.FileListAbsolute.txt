@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KNP\KNP\bin\Debug\net8.0\KNP.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KNP\KNP\bin\Debug\net8.0\KNP.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KNP\KNP\bin\Debug\net8.0\KNP.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KNP\KNP\bin\Debug\net8.0\KNP.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KNP\KNP\bin\Debug\net8.0\KNP.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KNP\KNP\obj\Debug\net8.0\KNP.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KNP\KNP\obj\Debug\net8.0\KNP.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KNP\KNP\obj\Debug\net8.0\KNP.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KNP\KNP\obj\Debug\net8.0\KNP.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KNP\KNP\obj\Debug\net8.0\KNP.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KNP\KNP\obj\Debug\net8.0\KNP.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KNP\KNP\obj\Debug\net8.0\refint\KNP.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KNP\KNP\obj\Debug\net8.0\KNP.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KNP\KNP\obj\Debug\net8.0\KNP.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\Okruh3\KNP\KNP\obj\Debug\net8.0\ref\KNP.dll
