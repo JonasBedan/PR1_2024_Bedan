@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujObdelnik\NamalujObdelnik\bin\Debug\net8.0\NamalujObdelnik.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujObdelnik\NamalujObdelnik\bin\Debug\net8.0\NamalujObdelnik.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujObdelnik\NamalujObdelnik\bin\Debug\net8.0\NamalujObdelnik.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujObdelnik\NamalujObdelnik\bin\Debug\net8.0\NamalujObdelnik.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujObdelnik\NamalujObdelnik\bin\Debug\net8.0\NamalujObdelnik.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujObdelnik\NamalujObdelnik\obj\Debug\net8.0\NamalujObdelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujObdelnik\NamalujObdelnik\obj\Debug\net8.0\NamalujObdelnik.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujObdelnik\NamalujObdelnik\obj\Debug\net8.0\NamalujObdelnik.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujObdelnik\NamalujObdelnik\obj\Debug\net8.0\NamalujObdelnik.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujObdelnik\NamalujObdelnik\obj\Debug\net8.0\NamalujObdelnik.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujObdelnik\NamalujObdelnik\obj\Debug\net8.0\NamalujObdelnik.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujObdelnik\NamalujObdelnik\obj\Debug\net8.0\refint\NamalujObdelnik.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujObdelnik\NamalujObdelnik\obj\Debug\net8.0\NamalujObdelnik.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujObdelnik\NamalujObdelnik\obj\Debug\net8.0\NamalujObdelnik.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujObdelnik\NamalujObdelnik\obj\Debug\net8.0\ref\NamalujObdelnik.dll

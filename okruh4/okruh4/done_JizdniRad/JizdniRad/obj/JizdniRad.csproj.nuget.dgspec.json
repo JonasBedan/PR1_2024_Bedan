@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\JizdniRad\\JizdniRad\\JizdniRad.csproj": {}
+    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_JizdniRad\\JizdniRad\\JizdniRad.csproj": {}
   },
   "projects": {
-    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\JizdniRad\\JizdniRad\\JizdniRad.csproj": {
+    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_JizdniRad\\JizdniRad\\JizdniRad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\JizdniRad\\JizdniRad\\JizdniRad.csproj",
+        "projectUniqueName": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_JizdniRad\\JizdniRad\\JizdniRad.csproj",
         "projectName": "JizdniRad",
-        "projectPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\JizdniRad\\JizdniRad\\JizdniRad.csproj",
+        "projectPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_JizdniRad\\JizdniRad\\JizdniRad.csproj",
         "packagesPath": "C:\\Users\\jonas\\.nuget\\packages\\",
-        "outputPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\JizdniRad\\JizdniRad\\obj\\",
+        "outputPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_JizdniRad\\JizdniRad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jonas\\AppData\\Roaming\\NuGet\\NuGet.Config",

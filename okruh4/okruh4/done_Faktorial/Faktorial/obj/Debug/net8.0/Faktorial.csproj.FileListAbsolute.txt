@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Faktorial\Faktorial\obj\Debug\net8.0\Faktorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Faktorial\Faktorial\obj\Debug\net8.0\Faktorial.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Faktorial\Faktorial\obj\Debug\net8.0\Faktorial.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Faktorial\Faktorial\obj\Debug\net8.0\Faktorial.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Faktorial\Faktorial\obj\Debug\net8.0\Faktorial.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Faktorial\Faktorial\bin\Debug\net8.0\Faktorial.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Faktorial\Faktorial\bin\Debug\net8.0\Faktorial.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Faktorial\Faktorial\bin\Debug\net8.0\Faktorial.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Faktorial\Faktorial\bin\Debug\net8.0\Faktorial.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Faktorial\Faktorial\bin\Debug\net8.0\Faktorial.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Faktorial\Faktorial\obj\Debug\net8.0\Faktorial.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Faktorial\Faktorial\obj\Debug\net8.0\refint\Faktorial.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Faktorial\Faktorial\obj\Debug\net8.0\Faktorial.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Faktorial\Faktorial\obj\Debug\net8.0\Faktorial.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Faktorial\Faktorial\obj\Debug\net8.0\ref\Faktorial.dll

@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\bin\Debug\net8.0\KazdyDruhyZnak.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\bin\Debug\net8.0\KazdyDruhyZnak.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\bin\Debug\net8.0\KazdyDruhyZnak.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\bin\Debug\net8.0\KazdyDruhyZnak.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\bin\Debug\net8.0\KazdyDruhyZnak.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\obj\Debug\net8.0\KazdyDruhyZnak.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\obj\Debug\net8.0\KazdyDruhyZnak.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\obj\Debug\net8.0\KazdyDruhyZnak.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\obj\Debug\net8.0\KazdyDruhyZnak.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\obj\Debug\net8.0\KazdyDruhyZnak.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\obj\Debug\net8.0\KazdyDruhyZnak.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\obj\Debug\net8.0\refint\KazdyDruhyZnak.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\obj\Debug\net8.0\KazdyDruhyZnak.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\obj\Debug\net8.0\KazdyDruhyZnak.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\obj\Debug\net8.0\ref\KazdyDruhyZnak.dll

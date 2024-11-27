@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujTrojuhelnikTyp_p\NamalujTrojuhelnikTyp_q\bin\Debug\net8.0\NamalujTrojuhelnikTyp_q.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujTrojuhelnikTyp_p\NamalujTrojuhelnikTyp_q\bin\Debug\net8.0\NamalujTrojuhelnikTyp_q.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujTrojuhelnikTyp_p\NamalujTrojuhelnikTyp_q\bin\Debug\net8.0\NamalujTrojuhelnikTyp_q.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujTrojuhelnikTyp_p\NamalujTrojuhelnikTyp_q\bin\Debug\net8.0\NamalujTrojuhelnikTyp_q.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujTrojuhelnikTyp_p\NamalujTrojuhelnikTyp_q\bin\Debug\net8.0\NamalujTrojuhelnikTyp_q.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujTrojuhelnikTyp_p\NamalujTrojuhelnikTyp_q\obj\Debug\net8.0\NamalujTrojuhelnikTyp_q.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujTrojuhelnikTyp_p\NamalujTrojuhelnikTyp_q\obj\Debug\net8.0\NamalujTrojuhelnikTyp_q.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujTrojuhelnikTyp_p\NamalujTrojuhelnikTyp_q\obj\Debug\net8.0\NamalujTrojuhelnikTyp_q.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujTrojuhelnikTyp_p\NamalujTrojuhelnikTyp_q\obj\Debug\net8.0\NamalujTrojuhelnikTyp_q.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujTrojuhelnikTyp_p\NamalujTrojuhelnikTyp_q\obj\Debug\net8.0\NamalujTrojuhelnikTyp_q.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujTrojuhelnikTyp_p\NamalujTrojuhelnikTyp_q\obj\Debug\net8.0\NamalujTrojuhelnikTyp_q.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujTrojuhelnikTyp_p\NamalujTrojuhelnikTyp_q\obj\Debug\net8.0\refint\NamalujTrojuhelnikTyp_q.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujTrojuhelnikTyp_p\NamalujTrojuhelnikTyp_q\obj\Debug\net8.0\NamalujTrojuhelnikTyp_q.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujTrojuhelnikTyp_p\NamalujTrojuhelnikTyp_q\obj\Debug\net8.0\NamalujTrojuhelnikTyp_q.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujTrojuhelnikTyp_p\NamalujTrojuhelnikTyp_q\obj\Debug\net8.0\ref\NamalujTrojuhelnikTyp_q.dll

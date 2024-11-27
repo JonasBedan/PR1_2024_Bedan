@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Fibonnacci\Fibonnacci\bin\Debug\net8.0\Fibonnacci.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Fibonnacci\Fibonnacci\bin\Debug\net8.0\Fibonnacci.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Fibonnacci\Fibonnacci\bin\Debug\net8.0\Fibonnacci.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Fibonnacci\Fibonnacci\bin\Debug\net8.0\Fibonnacci.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Fibonnacci\Fibonnacci\bin\Debug\net8.0\Fibonnacci.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Fibonnacci\Fibonnacci\obj\Debug\net8.0\Fibonnacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Fibonnacci\Fibonnacci\obj\Debug\net8.0\Fibonnacci.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Fibonnacci\Fibonnacci\obj\Debug\net8.0\Fibonnacci.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Fibonnacci\Fibonnacci\obj\Debug\net8.0\Fibonnacci.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Fibonnacci\Fibonnacci\obj\Debug\net8.0\Fibonnacci.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Fibonnacci\Fibonnacci\obj\Debug\net8.0\Fibonnacci.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Fibonnacci\Fibonnacci\obj\Debug\net8.0\refint\Fibonnacci.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Fibonnacci\Fibonnacci\obj\Debug\net8.0\Fibonnacci.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Fibonnacci\Fibonnacci\obj\Debug\net8.0\Fibonnacci.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Fibonnacci\Fibonnacci\obj\Debug\net8.0\ref\Fibonnacci.dll

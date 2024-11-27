@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujCtverec\NamalujCtverec\bin\Debug\net8.0\NamalujCtverec.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujCtverec\NamalujCtverec\bin\Debug\net8.0\NamalujCtverec.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujCtverec\NamalujCtverec\bin\Debug\net8.0\NamalujCtverec.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujCtverec\NamalujCtverec\bin\Debug\net8.0\NamalujCtverec.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujCtverec\NamalujCtverec\bin\Debug\net8.0\NamalujCtverec.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujCtverec\NamalujCtverec\obj\Debug\net8.0\NamalujCtverec.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujCtverec\NamalujCtverec\obj\Debug\net8.0\NamalujCtverec.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujCtverec\NamalujCtverec\obj\Debug\net8.0\NamalujCtverec.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujCtverec\NamalujCtverec\obj\Debug\net8.0\NamalujCtverec.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujCtverec\NamalujCtverec\obj\Debug\net8.0\NamalujCtverec.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujCtverec\NamalujCtverec\obj\Debug\net8.0\NamalujCtverec.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujCtverec\NamalujCtverec\obj\Debug\net8.0\refint\NamalujCtverec.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujCtverec\NamalujCtverec\obj\Debug\net8.0\NamalujCtverec.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujCtverec\NamalujCtverec\obj\Debug\net8.0\NamalujCtverec.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\NamalujCtverec\NamalujCtverec\obj\Debug\net8.0\ref\NamalujCtverec.dll

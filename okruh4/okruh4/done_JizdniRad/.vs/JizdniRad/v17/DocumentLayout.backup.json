@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\JizdniRad\\",
+  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_JizdniRad\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02699841-5F03-4F47-B371-7FDA8CBC479F}|JizdniRad\\JizdniRad.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\okruh4\\okruh4\\jizdnirad\\jizdnirad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02699841-5F03-4F47-B371-7FDA8CBC479F}|JizdniRad\\JizdniRad.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\okruh4\\okruh4\\done_jizdnirad\\jizdnirad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02699841-5F03-4F47-B371-7FDA8CBC479F}|JizdniRad\\JizdniRad.csproj|solutionrelative:jizdnirad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,11 +35,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\JizdniRad\\JizdniRad\\Program.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_JizdniRad\\JizdniRad\\Program.cs",
               "RelativeDocumentMoniker": "JizdniRad\\Program.cs",
-              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\JizdniRad\\JizdniRad\\Program.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_JizdniRad\\JizdniRad\\Program.cs",
               "RelativeToolTip": "JizdniRad\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T08:10:38.649Z",
               "EditorCaption": ""
