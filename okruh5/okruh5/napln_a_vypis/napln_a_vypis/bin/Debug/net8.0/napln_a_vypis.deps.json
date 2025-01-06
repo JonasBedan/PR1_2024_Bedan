@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "napln_a_vypis/1.0.0": {
+        "runtime": {
+          "napln_a_vypis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "napln_a_vypis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\napln_a_vypis\napln_a_vypis\bin\Debug\net8.0\napln_a_vypis.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\napln_a_vypis\napln_a_vypis\bin\Debug\net8.0\napln_a_vypis.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\napln_a_vypis\napln_a_vypis\bin\Debug\net8.0\napln_a_vypis.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\napln_a_vypis\napln_a_vypis\bin\Debug\net8.0\napln_a_vypis.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\napln_a_vypis\napln_a_vypis\bin\Debug\net8.0\napln_a_vypis.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\napln_a_vypis\napln_a_vypis\obj\Debug\net8.0\napln_a_vypis.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\napln_a_vypis\napln_a_vypis\obj\Debug\net8.0\napln_a_vypis.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\napln_a_vypis\napln_a_vypis\obj\Debug\net8.0\napln_a_vypis.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\napln_a_vypis\napln_a_vypis\obj\Debug\net8.0\napln_a_vypis.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\napln_a_vypis\napln_a_vypis\obj\Debug\net8.0\napln_a_vypis.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\napln_a_vypis\napln_a_vypis\obj\Debug\net8.0\napln_a_vypis.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\napln_a_vypis\napln_a_vypis\obj\Debug\net8.0\refint\napln_a_vypis.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\napln_a_vypis\napln_a_vypis\obj\Debug\net8.0\napln_a_vypis.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\napln_a_vypis\napln_a_vypis\obj\Debug\net8.0\napln_a_vypis.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\napln_a_vypis\napln_a_vypis\obj\Debug\net8.0\ref\napln_a_vypis.dll

@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_pravdepodobnost\done_pravdepodobnost\bin\Debug\net8.0\done_pravdepodobnost.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_pravdepodobnost\done_pravdepodobnost\bin\Debug\net8.0\done_pravdepodobnost.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_pravdepodobnost\done_pravdepodobnost\bin\Debug\net8.0\done_pravdepodobnost.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_pravdepodobnost\done_pravdepodobnost\bin\Debug\net8.0\done_pravdepodobnost.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_pravdepodobnost\done_pravdepodobnost\bin\Debug\net8.0\done_pravdepodobnost.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_pravdepodobnost\done_pravdepodobnost\obj\Debug\net8.0\done_pravdepodobnost.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_pravdepodobnost\done_pravdepodobnost\obj\Debug\net8.0\done_pravdepodobnost.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_pravdepodobnost\done_pravdepodobnost\obj\Debug\net8.0\done_pravdepodobnost.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_pravdepodobnost\done_pravdepodobnost\obj\Debug\net8.0\done_pravdepodobnost.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_pravdepodobnost\done_pravdepodobnost\obj\Debug\net8.0\done_pravdepodobnost.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_pravdepodobnost\done_pravdepodobnost\obj\Debug\net8.0\done_pravdepodobnost.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_pravdepodobnost\done_pravdepodobnost\obj\Debug\net8.0\refint\done_pravdepodobnost.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_pravdepodobnost\done_pravdepodobnost\obj\Debug\net8.0\done_pravdepodobnost.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_pravdepodobnost\done_pravdepodobnost\obj\Debug\net8.0\done_pravdepodobnost.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_pravdepodobnost\done_pravdepodobnost\obj\Debug\net8.0\ref\done_pravdepodobnost.dll

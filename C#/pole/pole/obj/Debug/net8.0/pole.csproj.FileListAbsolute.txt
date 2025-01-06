@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\pole\pole\bin\Debug\net8.0\pole.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\pole\pole\bin\Debug\net8.0\pole.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\pole\pole\bin\Debug\net8.0\pole.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\pole\pole\bin\Debug\net8.0\pole.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\pole\pole\bin\Debug\net8.0\pole.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\pole\pole\obj\Debug\net8.0\pole.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\pole\pole\obj\Debug\net8.0\pole.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\pole\pole\obj\Debug\net8.0\pole.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\pole\pole\obj\Debug\net8.0\pole.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\pole\pole\obj\Debug\net8.0\pole.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\pole\pole\obj\Debug\net8.0\pole.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\pole\pole\obj\Debug\net8.0\refint\pole.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\pole\pole\obj\Debug\net8.0\pole.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\pole\pole\obj\Debug\net8.0\pole.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\pole\pole\obj\Debug\net8.0\ref\pole.dll

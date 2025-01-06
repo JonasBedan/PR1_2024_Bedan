@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bonus_namalujKruh")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1b31febe2df579828aacdbf4137227e3247b474")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bonus_namalujKruh")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bonus_namalujKruh")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

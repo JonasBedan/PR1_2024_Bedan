@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Bonus_namalujKruh\Bonus_namalujKruh\bin\Debug\net8.0\Bonus_namalujKruh.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Bonus_namalujKruh\Bonus_namalujKruh\bin\Debug\net8.0\Bonus_namalujKruh.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Bonus_namalujKruh\Bonus_namalujKruh\bin\Debug\net8.0\Bonus_namalujKruh.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Bonus_namalujKruh\Bonus_namalujKruh\bin\Debug\net8.0\Bonus_namalujKruh.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Bonus_namalujKruh\Bonus_namalujKruh\bin\Debug\net8.0\Bonus_namalujKruh.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Bonus_namalujKruh\Bonus_namalujKruh\obj\Debug\net8.0\Bonus_namalujKruh.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Bonus_namalujKruh\Bonus_namalujKruh\obj\Debug\net8.0\Bonus_namalujKruh.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Bonus_namalujKruh\Bonus_namalujKruh\obj\Debug\net8.0\Bonus_namalujKruh.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Bonus_namalujKruh\Bonus_namalujKruh\obj\Debug\net8.0\Bonus_namalujKruh.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Bonus_namalujKruh\Bonus_namalujKruh\obj\Debug\net8.0\Bonus_namalujKruh.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Bonus_namalujKruh\Bonus_namalujKruh\obj\Debug\net8.0\Bonus_namalujKruh.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Bonus_namalujKruh\Bonus_namalujKruh\obj\Debug\net8.0\refint\Bonus_namalujKruh.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Bonus_namalujKruh\Bonus_namalujKruh\obj\Debug\net8.0\Bonus_namalujKruh.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Bonus_namalujKruh\Bonus_namalujKruh\obj\Debug\net8.0\Bonus_namalujKruh.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh4\okruh4\Bonus_namalujKruh\Bonus_namalujKruh\obj\Debug\net8.0\ref\Bonus_namalujKruh.dll

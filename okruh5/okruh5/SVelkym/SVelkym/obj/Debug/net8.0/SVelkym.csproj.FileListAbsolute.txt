@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\SVelkym\SVelkym\bin\Debug\net8.0\SVelkym.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\SVelkym\SVelkym\bin\Debug\net8.0\SVelkym.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\SVelkym\SVelkym\bin\Debug\net8.0\SVelkym.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\SVelkym\SVelkym\bin\Debug\net8.0\SVelkym.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\SVelkym\SVelkym\bin\Debug\net8.0\SVelkym.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\SVelkym\SVelkym\obj\Debug\net8.0\SVelkym.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\SVelkym\SVelkym\obj\Debug\net8.0\SVelkym.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\SVelkym\SVelkym\obj\Debug\net8.0\SVelkym.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\SVelkym\SVelkym\obj\Debug\net8.0\SVelkym.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\SVelkym\SVelkym\obj\Debug\net8.0\SVelkym.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\SVelkym\SVelkym\obj\Debug\net8.0\SVelkym.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\SVelkym\SVelkym\obj\Debug\net8.0\refint\SVelkym.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\SVelkym\SVelkym\obj\Debug\net8.0\SVelkym.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\SVelkym\SVelkym\obj\Debug\net8.0\SVelkym.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\SVelkym\SVelkym\obj\Debug\net8.0\ref\SVelkym.dll

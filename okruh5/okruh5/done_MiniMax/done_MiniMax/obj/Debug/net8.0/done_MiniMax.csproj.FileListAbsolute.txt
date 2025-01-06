@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_MiniMax\done_MiniMax\bin\Debug\net8.0\done_MiniMax.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_MiniMax\done_MiniMax\bin\Debug\net8.0\done_MiniMax.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_MiniMax\done_MiniMax\bin\Debug\net8.0\done_MiniMax.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_MiniMax\done_MiniMax\bin\Debug\net8.0\done_MiniMax.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_MiniMax\done_MiniMax\bin\Debug\net8.0\done_MiniMax.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_MiniMax\done_MiniMax\obj\Debug\net8.0\done_MiniMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_MiniMax\done_MiniMax\obj\Debug\net8.0\done_MiniMax.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_MiniMax\done_MiniMax\obj\Debug\net8.0\done_MiniMax.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_MiniMax\done_MiniMax\obj\Debug\net8.0\done_MiniMax.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_MiniMax\done_MiniMax\obj\Debug\net8.0\done_MiniMax.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_MiniMax\done_MiniMax\obj\Debug\net8.0\done_MiniMax.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_MiniMax\done_MiniMax\obj\Debug\net8.0\refint\done_MiniMax.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_MiniMax\done_MiniMax\obj\Debug\net8.0\done_MiniMax.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_MiniMax\done_MiniMax\obj\Debug\net8.0\done_MiniMax.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_MiniMax\done_MiniMax\obj\Debug\net8.0\ref\done_MiniMax.dll

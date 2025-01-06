@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\teploty\teploty\bin\Debug\net8.0\teploty.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\teploty\teploty\bin\Debug\net8.0\teploty.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\teploty\teploty\bin\Debug\net8.0\teploty.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\teploty\teploty\bin\Debug\net8.0\teploty.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\teploty\teploty\bin\Debug\net8.0\teploty.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\teploty\teploty\obj\Debug\net8.0\teploty.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\teploty\teploty\obj\Debug\net8.0\teploty.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\teploty\teploty\obj\Debug\net8.0\teploty.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\teploty\teploty\obj\Debug\net8.0\teploty.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\teploty\teploty\obj\Debug\net8.0\teploty.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\teploty\teploty\obj\Debug\net8.0\teploty.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\teploty\teploty\obj\Debug\net8.0\refint\teploty.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\teploty\teploty\obj\Debug\net8.0\teploty.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\teploty\teploty\obj\Debug\net8.0\teploty.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\teploty\teploty\obj\Debug\net8.0\ref\teploty.dll

@@ -1,0 +1,14 @@
+C:\Users\jonas\source\repos\rohy_obdelnika\rohy_obdelnika\bin\Debug\net8.0\rohy_obdelnika.exe
+C:\Users\jonas\source\repos\rohy_obdelnika\rohy_obdelnika\bin\Debug\net8.0\rohy_obdelnika.deps.json
+C:\Users\jonas\source\repos\rohy_obdelnika\rohy_obdelnika\bin\Debug\net8.0\rohy_obdelnika.runtimeconfig.json
+C:\Users\jonas\source\repos\rohy_obdelnika\rohy_obdelnika\bin\Debug\net8.0\rohy_obdelnika.dll
+C:\Users\jonas\source\repos\rohy_obdelnika\rohy_obdelnika\bin\Debug\net8.0\rohy_obdelnika.pdb
+C:\Users\jonas\source\repos\rohy_obdelnika\rohy_obdelnika\obj\Debug\net8.0\rohy_obdelnika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\source\repos\rohy_obdelnika\rohy_obdelnika\obj\Debug\net8.0\rohy_obdelnika.AssemblyInfoInputs.cache
+C:\Users\jonas\source\repos\rohy_obdelnika\rohy_obdelnika\obj\Debug\net8.0\rohy_obdelnika.AssemblyInfo.cs
+C:\Users\jonas\source\repos\rohy_obdelnika\rohy_obdelnika\obj\Debug\net8.0\rohy_obdelnika.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\rohy_obdelnika\rohy_obdelnika\obj\Debug\net8.0\rohy_obdelnika.dll
+C:\Users\jonas\source\repos\rohy_obdelnika\rohy_obdelnika\obj\Debug\net8.0\refint\rohy_obdelnika.dll
+C:\Users\jonas\source\repos\rohy_obdelnika\rohy_obdelnika\obj\Debug\net8.0\rohy_obdelnika.pdb
+C:\Users\jonas\source\repos\rohy_obdelnika\rohy_obdelnika\obj\Debug\net8.0\rohy_obdelnika.genruntimeconfig.cache
+C:\Users\jonas\source\repos\rohy_obdelnika\rohy_obdelnika\obj\Debug\net8.0\ref\rohy_obdelnika.dll

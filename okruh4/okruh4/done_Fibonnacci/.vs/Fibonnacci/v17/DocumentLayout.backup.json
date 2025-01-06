@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\Fibonnacci\\",
+  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_Fibonnacci\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71752885-2021-429D-99D4-76BCA4232C02}|Fibonnacci\\Fibonnacci.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\okruh4\\okruh4\\fibonnacci\\fibonnacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71752885-2021-429D-99D4-76BCA4232C02}|Fibonnacci\\Fibonnacci.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\okruh4\\okruh4\\done_fibonnacci\\fibonnacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71752885-2021-429D-99D4-76BCA4232C02}|Fibonnacci\\Fibonnacci.csproj|solutionrelative:fibonnacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,11 +35,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\Fibonnacci\\Fibonnacci\\Program.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_Fibonnacci\\Fibonnacci\\Program.cs",
               "RelativeDocumentMoniker": "Fibonnacci\\Program.cs",
-              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\Fibonnacci\\Fibonnacci\\Program.cs",
-              "RelativeToolTip": "Fibonnacci\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_Fibonnacci\\Fibonnacci\\Program.cs*",
+              "RelativeToolTip": "Fibonnacci\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T07:56:09.15Z",
               "EditorCaption": ""

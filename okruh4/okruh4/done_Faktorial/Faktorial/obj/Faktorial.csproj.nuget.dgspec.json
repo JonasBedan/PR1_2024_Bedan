@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\Faktorial\\Faktorial\\Faktorial.csproj": {}
+    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_Faktorial\\Faktorial\\Faktorial.csproj": {}
   },
   "projects": {
-    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\Faktorial\\Faktorial\\Faktorial.csproj": {
+    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_Faktorial\\Faktorial\\Faktorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\Faktorial\\Faktorial\\Faktorial.csproj",
+        "projectUniqueName": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_Faktorial\\Faktorial\\Faktorial.csproj",
         "projectName": "Faktorial",
-        "projectPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\Faktorial\\Faktorial\\Faktorial.csproj",
+        "projectPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_Faktorial\\Faktorial\\Faktorial.csproj",
         "packagesPath": "C:\\Users\\jonas\\.nuget\\packages\\",
-        "outputPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\Faktorial\\Faktorial\\obj\\",
+        "outputPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_Faktorial\\Faktorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jonas\\AppData\\Roaming\\NuGet\\NuGet.Config",

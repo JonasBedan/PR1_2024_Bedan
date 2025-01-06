@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\ceho_je_vic\ceho_je_vic\bin\Debug\net8.0\ceho_je_vic.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\ceho_je_vic\ceho_je_vic\bin\Debug\net8.0\ceho_je_vic.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\ceho_je_vic\ceho_je_vic\bin\Debug\net8.0\ceho_je_vic.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\ceho_je_vic\ceho_je_vic\bin\Debug\net8.0\ceho_je_vic.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\ceho_je_vic\ceho_je_vic\bin\Debug\net8.0\ceho_je_vic.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\ceho_je_vic\ceho_je_vic\obj\Debug\net8.0\ceho_je_vic.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\ceho_je_vic\ceho_je_vic\obj\Debug\net8.0\ceho_je_vic.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\ceho_je_vic\ceho_je_vic\obj\Debug\net8.0\ceho_je_vic.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\ceho_je_vic\ceho_je_vic\obj\Debug\net8.0\ceho_je_vic.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\ceho_je_vic\ceho_je_vic\obj\Debug\net8.0\ceho_je_vic.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\ceho_je_vic\ceho_je_vic\obj\Debug\net8.0\ceho_je_vic.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\ceho_je_vic\ceho_je_vic\obj\Debug\net8.0\refint\ceho_je_vic.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\ceho_je_vic\ceho_je_vic\obj\Debug\net8.0\ceho_je_vic.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\ceho_je_vic\ceho_je_vic\obj\Debug\net8.0\ceho_je_vic.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\ceho_je_vic\ceho_je_vic\obj\Debug\net8.0\ref\ceho_je_vic.dll

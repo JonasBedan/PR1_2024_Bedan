@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\Fibonnacci\\Fibonnacci\\Fibonnacci.csproj": {}
+    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_Fibonnacci\\Fibonnacci\\Fibonnacci.csproj": {}
   },
   "projects": {
-    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\Fibonnacci\\Fibonnacci\\Fibonnacci.csproj": {
+    "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_Fibonnacci\\Fibonnacci\\Fibonnacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\Fibonnacci\\Fibonnacci\\Fibonnacci.csproj",
+        "projectUniqueName": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_Fibonnacci\\Fibonnacci\\Fibonnacci.csproj",
         "projectName": "Fibonnacci",
-        "projectPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\Fibonnacci\\Fibonnacci\\Fibonnacci.csproj",
+        "projectPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_Fibonnacci\\Fibonnacci\\Fibonnacci.csproj",
         "packagesPath": "C:\\Users\\jonas\\.nuget\\packages\\",
-        "outputPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\Fibonnacci\\Fibonnacci\\obj\\",
+        "outputPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_Fibonnacci\\Fibonnacci\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jonas\\AppData\\Roaming\\NuGet\\NuGet.Config",

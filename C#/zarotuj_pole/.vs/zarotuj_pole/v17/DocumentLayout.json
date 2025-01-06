@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\C#\\zarotuj_pole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B673A95-7C09-4CF8-88C0-7428AA79D4F2}|zarotuj_pole\\zarotuj_pole.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\c#\\zarotuj_pole\\zarotuj_pole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B673A95-7C09-4CF8-88C0-7428AA79D4F2}|zarotuj_pole\\zarotuj_pole.csproj|solutionrelative:zarotuj_pole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\C#\\zarotuj_pole\\zarotuj_pole\\Program.cs",
+              "RelativeDocumentMoniker": "zarotuj_pole\\Program.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\C#\\zarotuj_pole\\zarotuj_pole\\Program.cs",
+              "RelativeToolTip": "zarotuj_pole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:43:44.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

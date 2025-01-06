@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\Faktorial\\",
+  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_Faktorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6A753F2-B1E1-4129-8533-8E557DA4D515}|Faktorial\\Faktorial.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\okruh4\\okruh4\\faktorial\\faktorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6A753F2-B1E1-4129-8533-8E557DA4D515}|Faktorial\\Faktorial.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\okruh4\\okruh4\\done_faktorial\\faktorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6A753F2-B1E1-4129-8533-8E557DA4D515}|Faktorial\\Faktorial.csproj|solutionrelative:faktorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,11 +23,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\Faktorial\\Faktorial\\Program.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_Faktorial\\Faktorial\\Program.cs",
               "RelativeDocumentMoniker": "Faktorial\\Program.cs",
-              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\Faktorial\\Faktorial\\Program.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh4\\okruh4\\done_Faktorial\\Faktorial\\Program.cs",
               "RelativeToolTip": "Faktorial\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA7wAsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAsAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T07:54:04.485Z",
               "IsPinned": true,

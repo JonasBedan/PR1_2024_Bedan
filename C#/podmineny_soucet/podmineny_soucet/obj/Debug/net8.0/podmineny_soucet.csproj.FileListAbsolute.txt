@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\podmineny_soucet\podmineny_soucet\bin\Debug\net8.0\podmineny_soucet.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\podmineny_soucet\podmineny_soucet\bin\Debug\net8.0\podmineny_soucet.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\podmineny_soucet\podmineny_soucet\bin\Debug\net8.0\podmineny_soucet.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\podmineny_soucet\podmineny_soucet\bin\Debug\net8.0\podmineny_soucet.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\podmineny_soucet\podmineny_soucet\bin\Debug\net8.0\podmineny_soucet.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\podmineny_soucet\podmineny_soucet\obj\Debug\net8.0\podmineny_soucet.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\podmineny_soucet\podmineny_soucet\obj\Debug\net8.0\podmineny_soucet.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\podmineny_soucet\podmineny_soucet\obj\Debug\net8.0\podmineny_soucet.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\podmineny_soucet\podmineny_soucet\obj\Debug\net8.0\podmineny_soucet.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\podmineny_soucet\podmineny_soucet\obj\Debug\net8.0\podmineny_soucet.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\podmineny_soucet\podmineny_soucet\obj\Debug\net8.0\podmineny_soucet.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\podmineny_soucet\podmineny_soucet\obj\Debug\net8.0\refint\podmineny_soucet.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\podmineny_soucet\podmineny_soucet\obj\Debug\net8.0\podmineny_soucet.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\podmineny_soucet\podmineny_soucet\obj\Debug\net8.0\podmineny_soucet.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\podmineny_soucet\podmineny_soucet\obj\Debug\net8.0\ref\podmineny_soucet.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ceho_je_vic", "ceho_je_vic\ceho_je_vic.csproj", "{F4B3D888-A9ED-40EA-A33E-E81F555469CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4B3D888-A9ED-40EA-A33E-E81F555469CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B3D888-A9ED-40EA-A33E-E81F555469CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B3D888-A9ED-40EA-A33E-E81F555469CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B3D888-A9ED-40EA-A33E-E81F555469CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {953D99DC-7F62-4590-B416-321585E5CD04}
+	EndGlobalSection
+EndGlobal

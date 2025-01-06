@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_je_pole_strizene\done_je_pole_strizene\bin\Debug\net8.0\done_je_pole_strizene.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_je_pole_strizene\done_je_pole_strizene\bin\Debug\net8.0\done_je_pole_strizene.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_je_pole_strizene\done_je_pole_strizene\bin\Debug\net8.0\done_je_pole_strizene.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_je_pole_strizene\done_je_pole_strizene\bin\Debug\net8.0\done_je_pole_strizene.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_je_pole_strizene\done_je_pole_strizene\bin\Debug\net8.0\done_je_pole_strizene.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_je_pole_strizene\done_je_pole_strizene\obj\Debug\net8.0\done_je_pole_strizene.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_je_pole_strizene\done_je_pole_strizene\obj\Debug\net8.0\done_je_pole_strizene.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_je_pole_strizene\done_je_pole_strizene\obj\Debug\net8.0\done_je_pole_strizene.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_je_pole_strizene\done_je_pole_strizene\obj\Debug\net8.0\done_je_pole_strizene.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_je_pole_strizene\done_je_pole_strizene\obj\Debug\net8.0\done_je_pole_strizene.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_je_pole_strizene\done_je_pole_strizene\obj\Debug\net8.0\done_je_pole_strizene.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_je_pole_strizene\done_je_pole_strizene\obj\Debug\net8.0\refint\done_je_pole_strizene.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_je_pole_strizene\done_je_pole_strizene\obj\Debug\net8.0\done_je_pole_strizene.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_je_pole_strizene\done_je_pole_strizene\obj\Debug\net8.0\done_je_pole_strizene.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_je_pole_strizene\done_je_pole_strizene\obj\Debug\net8.0\ref\done_je_pole_strizene.dll

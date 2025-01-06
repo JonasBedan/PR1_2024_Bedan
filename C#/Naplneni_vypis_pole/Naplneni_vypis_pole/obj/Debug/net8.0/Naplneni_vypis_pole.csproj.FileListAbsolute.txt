@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\Naplneni_vypis_pole\Naplneni_vypis_pole\bin\Debug\net8.0\Naplneni_vypis_pole.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\Naplneni_vypis_pole\Naplneni_vypis_pole\bin\Debug\net8.0\Naplneni_vypis_pole.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\Naplneni_vypis_pole\Naplneni_vypis_pole\bin\Debug\net8.0\Naplneni_vypis_pole.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\Naplneni_vypis_pole\Naplneni_vypis_pole\bin\Debug\net8.0\Naplneni_vypis_pole.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\Naplneni_vypis_pole\Naplneni_vypis_pole\bin\Debug\net8.0\Naplneni_vypis_pole.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\Naplneni_vypis_pole\Naplneni_vypis_pole\obj\Debug\net8.0\Naplneni_vypis_pole.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\Naplneni_vypis_pole\Naplneni_vypis_pole\obj\Debug\net8.0\Naplneni_vypis_pole.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\Naplneni_vypis_pole\Naplneni_vypis_pole\obj\Debug\net8.0\Naplneni_vypis_pole.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\Naplneni_vypis_pole\Naplneni_vypis_pole\obj\Debug\net8.0\Naplneni_vypis_pole.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\Naplneni_vypis_pole\Naplneni_vypis_pole\obj\Debug\net8.0\Naplneni_vypis_pole.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\Naplneni_vypis_pole\Naplneni_vypis_pole\obj\Debug\net8.0\Naplneni_vypis_pole.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\Naplneni_vypis_pole\Naplneni_vypis_pole\obj\Debug\net8.0\refint\Naplneni_vypis_pole.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\Naplneni_vypis_pole\Naplneni_vypis_pole\obj\Debug\net8.0\Naplneni_vypis_pole.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\Naplneni_vypis_pole\Naplneni_vypis_pole\obj\Debug\net8.0\Naplneni_vypis_pole.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\Naplneni_vypis_pole\Naplneni_vypis_pole\obj\Debug\net8.0\ref\Naplneni_vypis_pole.dll

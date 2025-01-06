@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\test\test\bin\Debug\net8.0\test.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\test\test\bin\Debug\net8.0\test.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\test\test\bin\Debug\net8.0\test.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\test\test\bin\Debug\net8.0\test.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\test\test\bin\Debug\net8.0\test.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\test\test\obj\Debug\net8.0\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\test\test\obj\Debug\net8.0\test.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\test\test\obj\Debug\net8.0\test.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\test\test\obj\Debug\net8.0\test.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\test\test\obj\Debug\net8.0\test.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\test\test\obj\Debug\net8.0\test.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\test\test\obj\Debug\net8.0\refint\test.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\test\test\obj\Debug\net8.0\test.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\test\test\obj\Debug\net8.0\test.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\test\test\obj\Debug\net8.0\ref\test.dll

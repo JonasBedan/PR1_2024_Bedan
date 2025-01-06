@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_dlouhe_retezce\done_dlouhe_retezce\bin\Debug\net8.0\done_dlouhe_retezce.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_dlouhe_retezce\done_dlouhe_retezce\bin\Debug\net8.0\done_dlouhe_retezce.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_dlouhe_retezce\done_dlouhe_retezce\bin\Debug\net8.0\done_dlouhe_retezce.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_dlouhe_retezce\done_dlouhe_retezce\bin\Debug\net8.0\done_dlouhe_retezce.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_dlouhe_retezce\done_dlouhe_retezce\bin\Debug\net8.0\done_dlouhe_retezce.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_dlouhe_retezce\done_dlouhe_retezce\obj\Debug\net8.0\done_dlouhe_retezce.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_dlouhe_retezce\done_dlouhe_retezce\obj\Debug\net8.0\done_dlouhe_retezce.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_dlouhe_retezce\done_dlouhe_retezce\obj\Debug\net8.0\done_dlouhe_retezce.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_dlouhe_retezce\done_dlouhe_retezce\obj\Debug\net8.0\done_dlouhe_retezce.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_dlouhe_retezce\done_dlouhe_retezce\obj\Debug\net8.0\done_dlouhe_retezce.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_dlouhe_retezce\done_dlouhe_retezce\obj\Debug\net8.0\done_dlouhe_retezce.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_dlouhe_retezce\done_dlouhe_retezce\obj\Debug\net8.0\refint\done_dlouhe_retezce.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_dlouhe_retezce\done_dlouhe_retezce\obj\Debug\net8.0\done_dlouhe_retezce.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_dlouhe_retezce\done_dlouhe_retezce\obj\Debug\net8.0\done_dlouhe_retezce.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_dlouhe_retezce\done_dlouhe_retezce\obj\Debug\net8.0\ref\done_dlouhe_retezce.dll

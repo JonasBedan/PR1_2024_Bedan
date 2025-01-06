@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fibonnacci")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb09d30f77930d4333c7181da3afdb454dd6c577")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1b31febe2df579828aacdbf4137227e3247b474")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fibonnacci")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fibonnacci")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
