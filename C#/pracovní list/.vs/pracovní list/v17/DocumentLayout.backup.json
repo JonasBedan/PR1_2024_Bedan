@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\C#\\pracovn\u00ED list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB31CAF-22A4-4E59-94B2-CC5F71907338}|pracovn\u00ED list\\pracovn\u00ED list.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\c#\\pracovn\u00ED list\\pracovn\u00ED list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB31CAF-22A4-4E59-94B2-CC5F71907338}|pracovn\u00ED list\\pracovn\u00ED list.csproj|solutionrelative:pracovn\u00ED list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\C#\\pracovn\u00ED list\\pracovn\u00ED list\\Program.cs",
+              "RelativeDocumentMoniker": "pracovn\u00ED list\\Program.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\C#\\pracovn\u00ED list\\pracovn\u00ED list\\Program.cs",
+              "RelativeToolTip": "pracovn\u00ED list\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:01:22.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

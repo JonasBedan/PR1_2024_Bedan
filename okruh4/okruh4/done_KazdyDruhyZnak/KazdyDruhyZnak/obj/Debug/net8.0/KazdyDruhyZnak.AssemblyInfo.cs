@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KazdyDruhyZnak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1b31febe2df579828aacdbf4137227e3247b474")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85f5481c53529ea77f7d8483ff16ad84dc5927db")]
 [assembly: System.Reflection.AssemblyProductAttribute("KazdyDruhyZnak")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KazdyDruhyZnak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

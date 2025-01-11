@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KNP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2ea4e06325332037ff094eacd8b0fb8164d12f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85f5481c53529ea77f7d8483ff16ad84dc5927db")]
 [assembly: System.Reflection.AssemblyProductAttribute("KNP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KNP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

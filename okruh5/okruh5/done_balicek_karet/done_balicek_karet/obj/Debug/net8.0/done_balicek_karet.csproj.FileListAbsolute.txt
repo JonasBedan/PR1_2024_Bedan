@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_balicek_karet\done_balicek_karet\bin\Debug\net8.0\done_balicek_karet.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_balicek_karet\done_balicek_karet\bin\Debug\net8.0\done_balicek_karet.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_balicek_karet\done_balicek_karet\bin\Debug\net8.0\done_balicek_karet.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_balicek_karet\done_balicek_karet\bin\Debug\net8.0\done_balicek_karet.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_balicek_karet\done_balicek_karet\bin\Debug\net8.0\done_balicek_karet.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_balicek_karet\done_balicek_karet\obj\Debug\net8.0\done_balicek_karet.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_balicek_karet\done_balicek_karet\obj\Debug\net8.0\done_balicek_karet.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_balicek_karet\done_balicek_karet\obj\Debug\net8.0\done_balicek_karet.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_balicek_karet\done_balicek_karet\obj\Debug\net8.0\done_balicek_karet.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_balicek_karet\done_balicek_karet\obj\Debug\net8.0\done_balicek_karet.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_balicek_karet\done_balicek_karet\obj\Debug\net8.0\done_balicek_karet.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_balicek_karet\done_balicek_karet\obj\Debug\net8.0\refint\done_balicek_karet.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_balicek_karet\done_balicek_karet\obj\Debug\net8.0\done_balicek_karet.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_balicek_karet\done_balicek_karet\obj\Debug\net8.0\done_balicek_karet.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh5\okruh5\done_balicek_karet\done_balicek_karet\obj\Debug\net8.0\ref\done_balicek_karet.dll
