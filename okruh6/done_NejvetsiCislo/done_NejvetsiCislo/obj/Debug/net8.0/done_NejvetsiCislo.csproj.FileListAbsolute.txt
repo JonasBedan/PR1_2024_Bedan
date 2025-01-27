@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_NejvetsiCislo\done_NejvetsiCislo\bin\Debug\net8.0\done_NejvetsiCislo.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_NejvetsiCislo\done_NejvetsiCislo\bin\Debug\net8.0\done_NejvetsiCislo.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_NejvetsiCislo\done_NejvetsiCislo\bin\Debug\net8.0\done_NejvetsiCislo.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_NejvetsiCislo\done_NejvetsiCislo\bin\Debug\net8.0\done_NejvetsiCislo.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_NejvetsiCislo\done_NejvetsiCislo\bin\Debug\net8.0\done_NejvetsiCislo.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_NejvetsiCislo\done_NejvetsiCislo\obj\Debug\net8.0\done_NejvetsiCislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_NejvetsiCislo\done_NejvetsiCislo\obj\Debug\net8.0\done_NejvetsiCislo.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_NejvetsiCislo\done_NejvetsiCislo\obj\Debug\net8.0\done_NejvetsiCislo.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_NejvetsiCislo\done_NejvetsiCislo\obj\Debug\net8.0\done_NejvetsiCislo.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_NejvetsiCislo\done_NejvetsiCislo\obj\Debug\net8.0\done_NejvetsiCislo.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_NejvetsiCislo\done_NejvetsiCislo\obj\Debug\net8.0\done_NejvetsiCislo.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_NejvetsiCislo\done_NejvetsiCislo\obj\Debug\net8.0\refint\done_NejvetsiCislo.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_NejvetsiCislo\done_NejvetsiCislo\obj\Debug\net8.0\done_NejvetsiCislo.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_NejvetsiCislo\done_NejvetsiCislo\obj\Debug\net8.0\done_NejvetsiCislo.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_NejvetsiCislo\done_NejvetsiCislo\obj\Debug\net8.0\ref\done_NejvetsiCislo.dll

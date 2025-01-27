@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_obvod_kruhu\done_obvod_kruhu\bin\Debug\net8.0\done_obvod_kruhu.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_obvod_kruhu\done_obvod_kruhu\bin\Debug\net8.0\done_obvod_kruhu.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_obvod_kruhu\done_obvod_kruhu\bin\Debug\net8.0\done_obvod_kruhu.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_obvod_kruhu\done_obvod_kruhu\bin\Debug\net8.0\done_obvod_kruhu.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_obvod_kruhu\done_obvod_kruhu\bin\Debug\net8.0\done_obvod_kruhu.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_obvod_kruhu\done_obvod_kruhu\obj\Debug\net8.0\done_obvod_kruhu.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_obvod_kruhu\done_obvod_kruhu\obj\Debug\net8.0\done_obvod_kruhu.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_obvod_kruhu\done_obvod_kruhu\obj\Debug\net8.0\done_obvod_kruhu.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_obvod_kruhu\done_obvod_kruhu\obj\Debug\net8.0\done_obvod_kruhu.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_obvod_kruhu\done_obvod_kruhu\obj\Debug\net8.0\done_obvod_kruhu.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_obvod_kruhu\done_obvod_kruhu\obj\Debug\net8.0\done_obvod_kruhu.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_obvod_kruhu\done_obvod_kruhu\obj\Debug\net8.0\refint\done_obvod_kruhu.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_obvod_kruhu\done_obvod_kruhu\obj\Debug\net8.0\done_obvod_kruhu.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_obvod_kruhu\done_obvod_kruhu\obj\Debug\net8.0\done_obvod_kruhu.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_obvod_kruhu\done_obvod_kruhu\obj\Debug\net8.0\ref\done_obvod_kruhu.dll

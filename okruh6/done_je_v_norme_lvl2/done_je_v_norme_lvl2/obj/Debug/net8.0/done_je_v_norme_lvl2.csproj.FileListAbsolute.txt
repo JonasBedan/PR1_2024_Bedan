@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme_lvl2\done_je_v_norme_lvl2\bin\Debug\net8.0\done_je_v_norme_lvl2.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme_lvl2\done_je_v_norme_lvl2\bin\Debug\net8.0\done_je_v_norme_lvl2.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme_lvl2\done_je_v_norme_lvl2\bin\Debug\net8.0\done_je_v_norme_lvl2.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme_lvl2\done_je_v_norme_lvl2\bin\Debug\net8.0\done_je_v_norme_lvl2.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme_lvl2\done_je_v_norme_lvl2\bin\Debug\net8.0\done_je_v_norme_lvl2.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme_lvl2\done_je_v_norme_lvl2\obj\Debug\net8.0\done_je_v_norme_lvl2.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme_lvl2\done_je_v_norme_lvl2\obj\Debug\net8.0\done_je_v_norme_lvl2.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme_lvl2\done_je_v_norme_lvl2\obj\Debug\net8.0\done_je_v_norme_lvl2.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme_lvl2\done_je_v_norme_lvl2\obj\Debug\net8.0\done_je_v_norme_lvl2.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme_lvl2\done_je_v_norme_lvl2\obj\Debug\net8.0\done_je_v_norme_lvl2.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme_lvl2\done_je_v_norme_lvl2\obj\Debug\net8.0\done_je_v_norme_lvl2.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme_lvl2\done_je_v_norme_lvl2\obj\Debug\net8.0\refint\done_je_v_norme_lvl2.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme_lvl2\done_je_v_norme_lvl2\obj\Debug\net8.0\done_je_v_norme_lvl2.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme_lvl2\done_je_v_norme_lvl2\obj\Debug\net8.0\done_je_v_norme_lvl2.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme_lvl2\done_je_v_norme_lvl2\obj\Debug\net8.0\ref\done_je_v_norme_lvl2.dll

@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kolikaty_jsem\done_kolikaty_jsem\bin\Debug\net8.0\done_kolikaty_jsem.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kolikaty_jsem\done_kolikaty_jsem\bin\Debug\net8.0\done_kolikaty_jsem.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kolikaty_jsem\done_kolikaty_jsem\bin\Debug\net8.0\done_kolikaty_jsem.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kolikaty_jsem\done_kolikaty_jsem\bin\Debug\net8.0\done_kolikaty_jsem.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kolikaty_jsem\done_kolikaty_jsem\bin\Debug\net8.0\done_kolikaty_jsem.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kolikaty_jsem\done_kolikaty_jsem\obj\Debug\net8.0\done_kolikaty_jsem.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kolikaty_jsem\done_kolikaty_jsem\obj\Debug\net8.0\done_kolikaty_jsem.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kolikaty_jsem\done_kolikaty_jsem\obj\Debug\net8.0\done_kolikaty_jsem.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kolikaty_jsem\done_kolikaty_jsem\obj\Debug\net8.0\done_kolikaty_jsem.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kolikaty_jsem\done_kolikaty_jsem\obj\Debug\net8.0\done_kolikaty_jsem.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kolikaty_jsem\done_kolikaty_jsem\obj\Debug\net8.0\done_kolikaty_jsem.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kolikaty_jsem\done_kolikaty_jsem\obj\Debug\net8.0\refint\done_kolikaty_jsem.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kolikaty_jsem\done_kolikaty_jsem\obj\Debug\net8.0\done_kolikaty_jsem.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kolikaty_jsem\done_kolikaty_jsem\obj\Debug\net8.0\done_kolikaty_jsem.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kolikaty_jsem\done_kolikaty_jsem\obj\Debug\net8.0\ref\done_kolikaty_jsem.dll

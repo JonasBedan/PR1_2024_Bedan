@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kbeliky\done_kbeliky\bin\Debug\net8.0\done_kbeliky.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kbeliky\done_kbeliky\bin\Debug\net8.0\done_kbeliky.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kbeliky\done_kbeliky\bin\Debug\net8.0\done_kbeliky.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kbeliky\done_kbeliky\bin\Debug\net8.0\done_kbeliky.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kbeliky\done_kbeliky\bin\Debug\net8.0\done_kbeliky.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kbeliky\done_kbeliky\obj\Debug\net8.0\done_kbeliky.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kbeliky\done_kbeliky\obj\Debug\net8.0\done_kbeliky.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kbeliky\done_kbeliky\obj\Debug\net8.0\done_kbeliky.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kbeliky\done_kbeliky\obj\Debug\net8.0\done_kbeliky.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kbeliky\done_kbeliky\obj\Debug\net8.0\done_kbeliky.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kbeliky\done_kbeliky\obj\Debug\net8.0\done_kbeliky.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kbeliky\done_kbeliky\obj\Debug\net8.0\refint\done_kbeliky.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kbeliky\done_kbeliky\obj\Debug\net8.0\done_kbeliky.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kbeliky\done_kbeliky\obj\Debug\net8.0\done_kbeliky.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kbeliky\done_kbeliky\obj\Debug\net8.0\ref\done_kbeliky.dll

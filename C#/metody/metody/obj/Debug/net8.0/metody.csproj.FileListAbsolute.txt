@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\metody\metody\bin\Debug\net8.0\metody.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\metody\metody\bin\Debug\net8.0\metody.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\metody\metody\bin\Debug\net8.0\metody.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\metody\metody\bin\Debug\net8.0\metody.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\metody\metody\bin\Debug\net8.0\metody.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\metody\metody\obj\Debug\net8.0\metody.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\metody\metody\obj\Debug\net8.0\metody.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\metody\metody\obj\Debug\net8.0\metody.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\metody\metody\obj\Debug\net8.0\metody.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\metody\metody\obj\Debug\net8.0\metody.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\metody\metody\obj\Debug\net8.0\metody.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\metody\metody\obj\Debug\net8.0\refint\metody.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\metody\metody\obj\Debug\net8.0\metody.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\metody\metody\obj\Debug\net8.0\metody.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\C#\metody\metody\obj\Debug\net8.0\ref\metody.dll

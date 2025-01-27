@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\C#\\metody\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01E1185B-5A0A-48BB-B8A3-EAC94AC50F8C}|metody\\metody.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\c#\\metody\\metody\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E1185B-5A0A-48BB-B8A3-EAC94AC50F8C}|metody\\metody.csproj|solutionrelative:metody\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\C#\\metody\\metody\\Program.cs",
+              "RelativeDocumentMoniker": "metody\\Program.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\C#\\metody\\metody\\Program.cs",
+              "RelativeToolTip": "metody\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:52:54.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

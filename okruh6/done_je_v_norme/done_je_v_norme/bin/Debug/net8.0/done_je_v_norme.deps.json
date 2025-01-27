@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "done_je_v_norme/1.0.0": {
+        "runtime": {
+          "done_je_v_norme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "done_je_v_norme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

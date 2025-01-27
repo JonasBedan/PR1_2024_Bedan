@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme\done_je_v_norme\bin\Debug\net8.0\done_je_v_norme.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme\done_je_v_norme\bin\Debug\net8.0\done_je_v_norme.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme\done_je_v_norme\bin\Debug\net8.0\done_je_v_norme.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme\done_je_v_norme\bin\Debug\net8.0\done_je_v_norme.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme\done_je_v_norme\bin\Debug\net8.0\done_je_v_norme.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme\done_je_v_norme\obj\Debug\net8.0\done_je_v_norme.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme\done_je_v_norme\obj\Debug\net8.0\done_je_v_norme.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme\done_je_v_norme\obj\Debug\net8.0\done_je_v_norme.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme\done_je_v_norme\obj\Debug\net8.0\done_je_v_norme.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme\done_je_v_norme\obj\Debug\net8.0\done_je_v_norme.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme\done_je_v_norme\obj\Debug\net8.0\done_je_v_norme.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme\done_je_v_norme\obj\Debug\net8.0\refint\done_je_v_norme.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme\done_je_v_norme\obj\Debug\net8.0\done_je_v_norme.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme\done_je_v_norme\obj\Debug\net8.0\done_je_v_norme.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_je_v_norme\done_je_v_norme\obj\Debug\net8.0\ref\done_je_v_norme.dll

@@ -1,0 +1,20 @@
+﻿using System;
+
+class MainClass
+{
+    
+    public static void Main(string[] args)
+    {
+        Console.Write("Zadej první slovo: ");
+        string slovo1 = Console.ReadLine();
+
+        Console.Write("Zadej druhé slovo: ");
+        string slovo2 = Console.ReadLine();
+
+        string delsiSlovo =  // sem přijde zavolání vaší metody, nic jiného zde neměňte
+        Console.WriteLine($"Když porovnáme {slovo1} a {slovo2}, pak delší je {delsiSlovo}.");
+    }
+
+    //sem přijde deklarace vaší metody
+    //jak udělat hlavičku: obdrží dva řetězce a vrátí delší z nich
+}

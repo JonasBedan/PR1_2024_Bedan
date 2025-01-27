@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_hodnoty_pod_limitem\done_hodnoty_pod_limitem\bin\Debug\net8.0\done_hodnoty_pod_limitem.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_hodnoty_pod_limitem\done_hodnoty_pod_limitem\bin\Debug\net8.0\done_hodnoty_pod_limitem.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_hodnoty_pod_limitem\done_hodnoty_pod_limitem\bin\Debug\net8.0\done_hodnoty_pod_limitem.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_hodnoty_pod_limitem\done_hodnoty_pod_limitem\bin\Debug\net8.0\done_hodnoty_pod_limitem.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_hodnoty_pod_limitem\done_hodnoty_pod_limitem\bin\Debug\net8.0\done_hodnoty_pod_limitem.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_hodnoty_pod_limitem\done_hodnoty_pod_limitem\obj\Debug\net8.0\done_hodnoty_pod_limitem.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_hodnoty_pod_limitem\done_hodnoty_pod_limitem\obj\Debug\net8.0\done_hodnoty_pod_limitem.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_hodnoty_pod_limitem\done_hodnoty_pod_limitem\obj\Debug\net8.0\done_hodnoty_pod_limitem.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_hodnoty_pod_limitem\done_hodnoty_pod_limitem\obj\Debug\net8.0\done_hodnoty_pod_limitem.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_hodnoty_pod_limitem\done_hodnoty_pod_limitem\obj\Debug\net8.0\done_hodnoty_pod_limitem.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_hodnoty_pod_limitem\done_hodnoty_pod_limitem\obj\Debug\net8.0\done_hodnoty_pod_limitem.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_hodnoty_pod_limitem\done_hodnoty_pod_limitem\obj\Debug\net8.0\refint\done_hodnoty_pod_limitem.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_hodnoty_pod_limitem\done_hodnoty_pod_limitem\obj\Debug\net8.0\done_hodnoty_pod_limitem.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_hodnoty_pod_limitem\done_hodnoty_pod_limitem\obj\Debug\net8.0\done_hodnoty_pod_limitem.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_hodnoty_pod_limitem\done_hodnoty_pod_limitem\obj\Debug\net8.0\ref\done_hodnoty_pod_limitem.dll

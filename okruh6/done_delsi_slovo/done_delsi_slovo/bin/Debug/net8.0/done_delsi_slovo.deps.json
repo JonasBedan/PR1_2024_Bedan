@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "done_delsi_slovo/1.0.0": {
+        "runtime": {
+          "done_delsi_slovo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "done_delsi_slovo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "done_kolikaty_jsem/1.0.0": {
+        "runtime": {
+          "done_kolikaty_jsem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "done_kolikaty_jsem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

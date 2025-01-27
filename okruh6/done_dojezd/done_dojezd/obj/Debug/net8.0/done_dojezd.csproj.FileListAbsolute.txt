@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_dojezd\done_dojezd\bin\Debug\net8.0\done_dojezd.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_dojezd\done_dojezd\bin\Debug\net8.0\done_dojezd.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_dojezd\done_dojezd\bin\Debug\net8.0\done_dojezd.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_dojezd\done_dojezd\bin\Debug\net8.0\done_dojezd.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_dojezd\done_dojezd\bin\Debug\net8.0\done_dojezd.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_dojezd\done_dojezd\obj\Debug\net8.0\done_dojezd.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_dojezd\done_dojezd\obj\Debug\net8.0\done_dojezd.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_dojezd\done_dojezd\obj\Debug\net8.0\done_dojezd.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_dojezd\done_dojezd\obj\Debug\net8.0\done_dojezd.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_dojezd\done_dojezd\obj\Debug\net8.0\done_dojezd.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_dojezd\done_dojezd\obj\Debug\net8.0\done_dojezd.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_dojezd\done_dojezd\obj\Debug\net8.0\refint\done_dojezd.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_dojezd\done_dojezd\obj\Debug\net8.0\done_dojezd.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_dojezd\done_dojezd\obj\Debug\net8.0\done_dojezd.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_dojezd\done_dojezd\obj\Debug\net8.0\ref\done_dojezd.dll

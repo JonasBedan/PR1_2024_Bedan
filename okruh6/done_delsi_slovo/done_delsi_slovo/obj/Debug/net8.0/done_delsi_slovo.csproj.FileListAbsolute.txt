@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_delsi_slovo\done_delsi_slovo\bin\Debug\net8.0\done_delsi_slovo.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_delsi_slovo\done_delsi_slovo\bin\Debug\net8.0\done_delsi_slovo.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_delsi_slovo\done_delsi_slovo\bin\Debug\net8.0\done_delsi_slovo.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_delsi_slovo\done_delsi_slovo\bin\Debug\net8.0\done_delsi_slovo.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_delsi_slovo\done_delsi_slovo\bin\Debug\net8.0\done_delsi_slovo.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_delsi_slovo\done_delsi_slovo\obj\Debug\net8.0\done_delsi_slovo.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_delsi_slovo\done_delsi_slovo\obj\Debug\net8.0\done_delsi_slovo.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_delsi_slovo\done_delsi_slovo\obj\Debug\net8.0\done_delsi_slovo.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_delsi_slovo\done_delsi_slovo\obj\Debug\net8.0\done_delsi_slovo.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_delsi_slovo\done_delsi_slovo\obj\Debug\net8.0\done_delsi_slovo.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_delsi_slovo\done_delsi_slovo\obj\Debug\net8.0\done_delsi_slovo.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_delsi_slovo\done_delsi_slovo\obj\Debug\net8.0\refint\done_delsi_slovo.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_delsi_slovo\done_delsi_slovo\obj\Debug\net8.0\done_delsi_slovo.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_delsi_slovo\done_delsi_slovo\obj\Debug\net8.0\done_delsi_slovo.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_delsi_slovo\done_delsi_slovo\obj\Debug\net8.0\ref\done_delsi_slovo.dll
