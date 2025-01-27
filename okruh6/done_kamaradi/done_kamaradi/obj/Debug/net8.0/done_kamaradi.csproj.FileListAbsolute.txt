@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kamaradi\done_kamaradi\bin\Debug\net8.0\done_kamaradi.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kamaradi\done_kamaradi\bin\Debug\net8.0\done_kamaradi.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kamaradi\done_kamaradi\bin\Debug\net8.0\done_kamaradi.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kamaradi\done_kamaradi\bin\Debug\net8.0\done_kamaradi.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kamaradi\done_kamaradi\bin\Debug\net8.0\done_kamaradi.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kamaradi\done_kamaradi\obj\Debug\net8.0\done_kamaradi.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kamaradi\done_kamaradi\obj\Debug\net8.0\done_kamaradi.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kamaradi\done_kamaradi\obj\Debug\net8.0\done_kamaradi.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kamaradi\done_kamaradi\obj\Debug\net8.0\done_kamaradi.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kamaradi\done_kamaradi\obj\Debug\net8.0\done_kamaradi.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kamaradi\done_kamaradi\obj\Debug\net8.0\done_kamaradi.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kamaradi\done_kamaradi\obj\Debug\net8.0\refint\done_kamaradi.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kamaradi\done_kamaradi\obj\Debug\net8.0\done_kamaradi.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kamaradi\done_kamaradi\obj\Debug\net8.0\done_kamaradi.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\done_kamaradi\done_kamaradi\obj\Debug\net8.0\ref\done_kamaradi.dll
