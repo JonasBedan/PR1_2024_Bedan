@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\vymena1\vymena1\bin\Debug\net8.0\vymena1.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\vymena1\vymena1\bin\Debug\net8.0\vymena1.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\vymena1\vymena1\bin\Debug\net8.0\vymena1.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\vymena1\vymena1\bin\Debug\net8.0\vymena1.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\vymena1\vymena1\bin\Debug\net8.0\vymena1.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\vymena1\vymena1\obj\Debug\net8.0\vymena1.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\vymena1\vymena1\obj\Debug\net8.0\vymena1.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\vymena1\vymena1\obj\Debug\net8.0\vymena1.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\vymena1\vymena1\obj\Debug\net8.0\vymena1.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\vymena1\vymena1\obj\Debug\net8.0\vymena1.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\vymena1\vymena1\obj\Debug\net8.0\vymena1.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\vymena1\vymena1\obj\Debug\net8.0\refint\vymena1.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\vymena1\vymena1\obj\Debug\net8.0\vymena1.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\vymena1\vymena1\obj\Debug\net8.0\vymena1.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh6\vymena1\vymena1\obj\Debug\net8.0\ref\vymena1.dll
