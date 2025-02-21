@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_svah\done_svah\bin\Debug\net8.0\done_svah.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_svah\done_svah\bin\Debug\net8.0\done_svah.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_svah\done_svah\bin\Debug\net8.0\done_svah.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_svah\done_svah\bin\Debug\net8.0\done_svah.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_svah\done_svah\bin\Debug\net8.0\done_svah.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_svah\done_svah\obj\Debug\net8.0\done_svah.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_svah\done_svah\obj\Debug\net8.0\done_svah.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_svah\done_svah\obj\Debug\net8.0\done_svah.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_svah\done_svah\obj\Debug\net8.0\done_svah.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_svah\done_svah\obj\Debug\net8.0\done_svah.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_svah\done_svah\obj\Debug\net8.0\done_svah.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_svah\done_svah\obj\Debug\net8.0\refint\done_svah.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_svah\done_svah\obj\Debug\net8.0\done_svah.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_svah\done_svah\obj\Debug\net8.0\done_svah.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_svah\done_svah\obj\Debug\net8.0\ref\done_svah.dll

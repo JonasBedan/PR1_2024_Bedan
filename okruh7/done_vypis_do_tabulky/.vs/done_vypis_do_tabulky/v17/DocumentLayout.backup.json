@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh7\\done_vypis_do_tabulky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84594FE8-290F-4DB4-80EB-49758672046E}|done_vypis_do_tabulky\\done_vypis_do_tabulky.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\okruh7\\done_vypis_do_tabulky\\done_vypis_do_tabulky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84594FE8-290F-4DB4-80EB-49758672046E}|done_vypis_do_tabulky\\done_vypis_do_tabulky.csproj|solutionrelative:done_vypis_do_tabulky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh7\\done_vypis_do_tabulky\\done_vypis_do_tabulky\\Program.cs",
+              "RelativeDocumentMoniker": "done_vypis_do_tabulky\\Program.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh7\\done_vypis_do_tabulky\\done_vypis_do_tabulky\\Program.cs",
+              "RelativeToolTip": "done_vypis_do_tabulky\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:33:58.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\hledani_min\hledani_min\bin\Debug\net8.0\hledani_min.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\hledani_min\hledani_min\bin\Debug\net8.0\hledani_min.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\hledani_min\hledani_min\bin\Debug\net8.0\hledani_min.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\hledani_min\hledani_min\bin\Debug\net8.0\hledani_min.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\hledani_min\hledani_min\bin\Debug\net8.0\hledani_min.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\hledani_min\hledani_min\obj\Debug\net8.0\hledani_min.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\hledani_min\hledani_min\obj\Debug\net8.0\hledani_min.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\hledani_min\hledani_min\obj\Debug\net8.0\hledani_min.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\hledani_min\hledani_min\obj\Debug\net8.0\hledani_min.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\hledani_min\hledani_min\obj\Debug\net8.0\hledani_min.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\hledani_min\hledani_min\obj\Debug\net8.0\hledani_min.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\hledani_min\hledani_min\obj\Debug\net8.0\refint\hledani_min.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\hledani_min\hledani_min\obj\Debug\net8.0\hledani_min.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\hledani_min\hledani_min\obj\Debug\net8.0\hledani_min.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\hledani_min\hledani_min\obj\Debug\net8.0\ref\hledani_min.dll

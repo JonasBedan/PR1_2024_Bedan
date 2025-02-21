@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_ucetni\done_ucetni\bin\Debug\net8.0\done_ucetni.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_ucetni\done_ucetni\bin\Debug\net8.0\done_ucetni.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_ucetni\done_ucetni\bin\Debug\net8.0\done_ucetni.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_ucetni\done_ucetni\bin\Debug\net8.0\done_ucetni.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_ucetni\done_ucetni\bin\Debug\net8.0\done_ucetni.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_ucetni\done_ucetni\obj\Debug\net8.0\done_ucetni.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_ucetni\done_ucetni\obj\Debug\net8.0\done_ucetni.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_ucetni\done_ucetni\obj\Debug\net8.0\done_ucetni.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_ucetni\done_ucetni\obj\Debug\net8.0\done_ucetni.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_ucetni\done_ucetni\obj\Debug\net8.0\done_ucetni.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_ucetni\done_ucetni\obj\Debug\net8.0\done_ucetni.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_ucetni\done_ucetni\obj\Debug\net8.0\refint\done_ucetni.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_ucetni\done_ucetni\obj\Debug\net8.0\done_ucetni.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_ucetni\done_ucetni\obj\Debug\net8.0\done_ucetni.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_ucetni\done_ucetni\obj\Debug\net8.0\ref\done_ucetni.dll

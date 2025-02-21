@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_vypis_do_tabulky\done_vypis_do_tabulky\bin\Debug\net8.0\done_vypis_do_tabulky.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_vypis_do_tabulky\done_vypis_do_tabulky\bin\Debug\net8.0\done_vypis_do_tabulky.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_vypis_do_tabulky\done_vypis_do_tabulky\bin\Debug\net8.0\done_vypis_do_tabulky.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_vypis_do_tabulky\done_vypis_do_tabulky\bin\Debug\net8.0\done_vypis_do_tabulky.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_vypis_do_tabulky\done_vypis_do_tabulky\bin\Debug\net8.0\done_vypis_do_tabulky.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_vypis_do_tabulky\done_vypis_do_tabulky\obj\Debug\net8.0\done_vypis_do_tabulky.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_vypis_do_tabulky\done_vypis_do_tabulky\obj\Debug\net8.0\done_vypis_do_tabulky.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_vypis_do_tabulky\done_vypis_do_tabulky\obj\Debug\net8.0\done_vypis_do_tabulky.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_vypis_do_tabulky\done_vypis_do_tabulky\obj\Debug\net8.0\done_vypis_do_tabulky.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_vypis_do_tabulky\done_vypis_do_tabulky\obj\Debug\net8.0\done_vypis_do_tabulky.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_vypis_do_tabulky\done_vypis_do_tabulky\obj\Debug\net8.0\done_vypis_do_tabulky.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_vypis_do_tabulky\done_vypis_do_tabulky\obj\Debug\net8.0\refint\done_vypis_do_tabulky.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_vypis_do_tabulky\done_vypis_do_tabulky\obj\Debug\net8.0\done_vypis_do_tabulky.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_vypis_do_tabulky\done_vypis_do_tabulky\obj\Debug\net8.0\done_vypis_do_tabulky.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\done_vypis_do_tabulky\done_vypis_do_tabulky\obj\Debug\net8.0\ref\done_vypis_do_tabulky.dll
