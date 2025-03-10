@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\had_2dpole\had_2dpole\bin\Debug\net8.0\had_2dpole.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\had_2dpole\had_2dpole\bin\Debug\net8.0\had_2dpole.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\had_2dpole\had_2dpole\bin\Debug\net8.0\had_2dpole.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\had_2dpole\had_2dpole\bin\Debug\net8.0\had_2dpole.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\had_2dpole\had_2dpole\bin\Debug\net8.0\had_2dpole.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\had_2dpole\had_2dpole\obj\Debug\net8.0\had_2dpole.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\had_2dpole\had_2dpole\obj\Debug\net8.0\had_2dpole.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\had_2dpole\had_2dpole\obj\Debug\net8.0\had_2dpole.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\had_2dpole\had_2dpole\obj\Debug\net8.0\had_2dpole.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\had_2dpole\had_2dpole\obj\Debug\net8.0\had_2dpole.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\had_2dpole\had_2dpole\obj\Debug\net8.0\had_2dpole.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\had_2dpole\had_2dpole\obj\Debug\net8.0\refint\had_2dpole.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\had_2dpole\had_2dpole\obj\Debug\net8.0\had_2dpole.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\had_2dpole\had_2dpole\obj\Debug\net8.0\had_2dpole.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\had_2dpole\had_2dpole\obj\Debug\net8.0\ref\had_2dpole.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh7\\sachovnice_done\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51B22575-ECF3-4457-8327-2E04519CAE6F}|sachovnice_done\\sachovnice_done.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\okruh7\\sachovnice_done\\sachovnice_done\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B22575-ECF3-4457-8327-2E04519CAE6F}|sachovnice_done\\sachovnice_done.csproj|solutionrelative:sachovnice_done\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh7\\sachovnice_done\\sachovnice_done\\Program.cs",
+              "RelativeDocumentMoniker": "sachovnice_done\\Program.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\okruh7\\sachovnice_done\\sachovnice_done\\Program.cs*",
+              "RelativeToolTip": "sachovnice_done\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:48:46.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

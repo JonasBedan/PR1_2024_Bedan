@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\dynamicka_struktura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B12589-C76E-4997-BF05-A7DBDAD96921}|dynamicka_struktura\\dynamicka_struktura.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\dynamicka_struktura\\dynamicka_struktura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B12589-C76E-4997-BF05-A7DBDAD96921}|dynamicka_struktura\\dynamicka_struktura.csproj|solutionrelative:dynamicka_struktura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\dynamicka_struktura\\dynamicka_struktura\\Program.cs",
+              "RelativeDocumentMoniker": "dynamicka_struktura\\Program.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\dynamicka_struktura\\dynamicka_struktura\\Program.cs*",
+              "RelativeToolTip": "dynamicka_struktura\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:28:19.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

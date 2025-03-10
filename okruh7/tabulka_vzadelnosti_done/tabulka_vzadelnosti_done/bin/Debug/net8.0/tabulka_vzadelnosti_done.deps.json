@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tabulka_vzadelnosti_done/1.0.0": {
+        "runtime": {
+          "tabulka_vzadelnosti_done.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tabulka_vzadelnosti_done/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

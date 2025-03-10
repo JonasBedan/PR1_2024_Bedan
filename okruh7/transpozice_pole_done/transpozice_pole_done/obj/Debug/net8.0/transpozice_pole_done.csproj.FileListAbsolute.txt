@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\transpozice_pole_done\transpozice_pole_done\bin\Debug\net8.0\transpozice_pole_done.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\transpozice_pole_done\transpozice_pole_done\bin\Debug\net8.0\transpozice_pole_done.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\transpozice_pole_done\transpozice_pole_done\bin\Debug\net8.0\transpozice_pole_done.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\transpozice_pole_done\transpozice_pole_done\bin\Debug\net8.0\transpozice_pole_done.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\transpozice_pole_done\transpozice_pole_done\bin\Debug\net8.0\transpozice_pole_done.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\transpozice_pole_done\transpozice_pole_done\obj\Debug\net8.0\transpozice_pole_done.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\transpozice_pole_done\transpozice_pole_done\obj\Debug\net8.0\transpozice_pole_done.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\transpozice_pole_done\transpozice_pole_done\obj\Debug\net8.0\transpozice_pole_done.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\transpozice_pole_done\transpozice_pole_done\obj\Debug\net8.0\transpozice_pole_done.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\transpozice_pole_done\transpozice_pole_done\obj\Debug\net8.0\transpozice_pole_done.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\transpozice_pole_done\transpozice_pole_done\obj\Debug\net8.0\transpozice_pole_done.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\transpozice_pole_done\transpozice_pole_done\obj\Debug\net8.0\refint\transpozice_pole_done.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\transpozice_pole_done\transpozice_pole_done\obj\Debug\net8.0\transpozice_pole_done.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\transpozice_pole_done\transpozice_pole_done\obj\Debug\net8.0\transpozice_pole_done.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\transpozice_pole_done\transpozice_pole_done\obj\Debug\net8.0\ref\transpozice_pole_done.dll

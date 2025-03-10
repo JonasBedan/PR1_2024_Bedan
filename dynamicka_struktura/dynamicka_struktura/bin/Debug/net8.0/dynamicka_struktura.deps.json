@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dynamicka_struktura/1.0.0": {
+        "runtime": {
+          "dynamicka_struktura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dynamicka_struktura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

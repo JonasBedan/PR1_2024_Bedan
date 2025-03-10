@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\dynamicka_struktura\dynamicka_struktura\bin\Debug\net8.0\dynamicka_struktura.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\dynamicka_struktura\dynamicka_struktura\bin\Debug\net8.0\dynamicka_struktura.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\dynamicka_struktura\dynamicka_struktura\bin\Debug\net8.0\dynamicka_struktura.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\dynamicka_struktura\dynamicka_struktura\bin\Debug\net8.0\dynamicka_struktura.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\dynamicka_struktura\dynamicka_struktura\bin\Debug\net8.0\dynamicka_struktura.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\dynamicka_struktura\dynamicka_struktura\obj\Debug\net8.0\dynamicka_struktura.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\dynamicka_struktura\dynamicka_struktura\obj\Debug\net8.0\dynamicka_struktura.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\dynamicka_struktura\dynamicka_struktura\obj\Debug\net8.0\dynamicka_struktura.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\dynamicka_struktura\dynamicka_struktura\obj\Debug\net8.0\dynamicka_struktura.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\dynamicka_struktura\dynamicka_struktura\obj\Debug\net8.0\dynamicka_struktura.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\dynamicka_struktura\dynamicka_struktura\obj\Debug\net8.0\dynamicka_struktura.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\dynamicka_struktura\dynamicka_struktura\obj\Debug\net8.0\refint\dynamicka_struktura.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\dynamicka_struktura\dynamicka_struktura\obj\Debug\net8.0\dynamicka_struktura.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\dynamicka_struktura\dynamicka_struktura\obj\Debug\net8.0\dynamicka_struktura.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\dynamicka_struktura\dynamicka_struktura\obj\Debug\net8.0\ref\dynamicka_struktura.dll

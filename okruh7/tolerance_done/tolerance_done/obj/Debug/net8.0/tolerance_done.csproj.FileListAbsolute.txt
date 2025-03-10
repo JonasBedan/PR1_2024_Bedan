@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tolerance_done\tolerance_done\bin\Debug\net8.0\tolerance_done.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tolerance_done\tolerance_done\bin\Debug\net8.0\tolerance_done.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tolerance_done\tolerance_done\bin\Debug\net8.0\tolerance_done.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tolerance_done\tolerance_done\bin\Debug\net8.0\tolerance_done.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tolerance_done\tolerance_done\bin\Debug\net8.0\tolerance_done.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tolerance_done\tolerance_done\obj\Debug\net8.0\tolerance_done.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tolerance_done\tolerance_done\obj\Debug\net8.0\tolerance_done.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tolerance_done\tolerance_done\obj\Debug\net8.0\tolerance_done.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tolerance_done\tolerance_done\obj\Debug\net8.0\tolerance_done.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tolerance_done\tolerance_done\obj\Debug\net8.0\tolerance_done.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tolerance_done\tolerance_done\obj\Debug\net8.0\tolerance_done.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tolerance_done\tolerance_done\obj\Debug\net8.0\refint\tolerance_done.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tolerance_done\tolerance_done\obj\Debug\net8.0\tolerance_done.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tolerance_done\tolerance_done\obj\Debug\net8.0\tolerance_done.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tolerance_done\tolerance_done\obj\Debug\net8.0\ref\tolerance_done.dll

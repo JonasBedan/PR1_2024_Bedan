@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tabulka_vzadelnosti_done\tabulka_vzadelnosti_done\bin\Debug\net8.0\tabulka_vzadelnosti_done.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tabulka_vzadelnosti_done\tabulka_vzadelnosti_done\bin\Debug\net8.0\tabulka_vzadelnosti_done.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tabulka_vzadelnosti_done\tabulka_vzadelnosti_done\bin\Debug\net8.0\tabulka_vzadelnosti_done.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tabulka_vzadelnosti_done\tabulka_vzadelnosti_done\bin\Debug\net8.0\tabulka_vzadelnosti_done.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tabulka_vzadelnosti_done\tabulka_vzadelnosti_done\bin\Debug\net8.0\tabulka_vzadelnosti_done.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tabulka_vzadelnosti_done\tabulka_vzadelnosti_done\obj\Debug\net8.0\tabulka_vzadelnosti_done.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tabulka_vzadelnosti_done\tabulka_vzadelnosti_done\obj\Debug\net8.0\tabulka_vzadelnosti_done.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tabulka_vzadelnosti_done\tabulka_vzadelnosti_done\obj\Debug\net8.0\tabulka_vzadelnosti_done.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tabulka_vzadelnosti_done\tabulka_vzadelnosti_done\obj\Debug\net8.0\tabulka_vzadelnosti_done.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tabulka_vzadelnosti_done\tabulka_vzadelnosti_done\obj\Debug\net8.0\tabulka_vzadelnosti_done.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tabulka_vzadelnosti_done\tabulka_vzadelnosti_done\obj\Debug\net8.0\tabulka_vzadelnosti_done.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tabulka_vzadelnosti_done\tabulka_vzadelnosti_done\obj\Debug\net8.0\refint\tabulka_vzadelnosti_done.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tabulka_vzadelnosti_done\tabulka_vzadelnosti_done\obj\Debug\net8.0\tabulka_vzadelnosti_done.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tabulka_vzadelnosti_done\tabulka_vzadelnosti_done\obj\Debug\net8.0\tabulka_vzadelnosti_done.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\tabulka_vzadelnosti_done\tabulka_vzadelnosti_done\obj\Debug\net8.0\ref\tabulka_vzadelnosti_done.dll

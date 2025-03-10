@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\sachovnice_done\sachovnice_done\bin\Debug\net8.0\sachovnice_done.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\sachovnice_done\sachovnice_done\bin\Debug\net8.0\sachovnice_done.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\sachovnice_done\sachovnice_done\bin\Debug\net8.0\sachovnice_done.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\sachovnice_done\sachovnice_done\bin\Debug\net8.0\sachovnice_done.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\sachovnice_done\sachovnice_done\bin\Debug\net8.0\sachovnice_done.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\sachovnice_done\sachovnice_done\obj\Debug\net8.0\sachovnice_done.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\sachovnice_done\sachovnice_done\obj\Debug\net8.0\sachovnice_done.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\sachovnice_done\sachovnice_done\obj\Debug\net8.0\sachovnice_done.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\sachovnice_done\sachovnice_done\obj\Debug\net8.0\sachovnice_done.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\sachovnice_done\sachovnice_done\obj\Debug\net8.0\sachovnice_done.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\sachovnice_done\sachovnice_done\obj\Debug\net8.0\sachovnice_done.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\sachovnice_done\sachovnice_done\obj\Debug\net8.0\refint\sachovnice_done.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\sachovnice_done\sachovnice_done\obj\Debug\net8.0\sachovnice_done.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\sachovnice_done\sachovnice_done\obj\Debug\net8.0\sachovnice_done.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\okruh7\sachovnice_done\sachovnice_done\obj\Debug\net8.0\ref\sachovnice_done.dll
