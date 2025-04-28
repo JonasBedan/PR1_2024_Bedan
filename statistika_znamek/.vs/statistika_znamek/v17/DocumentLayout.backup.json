@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\statistika_znamek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBE9E24-6F12-4A6D-BF4E-159409C43456}|statistika_znamek\\statistika_znamek.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\statistika_znamek\\statistika_znamek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBE9E24-6F12-4A6D-BF4E-159409C43456}|statistika_znamek\\statistika_znamek.csproj|solutionrelative:statistika_znamek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\statistika_znamek\\statistika_znamek\\Program.cs",
+              "RelativeDocumentMoniker": "statistika_znamek\\Program.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\statistika_znamek\\statistika_znamek\\Program.cs*",
+              "RelativeToolTip": "statistika_znamek\\Program.cs*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwCYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:55:18.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

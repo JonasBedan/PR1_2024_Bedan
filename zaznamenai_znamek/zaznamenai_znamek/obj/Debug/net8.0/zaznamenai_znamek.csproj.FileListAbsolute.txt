@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\zaznamenai_znamek\zaznamenai_znamek\bin\Debug\net8.0\zaznamenai_znamek.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\zaznamenai_znamek\zaznamenai_znamek\bin\Debug\net8.0\zaznamenai_znamek.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\zaznamenai_znamek\zaznamenai_znamek\bin\Debug\net8.0\zaznamenai_znamek.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\zaznamenai_znamek\zaznamenai_znamek\bin\Debug\net8.0\zaznamenai_znamek.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\zaznamenai_znamek\zaznamenai_znamek\bin\Debug\net8.0\zaznamenai_znamek.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\zaznamenai_znamek\zaznamenai_znamek\obj\Debug\net8.0\zaznamenai_znamek.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\zaznamenai_znamek\zaznamenai_znamek\obj\Debug\net8.0\zaznamenai_znamek.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\zaznamenai_znamek\zaznamenai_znamek\obj\Debug\net8.0\zaznamenai_znamek.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\zaznamenai_znamek\zaznamenai_znamek\obj\Debug\net8.0\zaznamenai_znamek.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\zaznamenai_znamek\zaznamenai_znamek\obj\Debug\net8.0\zaznamenai_znamek.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\zaznamenai_znamek\zaznamenai_znamek\obj\Debug\net8.0\zaznamenai_znamek.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\zaznamenai_znamek\zaznamenai_znamek\obj\Debug\net8.0\refint\zaznamenai_znamek.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\zaznamenai_znamek\zaznamenai_znamek\obj\Debug\net8.0\zaznamenai_znamek.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\zaznamenai_znamek\zaznamenai_znamek\obj\Debug\net8.0\zaznamenai_znamek.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\zaznamenai_znamek\zaznamenai_znamek\obj\Debug\net8.0\ref\zaznamenai_znamek.dll

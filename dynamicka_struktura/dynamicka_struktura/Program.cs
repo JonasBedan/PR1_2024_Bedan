@@ -33,7 +33,7 @@
                         break;
                     case 3:
                         int celk_cena = 0;
-                        foreach(var i in kosik)//sečtení ceny 
+                        foreach (var i in kosik)//sečtení ceny 
                         {
                             celk_cena += i.Value;
                         }

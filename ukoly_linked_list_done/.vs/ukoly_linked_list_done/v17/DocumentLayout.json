@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\ukoly_linked_list_done\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBADCF7-47AB-4C7A-96AC-83108D804BF5}|ukoly_linked_list_done\\ukoly_linked_list_done.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\ukoly_linked_list_done\\ukoly_linked_list_done\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBADCF7-47AB-4C7A-96AC-83108D804BF5}|ukoly_linked_list_done\\ukoly_linked_list_done.csproj|solutionrelative:ukoly_linked_list_done\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\ukoly_linked_list_done\\ukoly_linked_list_done\\Program.cs",
+              "RelativeDocumentMoniker": "ukoly_linked_list_done\\Program.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\ukoly_linked_list_done\\ukoly_linked_list_done\\Program.cs",
+              "RelativeToolTip": "ukoly_linked_list_done\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwC8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:39:33.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\eshop_oop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6647AAE9-D5A9-4265-8661-821403B77561}|eshop_oop\\eshop_oop.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\eshop_oop\\eshop_oop\\eshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6647AAE9-D5A9-4265-8661-821403B77561}|eshop_oop\\eshop_oop.csproj|solutionrelative:eshop_oop\\eshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6647AAE9-D5A9-4265-8661-821403B77561}|eshop_oop\\eshop_oop.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\eshop_oop\\eshop_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6647AAE9-D5A9-4265-8661-821403B77561}|eshop_oop\\eshop_oop.csproj|solutionrelative:eshop_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6647AAE9-D5A9-4265-8661-821403B77561}|eshop_oop\\eshop_oop.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\eshop_oop\\eshop_oop\\polozka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6647AAE9-D5A9-4265-8661-821403B77561}|eshop_oop\\eshop_oop.csproj|solutionrelative:eshop_oop\\polozka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Eshop.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\eshop_oop\\eshop_oop\\Eshop.cs",
+              "RelativeDocumentMoniker": "eshop_oop\\Eshop.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\eshop_oop\\eshop_oop\\Eshop.cs",
+              "RelativeToolTip": "eshop_oop\\Eshop.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:19:57.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Polozka.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\eshop_oop\\eshop_oop\\Polozka.cs",
+              "RelativeDocumentMoniker": "eshop_oop\\Polozka.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\eshop_oop\\eshop_oop\\Polozka.cs",
+              "RelativeToolTip": "eshop_oop\\Polozka.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:19:45.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\eshop_oop\\eshop_oop\\Program.cs",
+              "RelativeDocumentMoniker": "eshop_oop\\Program.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\eshop_oop\\eshop_oop\\Program.cs",
+              "RelativeToolTip": "eshop_oop\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:19:29.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

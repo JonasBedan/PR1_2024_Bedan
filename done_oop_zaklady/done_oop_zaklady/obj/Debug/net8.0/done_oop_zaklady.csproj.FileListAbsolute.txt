@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_oop_zaklady\done_oop_zaklady\bin\Debug\net8.0\done_oop_zaklady.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_oop_zaklady\done_oop_zaklady\bin\Debug\net8.0\done_oop_zaklady.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_oop_zaklady\done_oop_zaklady\bin\Debug\net8.0\done_oop_zaklady.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_oop_zaklady\done_oop_zaklady\bin\Debug\net8.0\done_oop_zaklady.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_oop_zaklady\done_oop_zaklady\bin\Debug\net8.0\done_oop_zaklady.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_oop_zaklady\done_oop_zaklady\obj\Debug\net8.0\done_oop_zaklady.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_oop_zaklady\done_oop_zaklady\obj\Debug\net8.0\done_oop_zaklady.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_oop_zaklady\done_oop_zaklady\obj\Debug\net8.0\done_oop_zaklady.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_oop_zaklady\done_oop_zaklady\obj\Debug\net8.0\done_oop_zaklady.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_oop_zaklady\done_oop_zaklady\obj\Debug\net8.0\done_oop_zaklady.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_oop_zaklady\done_oop_zaklady\obj\Debug\net8.0\done_oop_zaklady.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_oop_zaklady\done_oop_zaklady\obj\Debug\net8.0\refint\done_oop_zaklady.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_oop_zaklady\done_oop_zaklady\obj\Debug\net8.0\done_oop_zaklady.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_oop_zaklady\done_oop_zaklady\obj\Debug\net8.0\done_oop_zaklady.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_oop_zaklady\done_oop_zaklady\obj\Debug\net8.0\ref\done_oop_zaklady.dll

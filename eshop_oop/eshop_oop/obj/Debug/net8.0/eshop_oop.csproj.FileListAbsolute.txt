@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\eshop_oop\eshop_oop\bin\Debug\net8.0\eshop_oop.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\eshop_oop\eshop_oop\bin\Debug\net8.0\eshop_oop.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\eshop_oop\eshop_oop\bin\Debug\net8.0\eshop_oop.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\eshop_oop\eshop_oop\bin\Debug\net8.0\eshop_oop.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\eshop_oop\eshop_oop\bin\Debug\net8.0\eshop_oop.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\eshop_oop\eshop_oop\obj\Debug\net8.0\eshop_oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\eshop_oop\eshop_oop\obj\Debug\net8.0\eshop_oop.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\eshop_oop\eshop_oop\obj\Debug\net8.0\eshop_oop.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\eshop_oop\eshop_oop\obj\Debug\net8.0\eshop_oop.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\eshop_oop\eshop_oop\obj\Debug\net8.0\eshop_oop.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\eshop_oop\eshop_oop\obj\Debug\net8.0\eshop_oop.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\eshop_oop\eshop_oop\obj\Debug\net8.0\refint\eshop_oop.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\eshop_oop\eshop_oop\obj\Debug\net8.0\eshop_oop.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\eshop_oop\eshop_oop\obj\Debug\net8.0\eshop_oop.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\eshop_oop\eshop_oop\obj\Debug\net8.0\ref\eshop_oop.dll

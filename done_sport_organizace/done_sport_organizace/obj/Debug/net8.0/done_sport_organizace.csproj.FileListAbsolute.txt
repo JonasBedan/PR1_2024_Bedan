@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_sport_organizace\done_sport_organizace\bin\Debug\net8.0\done_sport_organizace.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_sport_organizace\done_sport_organizace\bin\Debug\net8.0\done_sport_organizace.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_sport_organizace\done_sport_organizace\bin\Debug\net8.0\done_sport_organizace.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_sport_organizace\done_sport_organizace\bin\Debug\net8.0\done_sport_organizace.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_sport_organizace\done_sport_organizace\bin\Debug\net8.0\done_sport_organizace.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_sport_organizace\done_sport_organizace\obj\Debug\net8.0\done_sport_organizace.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_sport_organizace\done_sport_organizace\obj\Debug\net8.0\done_sport_organizace.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_sport_organizace\done_sport_organizace\obj\Debug\net8.0\done_sport_organizace.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_sport_organizace\done_sport_organizace\obj\Debug\net8.0\done_sport_organizace.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_sport_organizace\done_sport_organizace\obj\Debug\net8.0\done_sport_organizace.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_sport_organizace\done_sport_organizace\obj\Debug\net8.0\done_sport_organizace.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_sport_organizace\done_sport_organizace\obj\Debug\net8.0\refint\done_sport_organizace.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_sport_organizace\done_sport_organizace\obj\Debug\net8.0\done_sport_organizace.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_sport_organizace\done_sport_organizace\obj\Debug\net8.0\done_sport_organizace.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\done_sport_organizace\done_sport_organizace\obj\Debug\net8.0\ref\done_sport_organizace.dll
