@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/6h9DWO85Cg=",
+  "success": true,
+  "projectFilePath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\rocnikovy_projekt\\rocnikovy_projekt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonas\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

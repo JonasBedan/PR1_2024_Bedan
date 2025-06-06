@@ -1,0 +1,29 @@
+[
+  {
+    "name": "jonas",
+    "PasswordHash": null,
+    "assignments": [
+      {
+        "jmeno": "vyven\u010Dit psa",
+        "splneno": false,
+        "datum_splneni": null
+      },
+      {
+        "jmeno": "jit ven",
+        "splneno": false,
+        "datum_splneni": null
+      }
+    ]
+  },
+  {
+    "name": "a",
+    "PasswordHash": "$2a$11$hUpeFCyj7ZmZteJ5uVDuc.I6hBvys8PCAjLghAMzn/5nRUtQNB5mO",
+    "assignments": [
+      {
+        "jmeno": "jit ven",
+        "splneno": true,
+        "datum_splneni": "2025-06-02T10:25:52.2638275+02:00"
+      }
+    ]
+  }
+]
