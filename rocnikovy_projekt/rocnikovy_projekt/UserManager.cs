@@ -17,7 +17,7 @@ namespace rocnikovy_projekt
             LoadUsers();
         }
 
-        private void LoadUsers()
+        private void LoadUsers()//načte uživatele
         {
             if (File.Exists(FilePath))
             {
@@ -26,13 +26,13 @@ namespace rocnikovy_projekt
             }
         }
 
-        private void SaveUsers()
+        private void SaveUsers()//uloží uživatele do jsonu
         {
             string json = JsonSerializer.Serialize(users, new JsonSerializerOptions { WriteIndented = true });
             File.WriteAllText(FilePath, json);
         }
 
-        public bool Register(string username, string hashedPassword)
+        public bool Register(string username, string hashedPassword)//registruje nového uživatele
         {
             if (users.Any(u => u.name == username))
                 return false;
@@ -41,12 +41,12 @@ namespace rocnikovy_projekt
             return true;
         }
 
-        public bool Login(string username, string password)
+        public bool Login(string username, string password)//přihlásí uživatele
         {
             return users.Any(u => u.name == username && u.PasswordHash == password);
         }
 
-        public bool AddAssingmentToUser(string username, string assignment) 
+        public bool AddAssingmentToUser(string username, string assignment)//přidá uživateli assignment 
         {
             var user = users.FirstOrDefault(u => u.name == username);
             Assingment Aassignment = new Assingment(assignment, false);
@@ -59,13 +59,13 @@ namespace rocnikovy_projekt
             return false;
         }
 
-        public List<Assingment> GetAssingmentOfUser (string username)
+        public List<Assingment> GetAssingmentOfUser (string username)//najde assignment uživatele
         {
             var user = users.FirstOrDefault(u => u.name == username);
             return user?.assignments ?? new List<Assingment>();
         }
 
-        public bool RemoveAssingmentToUser(string username, string assignment)
+        public bool RemoveAssingmentToUser(string username, string assignment)//odebere assingment uživatele
         {
             var user = users.FirstOrDefault(u => u.name == username);
             if (user != null)
@@ -81,7 +81,7 @@ namespace rocnikovy_projekt
                 return false;
         }
 
-        public bool CompleteAssingmentToUser(string userName, string assignment)
+        public bool CompleteAssingmentToUser(string userName, string assignment)//označí assignment jako hotový
         {
             var user = users.FirstOrDefault(u => u.name == userName);
             if (user != null)
@@ -99,7 +99,7 @@ namespace rocnikovy_projekt
             return false;
         }
 
-        public string GetHashForUser(string username)
+        public string GetHashForUser(string username)//hashování hesla
         {
             var user = users.FirstOrDefault(u => u.name == username);
             return user?.PasswordHash;

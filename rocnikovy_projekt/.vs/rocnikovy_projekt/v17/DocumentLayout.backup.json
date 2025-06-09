@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\rocnikovy_projekt\\rocnikovy_projekt\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|solutionrelative:rocnikovy_projekt\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\rocnikovy_projekt\\rocnikovy_projekt\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|solutionrelative:rocnikovy_projekt\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\rocnikovy_projekt\\rocnikovy_projekt\\assingment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|solutionrelative:rocnikovy_projekt\\assingment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\rocnikovy_projekt\\rocnikovy_projekt\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|solutionrelative:rocnikovy_projekt\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\rocnikovy_projekt\\rocnikovy_projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|solutionrelative:rocnikovy_projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\rocnikovy_projekt\\rocnikovy_projekt\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|solutionrelative:rocnikovy_projekt\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,43 +26,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UserManager.cs",
               "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\rocnikovy_projekt\\UserManager.cs",
               "RelativeDocumentMoniker": "rocnikovy_projekt\\UserManager.cs",
               "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\rocnikovy_projekt\\UserManager.cs",
               "RelativeToolTip": "rocnikovy_projekt\\UserManager.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAqwGwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAiwG0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T07:41:11.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\rocnikovy_projekt\\User.cs",
               "RelativeDocumentMoniker": "rocnikovy_projekt\\User.cs",
               "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\rocnikovy_projekt\\User.cs",
               "RelativeToolTip": "rocnikovy_projekt\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T07:38:12.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\rocnikovy_projekt\\Program.cs",
               "RelativeDocumentMoniker": "rocnikovy_projekt\\Program.cs",
               "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\rocnikovy_projekt\\Program.cs",
               "RelativeToolTip": "rocnikovy_projekt\\Program.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAqwIcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T07:53:00.421Z",
               "EditorCaption": ""
@@ -75,7 +75,7 @@
               "RelativeDocumentMoniker": "rocnikovy_projekt\\Assingment.cs",
               "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\rocnikovy_projekt\\Assingment.cs",
               "RelativeToolTip": "rocnikovy_projekt\\Assingment.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwB4AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T08:10:38.926Z",
               "EditorCaption": ""
