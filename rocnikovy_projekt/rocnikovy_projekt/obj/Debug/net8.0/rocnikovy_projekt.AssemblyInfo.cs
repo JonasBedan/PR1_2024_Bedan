@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rocnikovy_projekt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f227cd0078eb781a9f6278cbb4481e58fc558d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34f64e27767d3fb577e620086c38767c54ad4157")]
 [assembly: System.Reflection.AssemblyProductAttribute("rocnikovy_projekt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rocnikovy_projekt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

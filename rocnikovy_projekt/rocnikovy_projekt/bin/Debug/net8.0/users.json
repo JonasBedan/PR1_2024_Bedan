@@ -25,5 +25,16 @@
         "datum_splneni": "2025-06-02T10:25:52.2638275+02:00"
       }
     ]
+  },
+  {
+    "name": "veronika",
+    "PasswordHash": "$2a$11$6uQSKDyrsNr7NYUQ5yYvDub5/FdaKRroVhfSbKGV4GaFekfC18hEi",
+    "assignments": [
+      {
+        "jmeno": "test",
+        "splneno": true,
+        "datum_splneni": "2025-06-09T10:00:25.7871236+02:00"
+      }
+    ]
   }
 ]
