@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\uloha1\uloha1\bin\Debug\net8.0\uloha1.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\uloha1\uloha1\bin\Debug\net8.0\uloha1.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\uloha1\uloha1\bin\Debug\net8.0\uloha1.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\uloha1\uloha1\bin\Debug\net8.0\uloha1.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\uloha1\uloha1\bin\Debug\net8.0\uloha1.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\uloha1\uloha1\obj\Debug\net8.0\uloha1.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\uloha1\uloha1\obj\Debug\net8.0\uloha1.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\uloha1\uloha1\obj\Debug\net8.0\uloha1.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\uloha1\uloha1\obj\Debug\net8.0\uloha1.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\uloha1\uloha1\obj\Debug\net8.0\uloha1.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\uloha1\uloha1\obj\Debug\net8.0\uloha1.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\uloha1\uloha1\obj\Debug\net8.0\refint\uloha1.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\uloha1\uloha1\obj\Debug\net8.0\uloha1.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\uloha1\uloha1\obj\Debug\net8.0\uloha1.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\uloha1\uloha1\obj\Debug\net8.0\ref\uloha1.dll

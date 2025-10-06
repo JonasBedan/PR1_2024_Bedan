@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\done_sport_organizace\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{246014EF-5E98-4C20-89C6-C375CF550C72}|done_sport_organizace\\done_sport_organizace.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\done_sport_organizace\\done_sport_organizace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{246014EF-5E98-4C20-89C6-C375CF550C72}|done_sport_organizace\\done_sport_organizace.csproj|solutionrelative:done_sport_organizace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{246014EF-5E98-4C20-89C6-C375CF550C72}|done_sport_organizace\\done_sport_organizace.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\done_sport_organizace\\done_sport_organizace\\kluby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{246014EF-5E98-4C20-89C6-C375CF550C72}|done_sport_organizace\\done_sport_organizace.csproj|solutionrelative:done_sport_organizace\\kluby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{246014EF-5E98-4C20-89C6-C375CF550C72}|done_sport_organizace\\done_sport_organizace.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\done_sport_organizace\\done_sport_organizace\\zapas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{246014EF-5E98-4C20-89C6-C375CF550C72}|done_sport_organizace\\done_sport_organizace.csproj|solutionrelative:done_sport_organizace\\zapas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{246014EF-5E98-4C20-89C6-C375CF550C72}|done_sport_organizace\\done_sport_organizace.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\done_sport_organizace\\done_sport_organizace\\hrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{246014EF-5E98-4C20-89C6-C375CF550C72}|done_sport_organizace\\done_sport_organizace.csproj|solutionrelative:done_sport_organizace\\hrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{246014EF-5E98-4C20-89C6-C375CF550C72}|done_sport_organizace\\done_sport_organizace.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\done_sport_organizace\\done_sport_organizace\\kluby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246014EF-5E98-4C20-89C6-C375CF550C72}|done_sport_organizace\\done_sport_organizace.csproj|solutionrelative:done_sport_organizace\\kluby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{246014EF-5E98-4C20-89C6-C375CF550C72}|done_sport_organizace\\done_sport_organizace.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\done_sport_organizace\\done_sport_organizace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246014EF-5E98-4C20-89C6-C375CF550C72}|done_sport_organizace\\done_sport_organizace.csproj|solutionrelative:done_sport_organizace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Zapas.cs",
               "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\done_sport_organizace\\done_sport_organizace\\Zapas.cs",
               "RelativeDocumentMoniker": "done_sport_organizace\\Zapas.cs",
@@ -38,11 +38,12 @@
               "RelativeToolTip": "done_sport_organizace\\Zapas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T09:20:15.326Z"
+              "WhenOpened": "2025-04-04T09:20:15.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Hrac.cs",
               "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\done_sport_organizace\\done_sport_organizace\\Hrac.cs",
               "RelativeDocumentMoniker": "done_sport_organizace\\Hrac.cs",
@@ -50,33 +51,38 @@
               "RelativeToolTip": "done_sport_organizace\\Hrac.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T09:19:52.894Z"
+              "WhenOpened": "2025-04-04T09:19:52.894Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Kluby.cs",
               "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\done_sport_organizace\\done_sport_organizace\\Kluby.cs",
               "RelativeDocumentMoniker": "done_sport_organizace\\Kluby.cs",
               "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\done_sport_organizace\\done_sport_organizace\\Kluby.cs",
               "RelativeToolTip": "done_sport_organizace\\Kluby.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T09:19:38.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\done_sport_organizace\\done_sport_organizace\\Program.cs",
               "RelativeDocumentMoniker": "done_sport_organizace\\Program.cs",
               "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\done_sport_organizace\\done_sport_organizace\\Program.cs",
               "RelativeToolTip": "done_sport_organizace\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAQwDIAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T09:18:37.31Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

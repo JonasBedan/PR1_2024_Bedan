@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\rocnikovy_projekt\\rocnikovy_projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|solutionrelative:rocnikovy_projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\rocnikovy_projekt\\rocnikovy_projekt\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|solutionrelative:rocnikovy_projekt\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\rocnikovy_projekt\\rocnikovy_projekt\\assingment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|solutionrelative:rocnikovy_projekt\\assingment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\rocnikovy_projekt\\rocnikovy_projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|solutionrelative:rocnikovy_projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserManager.cs",
               "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\rocnikovy_projekt\\UserManager.cs",
               "RelativeDocumentMoniker": "rocnikovy_projekt\\UserManager.cs",
               "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\rocnikovy_projekt\\UserManager.cs",
               "RelativeToolTip": "rocnikovy_projekt\\UserManager.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAADwv2YAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T07:41:11.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T07:41:11.932Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\rocnikovy_projekt\\User.cs",
               "RelativeDocumentMoniker": "rocnikovy_projekt\\User.cs",
@@ -51,25 +50,24 @@
               "RelativeToolTip": "rocnikovy_projekt\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T07:38:12.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T07:38:12.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\rocnikovy_projekt\\Program.cs",
               "RelativeDocumentMoniker": "rocnikovy_projekt\\Program.cs",
               "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\rocnikovy_projekt\\Program.cs",
               "RelativeToolTip": "rocnikovy_projekt\\Program.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAqwIcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T07:53:00.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Assingment.cs",
               "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\rocnikovy_projekt\\Assingment.cs",
               "RelativeDocumentMoniker": "rocnikovy_projekt\\Assingment.cs",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "rocnikovy_projekt\\Assingment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T08:10:38.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T08:10:38.926Z"
             },
             {
               "$type": "Bookmark",

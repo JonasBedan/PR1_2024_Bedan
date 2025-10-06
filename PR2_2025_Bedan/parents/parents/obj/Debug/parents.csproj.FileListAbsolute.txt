@@ -1,0 +1,7 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\parents\parents\bin\Debug\parents.exe.config
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\parents\parents\bin\Debug\parents.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\parents\parents\bin\Debug\parents.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\parents\parents\obj\Debug\parents.csproj.AssemblyReference.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\parents\parents\obj\Debug\parents.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\parents\parents\obj\Debug\parents.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\parents\parents\obj\Debug\parents.pdb

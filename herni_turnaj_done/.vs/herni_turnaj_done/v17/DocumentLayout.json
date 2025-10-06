@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\herni_turnaj_done\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{05171510-1C4C-4523-B955-886F26766B66}|herni_turnaj_done\\herni_turnaj_done.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\herni_turnaj_done\\herni_turnaj_done\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05171510-1C4C-4523-B955-886F26766B66}|herni_turnaj_done\\herni_turnaj_done.csproj|solutionrelative:herni_turnaj_done\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05171510-1C4C-4523-B955-886F26766B66}|herni_turnaj_done\\herni_turnaj_done.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\herni_turnaj_done\\herni_turnaj_done\\hrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05171510-1C4C-4523-B955-886F26766B66}|herni_turnaj_done\\herni_turnaj_done.csproj|solutionrelative:herni_turnaj_done\\hrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{05171510-1C4C-4523-B955-886F26766B66}|herni_turnaj_done\\herni_turnaj_done.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\herni_turnaj_done\\herni_turnaj_done\\turnaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05171510-1C4C-4523-B955-886F26766B66}|herni_turnaj_done\\herni_turnaj_done.csproj|solutionrelative:herni_turnaj_done\\turnaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +23,8 @@
       "RelativeMoniker": "D:0:0:{05171510-1C4C-4523-B955-886F26766B66}|herni_turnaj_done\\herni_turnaj_done.csproj|solutionrelative:herni_turnaj_done\\prihlaska.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05171510-1C4C-4523-B955-886F26766B66}|herni_turnaj_done\\herni_turnaj_done.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\herni_turnaj_done\\herni_turnaj_done\\hrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05171510-1C4C-4523-B955-886F26766B66}|herni_turnaj_done\\herni_turnaj_done.csproj|solutionrelative:herni_turnaj_done\\hrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{05171510-1C4C-4523-B955-886F26766B66}|herni_turnaj_done\\herni_turnaj_done.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\herni_turnaj_done\\herni_turnaj_done\\historie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05171510-1C4C-4523-B955-886F26766B66}|herni_turnaj_done\\herni_turnaj_done.csproj|solutionrelative:herni_turnaj_done\\historie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05171510-1C4C-4523-B955-886F26766B66}|herni_turnaj_done\\herni_turnaj_done.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\herni_turnaj_done\\herni_turnaj_done\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05171510-1C4C-4523-B955-886F26766B66}|herni_turnaj_done\\herni_turnaj_done.csproj|solutionrelative:herni_turnaj_done\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Turnaj.cs",
               "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\herni_turnaj_done\\herni_turnaj_done\\Turnaj.cs",
               "RelativeDocumentMoniker": "herni_turnaj_done\\Turnaj.cs",
               "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\herni_turnaj_done\\herni_turnaj_done\\Turnaj.cs",
               "RelativeToolTip": "herni_turnaj_done\\Turnaj.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBIAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA+wBIAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T08:31:37.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Hra.cs",
               "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\herni_turnaj_done\\herni_turnaj_done\\Hra.cs",
               "RelativeDocumentMoniker": "herni_turnaj_done\\Hra.cs",
@@ -59,12 +59,11 @@
               "RelativeToolTip": "herni_turnaj_done\\Hra.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T08:16:57.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T08:16:57.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Prihlaska.cs",
               "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\herni_turnaj_done\\herni_turnaj_done\\Prihlaska.cs",
               "RelativeDocumentMoniker": "herni_turnaj_done\\Prihlaska.cs",
@@ -72,25 +71,24 @@
               "RelativeToolTip": "herni_turnaj_done\\Prihlaska.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T08:16:38.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T08:16:38.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Hrac.cs",
               "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\herni_turnaj_done\\herni_turnaj_done\\Hrac.cs",
               "RelativeDocumentMoniker": "herni_turnaj_done\\Hrac.cs",
               "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\herni_turnaj_done\\herni_turnaj_done\\Hrac.cs",
               "RelativeToolTip": "herni_turnaj_done\\Hrac.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T08:16:17.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Historie.cs",
               "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\herni_turnaj_done\\herni_turnaj_done\\Historie.cs",
               "RelativeDocumentMoniker": "herni_turnaj_done\\Historie.cs",
@@ -98,21 +96,24 @@
               "RelativeToolTip": "herni_turnaj_done\\Historie.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T08:15:57.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T08:15:57.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\herni_turnaj_done\\herni_turnaj_done\\Program.cs",
               "RelativeDocumentMoniker": "herni_turnaj_done\\Program.cs",
               "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\herni_turnaj_done\\herni_turnaj_done\\Program.cs",
               "RelativeToolTip": "herni_turnaj_done\\Program.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAcwGEAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwDIAAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T07:59:02.655Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

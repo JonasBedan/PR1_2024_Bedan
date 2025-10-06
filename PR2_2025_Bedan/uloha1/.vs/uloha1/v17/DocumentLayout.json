@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\uloha1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F87535-42F8-4AE9-BBDA-5080A17A2842}|uloha1\\uloha1.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\uloha1\\uloha1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F87535-42F8-4AE9-BBDA-5080A17A2842}|uloha1\\uloha1.csproj|solutionrelative:uloha1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\uloha1\\uloha1\\Program.cs",
+              "RelativeDocumentMoniker": "uloha1\\Program.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\uloha1\\uloha1\\Program.cs",
+              "RelativeToolTip": "uloha1\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T09:14:56.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
