@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\rozhrani\\rozhrani\\programator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|solutionrelative:rozhrani\\programator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\rozhrani\\rozhrani\\zamestnanec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|solutionrelative:rozhrani\\zamestnanec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\rozhrani\\rozhrani\\vlak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|solutionrelative:rozhrani\\vlak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\rozhrani\\rozhrani\\ucitel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|solutionrelative:rozhrani\\ucitel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\rozhrani\\rozhrani\\sportovec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|solutionrelative:rozhrani\\sportovec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\rozhrani\\rozhrani\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|solutionrelative:rozhrani\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\rozhrani\\rozhrani\\pracka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|solutionrelative:rozhrani\\pracka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\rozhrani\\rozhrani\\motocykl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|solutionrelative:rozhrani\\motocykl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\rozhrani\\rozhrani\\lednice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|solutionrelative:rozhrani\\lednice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\rozhrani\\rozhrani\\kytara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|solutionrelative:rozhrani\\kytara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\rozhrani\\rozhrani\\ivozidlo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|solutionrelative:rozhrani\\ivozidlo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\rozhrani\\rozhrani\\ispotrebic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|solutionrelative:rozhrani\\ispotrebic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\rozhrani\\rozhrani\\hudebninastroj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|solutionrelative:rozhrani\\hudebninastroj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\rozhrani\\rozhrani\\fotbalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|solutionrelative:rozhrani\\fotbalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\rozhrani\\rozhrani\\buben.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|solutionrelative:rozhrani\\buben.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\rozhrani\\rozhrani\\basketbalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065F1954-E3C1-40B8-8452-463E5AFA9B0D}|rozhrani\\rozhrani.csproj|solutionrelative:rozhrani\\basketbalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\Program.cs",
+              "RelativeDocumentMoniker": "rozhrani\\Program.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\Program.cs",
+              "RelativeToolTip": "rozhrani\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:16:40.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sportovec.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\sportovec.cs",
+              "RelativeDocumentMoniker": "rozhrani\\sportovec.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\sportovec.cs",
+              "RelativeToolTip": "rozhrani\\sportovec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:17:44.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "programator.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\programator.cs",
+              "RelativeDocumentMoniker": "rozhrani\\programator.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\programator.cs",
+              "RelativeToolTip": "rozhrani\\programator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:34:09.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ucitel.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\ucitel.cs",
+              "RelativeDocumentMoniker": "rozhrani\\ucitel.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\ucitel.cs",
+              "RelativeToolTip": "rozhrani\\ucitel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:34:54.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vlak.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\vlak.cs",
+              "RelativeDocumentMoniker": "rozhrani\\vlak.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\vlak.cs",
+              "RelativeToolTip": "rozhrani\\vlak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:37:04.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zamestnanec.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\Zamestnanec.cs",
+              "RelativeDocumentMoniker": "rozhrani\\Zamestnanec.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\Zamestnanec.cs",
+              "RelativeToolTip": "rozhrani\\Zamestnanec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:29:38.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pracka.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\pracka.cs",
+              "RelativeDocumentMoniker": "rozhrani\\pracka.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\pracka.cs",
+              "RelativeToolTip": "rozhrani\\pracka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:23:52.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "motocykl.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\motocykl.cs",
+              "RelativeDocumentMoniker": "rozhrani\\motocykl.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\motocykl.cs",
+              "RelativeToolTip": "rozhrani\\motocykl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:36:55.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "lednice.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\lednice.cs",
+              "RelativeDocumentMoniker": "rozhrani\\lednice.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\lednice.cs",
+              "RelativeToolTip": "rozhrani\\lednice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:23:38.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "kytara.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\kytara.cs",
+              "RelativeDocumentMoniker": "rozhrani\\kytara.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\kytara.cs",
+              "RelativeToolTip": "rozhrani\\kytara.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:27:05.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IVozidlo.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\IVozidlo.cs",
+              "RelativeDocumentMoniker": "rozhrani\\IVozidlo.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\IVozidlo.cs",
+              "RelativeToolTip": "rozhrani\\IVozidlo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:36:10.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISpotrebic.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\ISpotrebic.cs",
+              "RelativeDocumentMoniker": "rozhrani\\ISpotrebic.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\ISpotrebic.cs",
+              "RelativeToolTip": "rozhrani\\ISpotrebic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:22:38.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HudebniNastroj.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\HudebniNastroj.cs",
+              "RelativeDocumentMoniker": "rozhrani\\HudebniNastroj.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\HudebniNastroj.cs",
+              "RelativeToolTip": "rozhrani\\HudebniNastroj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:26:23.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "fotbalista.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\fotbalista.cs",
+              "RelativeDocumentMoniker": "rozhrani\\fotbalista.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\fotbalista.cs",
+              "RelativeToolTip": "rozhrani\\fotbalista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:20:26.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "buben.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\buben.cs",
+              "RelativeDocumentMoniker": "rozhrani\\buben.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\buben.cs",
+              "RelativeToolTip": "rozhrani\\buben.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:27:26.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "basketbalista.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\basketbalista.cs",
+              "RelativeDocumentMoniker": "rozhrani\\basketbalista.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\rozhrani\\rozhrani\\basketbalista.cs",
+              "RelativeToolTip": "rozhrani\\basketbalista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:20:40.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

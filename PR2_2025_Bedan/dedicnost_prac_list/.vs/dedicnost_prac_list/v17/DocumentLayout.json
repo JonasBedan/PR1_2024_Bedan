@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\dedicnost_prac_list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5BC314-CF3F-4491-BC16-69BD1378F88B}|dedicnost_prac_list\\dedicnost_prac_list.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\dedicnost_prac_list\\dedicnost_prac_list\\barevnatiskarna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5BC314-CF3F-4491-BC16-69BD1378F88B}|dedicnost_prac_list\\dedicnost_prac_list.csproj|solutionrelative:dedicnost_prac_list\\barevnatiskarna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5BC314-CF3F-4491-BC16-69BD1378F88B}|dedicnost_prac_list\\dedicnost_prac_list.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\dedicnost_prac_list\\dedicnost_prac_list\\tiskarna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5BC314-CF3F-4491-BC16-69BD1378F88B}|dedicnost_prac_list\\dedicnost_prac_list.csproj|solutionrelative:dedicnost_prac_list\\tiskarna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5BC314-CF3F-4491-BC16-69BD1378F88B}|dedicnost_prac_list\\dedicnost_prac_list.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\dedicnost_prac_list\\dedicnost_prac_list\\kolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5BC314-CF3F-4491-BC16-69BD1378F88B}|dedicnost_prac_list\\dedicnost_prac_list.csproj|solutionrelative:dedicnost_prac_list\\kolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5BC314-CF3F-4491-BC16-69BD1378F88B}|dedicnost_prac_list\\dedicnost_prac_list.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\dedicnost_prac_list\\dedicnost_prac_list\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5BC314-CF3F-4491-BC16-69BD1378F88B}|dedicnost_prac_list\\dedicnost_prac_list.csproj|solutionrelative:dedicnost_prac_list\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5BC314-CF3F-4491-BC16-69BD1378F88B}|dedicnost_prac_list\\dedicnost_prac_list.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\dedicnost_prac_list\\dedicnost_prac_list\\dopravniprostredek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5BC314-CF3F-4491-BC16-69BD1378F88B}|dedicnost_prac_list\\dedicnost_prac_list.csproj|solutionrelative:dedicnost_prac_list\\dopravniprostredek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5BC314-CF3F-4491-BC16-69BD1378F88B}|dedicnost_prac_list\\dedicnost_prac_list.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\dedicnost_prac_list\\dedicnost_prac_list\\ucitel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5BC314-CF3F-4491-BC16-69BD1378F88B}|dedicnost_prac_list\\dedicnost_prac_list.csproj|solutionrelative:dedicnost_prac_list\\ucitel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5BC314-CF3F-4491-BC16-69BD1378F88B}|dedicnost_prac_list\\dedicnost_prac_list.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\dedicnost_prac_list\\dedicnost_prac_list\\programator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5BC314-CF3F-4491-BC16-69BD1378F88B}|dedicnost_prac_list\\dedicnost_prac_list.csproj|solutionrelative:dedicnost_prac_list\\programator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5BC314-CF3F-4491-BC16-69BD1378F88B}|dedicnost_prac_list\\dedicnost_prac_list.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\dedicnost_prac_list\\dedicnost_prac_list\\zamestnanec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5BC314-CF3F-4491-BC16-69BD1378F88B}|dedicnost_prac_list\\dedicnost_prac_list.csproj|solutionrelative:dedicnost_prac_list\\zamestnanec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5BC314-CF3F-4491-BC16-69BD1378F88B}|dedicnost_prac_list\\dedicnost_prac_list.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\dedicnost_prac_list\\dedicnost_prac_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5BC314-CF3F-4491-BC16-69BD1378F88B}|dedicnost_prac_list\\dedicnost_prac_list.csproj|solutionrelative:dedicnost_prac_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "barevnaTiskarna.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\dedicnost_prac_list\\dedicnost_prac_list\\barevnaTiskarna.cs",
+              "RelativeDocumentMoniker": "dedicnost_prac_list\\barevnaTiskarna.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\dedicnost_prac_list\\dedicnost_prac_list\\barevnaTiskarna.cs",
+              "RelativeToolTip": "dedicnost_prac_list\\barevnaTiskarna.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T09:08:00.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tiskarna.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\dedicnost_prac_list\\dedicnost_prac_list\\tiskarna.cs",
+              "RelativeDocumentMoniker": "dedicnost_prac_list\\tiskarna.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\dedicnost_prac_list\\dedicnost_prac_list\\tiskarna.cs",
+              "RelativeToolTip": "dedicnost_prac_list\\tiskarna.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T09:07:42.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ucitel.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\dedicnost_prac_list\\dedicnost_prac_list\\ucitel.cs",
+              "RelativeDocumentMoniker": "dedicnost_prac_list\\ucitel.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\dedicnost_prac_list\\dedicnost_prac_list\\ucitel.cs",
+              "RelativeToolTip": "dedicnost_prac_list\\ucitel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:29:07.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "programator.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\dedicnost_prac_list\\dedicnost_prac_list\\programator.cs",
+              "RelativeDocumentMoniker": "dedicnost_prac_list\\programator.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\dedicnost_prac_list\\dedicnost_prac_list\\programator.cs",
+              "RelativeToolTip": "dedicnost_prac_list\\programator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:28:53.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "zamestnanec.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\dedicnost_prac_list\\dedicnost_prac_list\\zamestnanec.cs",
+              "RelativeDocumentMoniker": "dedicnost_prac_list\\zamestnanec.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\dedicnost_prac_list\\dedicnost_prac_list\\zamestnanec.cs",
+              "RelativeToolTip": "dedicnost_prac_list\\zamestnanec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:28:40.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kolo.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\dedicnost_prac_list\\dedicnost_prac_list\\kolo.cs",
+              "RelativeDocumentMoniker": "dedicnost_prac_list\\kolo.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\dedicnost_prac_list\\dedicnost_prac_list\\kolo.cs",
+              "RelativeToolTip": "dedicnost_prac_list\\kolo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:12:27.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "auto.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\dedicnost_prac_list\\dedicnost_prac_list\\auto.cs",
+              "RelativeDocumentMoniker": "dedicnost_prac_list\\auto.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\dedicnost_prac_list\\dedicnost_prac_list\\auto.cs",
+              "RelativeToolTip": "dedicnost_prac_list\\auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:12:15.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dopravniProstredek.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\dedicnost_prac_list\\dedicnost_prac_list\\dopravniProstredek.cs",
+              "RelativeDocumentMoniker": "dedicnost_prac_list\\dopravniProstredek.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\dedicnost_prac_list\\dedicnost_prac_list\\dopravniProstredek.cs",
+              "RelativeToolTip": "dedicnost_prac_list\\dopravniProstredek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:12:02.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\dedicnost_prac_list\\dedicnost_prac_list\\Program.cs",
+              "RelativeDocumentMoniker": "dedicnost_prac_list\\Program.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\dedicnost_prac_list\\dedicnost_prac_list\\Program.cs",
+              "RelativeToolTip": "dedicnost_prac_list\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:11:26.578Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

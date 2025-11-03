@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\abstrakce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE34349-37A2-4C24-800C-665F6DCE07EA}|abstrakce\\abstrakce.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\abstrakce\\abstrakce\\doprava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE34349-37A2-4C24-800C-665F6DCE07EA}|abstrakce\\abstrakce.csproj|solutionrelative:abstrakce\\doprava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE34349-37A2-4C24-800C-665F6DCE07EA}|abstrakce\\abstrakce.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\abstrakce\\abstrakce\\letadlo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE34349-37A2-4C24-800C-665F6DCE07EA}|abstrakce\\abstrakce.csproj|solutionrelative:abstrakce\\letadlo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE34349-37A2-4C24-800C-665F6DCE07EA}|abstrakce\\abstrakce.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\abstrakce\\abstrakce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE34349-37A2-4C24-800C-665F6DCE07EA}|abstrakce\\abstrakce.csproj|solutionrelative:abstrakce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE34349-37A2-4C24-800C-665F6DCE07EA}|abstrakce\\abstrakce.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\abstrakce\\abstrakce\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE34349-37A2-4C24-800C-665F6DCE07EA}|abstrakce\\abstrakce.csproj|solutionrelative:abstrakce\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "auto.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\abstrakce\\abstrakce\\auto.cs",
+              "RelativeDocumentMoniker": "abstrakce\\auto.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\abstrakce\\abstrakce\\auto.cs",
+              "RelativeToolTip": "abstrakce\\auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:57:20.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "letadlo.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\abstrakce\\abstrakce\\letadlo.cs",
+              "RelativeDocumentMoniker": "abstrakce\\letadlo.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\abstrakce\\abstrakce\\letadlo.cs*",
+              "RelativeToolTip": "abstrakce\\letadlo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:57:06.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "doprava.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\abstrakce\\abstrakce\\doprava.cs",
+              "RelativeDocumentMoniker": "abstrakce\\doprava.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\abstrakce\\abstrakce\\doprava.cs*",
+              "RelativeToolTip": "abstrakce\\doprava.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:54:11.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\abstrakce\\abstrakce\\Program.cs",
+              "RelativeDocumentMoniker": "abstrakce\\Program.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\abstrakce\\abstrakce\\Program.cs*",
+              "RelativeToolTip": "abstrakce\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:53:29.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
