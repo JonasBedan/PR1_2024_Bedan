@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "datove_struktury_studenti/1.0.0": {
+        "runtime": {
+          "datove_struktury_studenti.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "datove_struktury_studenti/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

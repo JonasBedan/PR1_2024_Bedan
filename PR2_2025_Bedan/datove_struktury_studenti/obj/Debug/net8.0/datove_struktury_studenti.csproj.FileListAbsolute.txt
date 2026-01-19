@@ -1,0 +1,15 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\datove_struktury_studenti\obj\Debug\net8.0\datove_struktury_studenti.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\datove_struktury_studenti\obj\Debug\net8.0\datove_struktury_studenti.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\datove_struktury_studenti\obj\Debug\net8.0\datove_struktury_studenti.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\datove_struktury_studenti\obj\Debug\net8.0\datove_struktury_studenti.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\datove_struktury_studenti\obj\Debug\net8.0\datove_struktury_studenti.sourcelink.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\datove_struktury_studenti\bin\Debug\net8.0\datove_struktury_studenti.exe
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\datove_struktury_studenti\bin\Debug\net8.0\datove_struktury_studenti.deps.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\datove_struktury_studenti\bin\Debug\net8.0\datove_struktury_studenti.runtimeconfig.json
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\datove_struktury_studenti\bin\Debug\net8.0\datove_struktury_studenti.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\datove_struktury_studenti\bin\Debug\net8.0\datove_struktury_studenti.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\datove_struktury_studenti\obj\Debug\net8.0\datove_struktury_studenti.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\datove_struktury_studenti\obj\Debug\net8.0\refint\datove_struktury_studenti.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\datove_struktury_studenti\obj\Debug\net8.0\datove_struktury_studenti.pdb
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\datove_struktury_studenti\obj\Debug\net8.0\datove_struktury_studenti.genruntimeconfig.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\datove_struktury_studenti\obj\Debug\net8.0\ref\datove_struktury_studenti.dll

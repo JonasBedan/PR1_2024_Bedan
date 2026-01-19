@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\rocnikovy_projekt\\rocnikovy_projekt\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|solutionrelative:rocnikovy_projekt\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\rocnikovy_projekt\\rocnikovy_projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|solutionrelative:rocnikovy_projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\rocnikovy_projekt\\rocnikovy_projekt\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|solutionrelative:rocnikovy_projekt\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5CA9D1A-7900-4029-8324-75DD01CCAE89}|rocnikovy_projekt\\rocnikovy_projekt.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\rocnikovy_projekt\\rocnikovy_projekt\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserManager.cs",
               "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\rocnikovy_projekt\\UserManager.cs",
               "RelativeDocumentMoniker": "rocnikovy_projekt\\UserManager.cs",
               "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\rocnikovy_projekt\\UserManager.cs",
               "RelativeToolTip": "rocnikovy_projekt\\UserManager.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T07:41:11.932Z",
               "EditorCaption": ""
@@ -55,13 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\rocnikovy_projekt\\Program.cs",
               "RelativeDocumentMoniker": "rocnikovy_projekt\\Program.cs",
               "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\rocnikovy_projekt\\rocnikovy_projekt\\Program.cs",
               "RelativeToolTip": "rocnikovy_projekt\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwIcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwIcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T07:53:00.421Z",
               "EditorCaption": ""
@@ -77,10 +77,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T08:10:38.926Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

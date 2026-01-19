@@ -1,0 +1,5 @@
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\serializace\obj\Debug\net8.0\serializace.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\serializace\obj\Debug\net8.0\serializace.AssemblyInfoInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\serializace\obj\Debug\net8.0\serializace.AssemblyInfo.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\serializace\obj\Debug\net8.0\serializace.csproj.CoreCompileInputs.cache
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\serializace\obj\Debug\net8.0\serializace.sourcelink.json
