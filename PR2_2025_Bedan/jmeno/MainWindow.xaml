@@ -11,12 +11,19 @@
         <TextBox Name="jmeno"  HorizontalAlignment="Left" Margin="188,109,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <Button Name="btnpozdrav" Content="Pozdrav me" HorizontalAlignment="Left" Margin="188,167,0,0" VerticalAlignment="Top" Width="120" Click="btnpozdrav_Click"/>
         <Label Name="lblpozdrav" Content="" HorizontalAlignment="Left" Height="30" Margin="188,132,0,0" VerticalAlignment="Top" Width="120"/>
-        <Button Name="bt1" Content="Button" HorizontalAlignment="Left" Margin="442,187,0,0" VerticalAlignment="Top"/>
-        <Button Name="bt2" Content="Button" HorizontalAlignment="Left" Margin="488,187,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.538,0.42"/>
-        <Button Name="bt3" Content="Button" HorizontalAlignment="Left" Margin="533,187,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.538,0.42"/>
-        <Button Name="btplus" Content="Button" HorizontalAlignment="Left" Margin="578,187,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.538,0.42"/>
-        <Button Name="btequals" Content="Button" HorizontalAlignment="Left" Margin="623,187,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.538,0.42"/>
-        <Label Name="label" Content="Label" HorizontalAlignment="Left" Height="30" Margin="442,147,0,0" VerticalAlignment="Top" Width="193"/>
+        <Button Name="bt1" Content="1" HorizontalAlignment="Left" Margin="442,187,0,0" VerticalAlignment="Top" Click="Cislicko_Click"/>
+        <Button Name="bt2" Content="2" HorizontalAlignment="Left" Margin="488,187,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.538,0.42" Click="Cislicko_Click"/>
+        <Button Name="bt3" Content="3" HorizontalAlignment="Left" Margin="533,187,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.538,0.42" Click="Cislicko_Click"/>
+        <Button Name="btplus" Content="+" HorizontalAlignment="Left" Margin="578,187,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.538,0.42" Click="btplus_Click"/>
+        <Button Name="btequals" Content="=" HorizontalAlignment="Left" Margin="578,217,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.538,0.42" Click="btequals_Click"/>
+        <Label Name="calc" Content="kalkulacka" HorizontalAlignment="Left" Height="30" Margin="442,147,0,0" VerticalAlignment="Top" Width="193"/>
+        <Button x:Name="bt4" Content="4" HorizontalAlignment="Left" Margin="442,217,0,0" VerticalAlignment="Top" Click="Cislicko_Click"/>
+        <Button x:Name="bt5" Content="5" HorizontalAlignment="Left" Margin="488,217,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.538,0.42" Click="Cislicko_Click"/>
+        <Button x:Name="bt6" Content="6" HorizontalAlignment="Left" Margin="533,217,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.538,0.42" Click="Cislicko_Click"/>
+        <Button x:Name="bt7" Content="7" HorizontalAlignment="Left" Margin="442,247,0,0" VerticalAlignment="Top" Click="Cislicko_Click"/>
+        <Button x:Name="bt8" Content="8" HorizontalAlignment="Left" Margin="488,247,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.538,0.42" Click="Cislicko_Click"/>
+        <Button x:Name="bt9" Content="9" HorizontalAlignment="Left" Margin="533,247,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.538,0.42" Click="Cislicko_Click"/>
+        <Button x:Name="bt0" Content="0" HorizontalAlignment="Left" Margin="488,272,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.538,0.42" Click="Cislicko_Click"/>
 
     </Grid>
 </Window>
