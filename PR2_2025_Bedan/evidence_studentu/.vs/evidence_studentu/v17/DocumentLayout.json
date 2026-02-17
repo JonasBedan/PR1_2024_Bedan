@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\evidence_studentu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{144C5065-EB4F-4E8D-89D5-924689EF103B}|evidence_studentu.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\evidence_studentu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{144C5065-EB4F-4E8D-89D5-924689EF103B}|evidence_studentu.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C5065-EB4F-4E8D-89D5-924689EF103B}|evidence_studentu.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\evidence_studentu\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C5065-EB4F-4E8D-89D5-924689EF103B}|evidence_studentu.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C5065-EB4F-4E8D-89D5-924689EF103B}|evidence_studentu.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\evidence_studentu\\studenti.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{144C5065-EB4F-4E8D-89D5-924689EF103B}|evidence_studentu.csproj|solutionrelative:studenti.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C5065-EB4F-4E8D-89D5-924689EF103B}|evidence_studentu.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\evidence_studentu\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{144C5065-EB4F-4E8D-89D5-924689EF103B}|evidence_studentu.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C5065-EB4F-4E8D-89D5-924689EF103B}|evidence_studentu.csproj|c:\\pr1_2024_bedan\\pr1_2024_bedan\\pr2_2025_bedan\\evidence_studentu\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C5065-EB4F-4E8D-89D5-924689EF103B}|evidence_studentu.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\evidence_studentu\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\evidence_studentu\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-16T09:06:45.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "studenti.json",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\evidence_studentu\\studenti.json",
+              "RelativeDocumentMoniker": "studenti.json",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\evidence_studentu\\studenti.json",
+              "RelativeToolTip": "studenti.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-02T08:59:51.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\evidence_studentu\\student.cs",
+              "RelativeDocumentMoniker": "student.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\evidence_studentu\\student.cs",
+              "RelativeToolTip": "student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T09:28:26.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\evidence_studentu\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\evidence_studentu\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-26T09:08:29.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\evidence_studentu\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\PR1_2024_Bedan\\PR1_2024_Bedan\\PR2_2025_Bedan\\evidence_studentu\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAArwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T09:08:24.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

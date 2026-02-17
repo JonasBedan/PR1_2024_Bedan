@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("jmeno")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d124ffac765c103b462ed89874c2c5f0082d31d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+692651a07d4d2b2e390416e88689b26ddc42ac77")]
 [assembly: System.Reflection.AssemblyProductAttribute("jmeno")]
 [assembly: System.Reflection.AssemblyTitleAttribute("jmeno")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
