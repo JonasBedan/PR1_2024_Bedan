@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using MySql.Data.MySqlClient;
+using System;
 
 namespace EvidenceStudentu
 {
@@ -25,7 +27,10 @@ namespace EvidenceStudentu
         public MainWindow()
         {
             InitializeComponent();
+            Database_Loaded();
         }
+
+        private string conn = "server=localhost;port=3306;user id=root;password=;" + "database=studenti;";
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
@@ -70,6 +75,48 @@ namespace EvidenceStudentu
                 // refresh ListBoxu
                 lstbox.ItemsSource = null;
                 lstbox.ItemsSource = seznamStudentu;
+            }
+        }
+        private void Database_Loaded()
+        {
+            try
+            {
+                using (MySqlConnection connection = new MySqlConnection(conn))
+                {
+                    connection.Open();
+                    MessageBox.Show("připojené k databázi bylo úspěšné.");
+                }
+            }
+            catch(Exception ex) 
+            {
+                MessageBox.Show("chyba připojení" + ex.Message);
+            }
+        }
+
+        public void StudentiDatabaze()
+        {
+            using (MySqlConnection connection = new MySqlConnection(conn))
+            {
+                connection.Open();
+
+                string query = "SELECT * FROM Studenti";
+                MySqlCommand cmd = new MySqlCommand(query, connection);
+
+                MySqlDataReader reader = cmd.ExecuteReader();
+
+                while (reader.Read()) 
+                {
+                    if (reader["vek"] != DBNull.Value)
+                    {
+                        Student s = new Student((string)reader["jmeno"], (string)reader["prijmeni"], (int)reader["vek"]);
+                        seznamStudentu.Add(s);
+                    }
+                    else
+                    {
+                        Student s = new Student((string)reader["jmeno"], (string)reader["prijmeni"], 0);
+                        seznamStudentu.Add(s);
+                    }
+                }
             }
         }
 
