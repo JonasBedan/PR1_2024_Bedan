@@ -64,6 +64,15 @@ namespace EvidenceStudentu
 
         }
 
+        private void Button_Click_3(object sender, RoutedEventArgs e)
+        {
+            if (lstbox.SelectedItem is Student vybrany)
+            {
+                var popup = new znamky(vybrany);
+                popup.ShowDialog();
+            }
+        }
+
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
             if (lstbox.SelectedItem is Student vybrany)
@@ -120,25 +129,41 @@ namespace EvidenceStudentu
             }
         }
 
+        public void HodnoceniDatabaze()
+        {
+            using (MySqlConnection connection = new MySqlConnection(conn))
+            {
+                connection.Open();
+
+                string query = "SELECT s.jmeno, z.oznaceni, h.vaha, h.datum FROM studenti s \r\nJOIN hodnoceni h ON h.id_st = s.id \r\nJOIN znamka z ON h.id_zn = z.id";
+                MySqlCommand cmd = new MySqlCommand(query, connection);
+
+                MySqlDataReader reader = cmd.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    string jmeno = (string)reader["jmeno"];
+                    string oznaceni = (string)reader["oznaceni"];
+
+                    Student student = seznamStudentu.FirstOrDefault(s => s.Jmeno == jmeno);
+
+                    if (student != null)
+                    {
+                        hodnoceni znamka = new hodnoceni(oznaceni, (int)reader["vaha"], (DateTime)reader["datum"]);
+                        student.Hodnoceni.Add(znamka);
+                    }
+                    else
+                    {
+                        Student s = new Student((string)reader["jmeno"], (string)reader["prijmeni"], 0);
+                        seznamStudentu.Add(s);
+                    }
+                }
+            }
+        }
+
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
-            string cesta = "studenti.json";
-            //  MessageBox.Show(Environment.CurrentDirectory);
-
-            if (!File.Exists(cesta))
-            {
-                MessageBox.Show("Soubor nebyl nalezen.");
-                return;
-            }
-
-            string json = File.ReadAllText(cesta);
-            var options = new JsonSerializerOptions
-            {
-                PropertyNameCaseInsensitive = true
-            };
-
-            seznamStudentu = JsonSerializer.Deserialize<List<Student>>(json, options);
-
+            StudentiDatabaze();
 
             MessageBox.Show($"Načteno studentů: {seznamStudentu.Count}");
             lstbox.ItemsSource = null;

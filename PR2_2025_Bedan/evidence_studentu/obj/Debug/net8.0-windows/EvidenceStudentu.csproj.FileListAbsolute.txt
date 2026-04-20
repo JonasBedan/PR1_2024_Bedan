@@ -40,3 +40,5 @@ C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\evidence_studentu\bin\Debug\net8
 C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\evidence_studentu\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
 C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\evidence_studentu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
 C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\evidence_studentu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\evidence_studentu\obj\Debug\net8.0-windows\znamky.g.cs
+C:\PR1_2024_Bedan\PR1_2024_Bedan\PR2_2025_Bedan\evidence_studentu\obj\Debug\net8.0-windows\znamky.baml

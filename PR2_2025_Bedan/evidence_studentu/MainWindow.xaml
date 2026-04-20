@@ -87,7 +87,7 @@
                             
                             Click="Button_Click_1" Width="159"/>
                     <Button 
-                            Click="Button_Click_2" Width="159" Margin="10">
+                            Click="Button_Click_2" Width="160">
                         <StackPanel Orientation="Horizontal"
                                     HorizontalAlignment="Center">
                             <TextBlock Text="💾"
@@ -95,6 +95,9 @@
                             <TextBlock Text="Import studentů"/>
                         </StackPanel>
                     </Button>
+                    <Button Content="přidat zámky"
+                            
+                        Click="Button_Click_3" Width="160"/>
 
 
                 </StackPanel>

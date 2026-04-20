@@ -19,6 +19,7 @@ namespace EvidenceStudentu
         public string Prijmeni { get => prijmeni; set => prijmeni = value; }
         public string Jmeno { get => jmeno; set => jmeno = value; }
         public int Id { get => id; set => id = value; }
+        public List<hodnoceni> Hodnoceni { get; set; }
 
 
         public Student(string jmeno, string prijmeni, int vek)
@@ -27,8 +28,11 @@ namespace EvidenceStudentu
             Jmeno = jmeno;
             Prijmeni = prijmeni;
             Vek = vek;
+            Hodnoceni = new List<hodnoceni>();
             pocet++;
         }
+
+
 
 
         public override string ToString()
